@@ -88,7 +88,7 @@ In addition to their math elective, students must complete the following course 
 
 Curso | Duração | Dedicação | Notas | Pré-requisitos | Discução
 :-- | :--: | :--: | :--: | :--: | :--:
-[Introdução à Ciência da Computação com Python Parte 1](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) | 9 Semanas | 4 horas/semana | O Curso ensina Algoritmos e Lógica de Programação com Python | - | [chat](#)
+[Introdução à Ciência da Computação com Python Parte 1](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) | 9 Semanas | 4 horas/semana | Algoritmos; Lógica de Programação; Python; Testes. | - | [chat](#)
 [Fundamentos Matemáticos para Computação](https://www.youtube.com/watch?v=QE6ruiq632o&list=PLrOyM49ctTx-HWypJVvn_zMO1o7oOAfVx) | 9 Semanas | 4 horas/semana | - | - | [chat](#)
 [Português Instrumental](#) | x semanas | x horas/semana | - | - | [chat](#)
 [Introdução à Conceitos de Computação](https://www.youtube.com/playlist?list=PLxI8Can9yAHcMJsy6GQ5URM9kU32ONOy9) | 4 semanas | 2 horas/semana | - | - | [chat](#)
