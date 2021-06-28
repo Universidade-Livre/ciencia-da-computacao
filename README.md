@@ -105,7 +105,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discução
 [Bancos de Dados](https://www.youtube.com/playlist?list=PL4Sl6eAbMK7RSdXPe8lZ7s-xSitGHH4RZ) | 4 Semanas | 3 horas/semana | MER; Projeto de Banco de Dados; Normalização; SQL. | - | [chat](#)
 [Arquitetura de Computadores](https://youtube.com/playlist?list=PLBw9d_OueVJQV_O4qEvC2e5TQ5RZeL9BD) | 4 Semanas | 3 horas/semana | Pipelining; Paralelismo; MIPS; GPU. | Fundamentos da Arquitetura de Computadores  | [chat](#)
 [Estatística e Probabilidade](https://www.youtube.com/playlist?list=PLxI8Can9yAHeeWqe3m9HZFiBhT33Mfxew) | 9 Semanas | 4 horas/semana | Análise Combinatória; Tabelas; Gráficos; Inferência; ANOVA. | Matemática Básica | chat
-[Princípios de Desenvolvimento Ágil de Software](https://pt.coursera.org/learn/principios-de-desenvolvimento-agil-de-software) | 9 Semanas | 4 horas/semana | Análise Combinatória; Tabelas; Gráficos; Inferência; ANOVA. | Matemática Básica | chat
+[Princípios de Desenvolvimento Ágil de Software](https://pt.coursera.org/learn/principios-de-desenvolvimento-agil-de-software) | 9 Semanas | 4 horas/semana | XP; User Stories; Taks; Sprint; Diagramas. | - | chat
 
 ### 4º Semestre
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discução
