@@ -75,7 +75,7 @@ apenas tenha sempre em mente que você não pode comprar o sucesso!
 
 ---
 
-### 1º Semestre - Introdução a Computação
+### Introdução a Computação
 
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discução
 :-- | :--: | :--: | :--: | :--: | :--:
@@ -89,13 +89,14 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discução
 
 -->
 
-### 2º Semestre - Aprofundamento de Conceitos
+### Aprofundamento de Conceitos
 
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discução
 :-- | :--: | :--: | :--: | :--: | :--:
 [Introdução à Ciência da Computação com Python II](https://pt.coursera.org/learn/ciencia-computacao-python-conceitos-2) | 6 Semanas | 4 horas/semana | Matrizes; POO; Recursão; Complexidade de Algoritmos. | Introdução à Ciência da Computação com Python I | [chat](#)
 [Fundamentos Matemáticos para Computação](https://www.youtube.com/watch?v=QE6ruiq632o&list=PLrOyM49ctTx-HWypJVvn_zMO1o7oOAfVx) | 9 Semanas | 4 horas/semana | Lógica Formal; PROLOG; Recursão; Matrizes; Booleanos; Grafos. | Matemática Básica | [chat](#)
 [Fundamentos da Arquitetura de Computadores](https://youtube.com/playlist?list=PLBw9d_OueVJRt6KbZAYA1iQZeCDg-7xCP) | 9 Semanas | 4 horas/semana | Memória; Ponto Flutuante; Instruções; Interrupções; Cache. | - | chat
+[Estatística e Probabilidade](https://www.youtube.com/playlist?list=PLxI8Can9yAHeeWqe3m9HZFiBhT33Mfxew) | 9 Semanas | 4 horas/semana | Análise Combinatória; Tabelas; Gráficos; Inferência; ANOVA. | Matemática Básica | chat
 
 ### 3º Semestre
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discução
@@ -103,6 +104,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discução
 [Programação Orientada a Objetos I](https://pt.coursera.org/learn/lab-poo-parte-1) | 6 Semanas | 4 horas/semana | OOP; Streams; MVC; Design Patterns. | Introdução à Ciência da Computação com Python II | [chat](#)
 [Bancos de Dados](https://www.youtube.com/playlist?list=PL4Sl6eAbMK7RSdXPe8lZ7s-xSitGHH4RZ) | 4 Semanas | 3 horas/semana | MER; Projeto de Banco de Dados; Normalização; SQL. | - | [chat](#)
 [Arquitetura de Computadores](https://youtube.com/playlist?list=PLBw9d_OueVJQV_O4qEvC2e5TQ5RZeL9BD) | 4 Semanas | 3 horas/semana | Pipelining; Paralelismo; MIPS; GPU. | Fundamentos da Arquitetura de Computadores  | [chat](#)
+[Cálculo I](https://www.youtube.com/playlist?list=PL2D9B691A704C6F7B) | 4 Semanas | 3 horas/semana | Funçõpes; Limite; Derivada; Trigonometria; Mat. Espacial. | Matemática Básica | [chat](#)
 
 ### 4º Semestre
 
