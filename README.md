@@ -95,6 +95,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discução
 :-- | :--: | :--: | :--: | :--: | :--:
 [Introdução à Ciência da Computação com Python II](https://pt.coursera.org/learn/ciencia-computacao-python-conceitos-2) | 6 Semanas | 4 horas/semana | Matrizes; POO; Recursão; Complexidade de Algoritmos. | Introdução à Ciência da Computação com Python I | [chat](#)
 [Fundamentos Matemáticos para Computação](https://www.youtube.com/watch?v=QE6ruiq632o&list=PLrOyM49ctTx-HWypJVvn_zMO1o7oOAfVx) | 9 Semanas | 4 horas/semana | Lógica Formal; PROLOG; Recursão; Matrizes; Booleanos; Grafos. | Matemática Básica | [chat](#)
+[Fundamentos da Arquitetura de Computadores](https://youtube.com/playlist?list=PLBw9d_OueVJRt6KbZAYA1iQZeCDg-7xCP) | 9 Semanas | 4 horas/semana | Memória; Ponto Flutuante; Instruções; Interrupções; Cache. | - | chat
 
 ### 3º Semestre
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discução
