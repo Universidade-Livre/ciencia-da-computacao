@@ -105,10 +105,12 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discução
 [Bancos de Dados](https://www.youtube.com/playlist?list=PL4Sl6eAbMK7RSdXPe8lZ7s-xSitGHH4RZ) | 4 Semanas | 3 horas/semana | MER; Projeto de Banco de Dados; Normalização; SQL. | - | [chat](#)
 [Arquitetura de Computadores](https://youtube.com/playlist?list=PLBw9d_OueVJQV_O4qEvC2e5TQ5RZeL9BD) | 4 Semanas | 3 horas/semana | Pipelining; Paralelismo; MIPS; GPU. | Fundamentos da Arquitetura de Computadores  | [chat](#)
 [Estatística e Probabilidade](https://www.youtube.com/playlist?list=PLxI8Can9yAHeeWqe3m9HZFiBhT33Mfxew) | 9 Semanas | 4 horas/semana | Análise Combinatória; Tabelas; Gráficos; Inferência; ANOVA. | Matemática Básica | chat
+[Princípios de Desenvolvimento Ágil de Software](https://pt.coursera.org/learn/principios-de-desenvolvimento-agil-de-software) | 9 Semanas | 4 horas/semana | Análise Combinatória; Tabelas; Gráficos; Inferência; ANOVA. | Matemática Básica | chat
 
 ### 4º Semestre
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discução
 :-- | :--: | :--: | :--: | :--: | :--:
+[Desenvolvimento Ágil com Java Avançado](https://pt.coursera.org/learn/desenvolvimento-agil-com-java-avancado) | 4 Semanas | 3 horas/semana | JDBC; Servlets; Web; Lambda Calculus. | Princípios de Desenvolvimento Ágil de Software, Programação Orientada a Objetos I | [chat](#)
 [Cálculo I](https://www.youtube.com/playlist?list=PL2D9B691A704C6F7B) | 4 Semanas | 3 horas/semana | Funçõpes; Limite; Derivada; Trigonometria; Mat. Espacial. | Matemática Básica | [chat](#)
 
 ### 5º Semestre
