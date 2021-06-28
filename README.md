@@ -109,7 +109,6 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discução
 ### 4º Semestre
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discução
 :-- | :--: | :--: | :--: | :--: | :--:
-
 [Cálculo I](https://www.youtube.com/playlist?list=PL2D9B691A704C6F7B) | 4 Semanas | 3 horas/semana | Funçõpes; Limite; Derivada; Trigonometria; Mat. Espacial. | Matemática Básica | [chat](#)
 
 ### 5º Semestre
