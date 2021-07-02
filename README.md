@@ -112,6 +112,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discução
 :-- | :--: | :--: | :--: | :--: | :--:
 [Desenvolvimento Ágil com Java Avançado](https://pt.coursera.org/learn/desenvolvimento-agil-com-java-avancado) | 4 Semanas | 3 horas/semana | JDBC; Servlets; Web; Lambda Calculus. | Princípios de Desenvolvimento Ágil de Software, Programação Orientada a Objetos I | [chat](#)
 [Cálculo I](https://www.youtube.com/playlist?list=PL2D9B691A704C6F7B) | 4 Semanas | 3 horas/semana | Funçõpes; Limite; Derivada; Trigonometria; Mat. Espacial. | Matemática Básica | [chat](#)
+[Teoria dos Grafos](https://www.youtube.com/playlist?list=PLrOyM49ctTx-xtyVeuO7ylclgXHd4ws9a) | 4 Semanas | 3 horas/semana | Grafos; Representações; Listas; Árvores. | Matemática Básica, Introdução à Ciência da Computação com Python II | [chat](#)
 
 ### 5º Semestre
 
