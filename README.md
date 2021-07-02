@@ -117,7 +117,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discução
 ### 5º Semestre
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discução
 :-- | :--: | :--: | :--: | :--: | :--:
-[Interfaces Humano-Computador](https://www.youtube.com/playlist?list=PLxI8Can9yAHcoiFzGoyLITBKzFbiw3RIp) | 3 Semanas | 3 horas/semana | Estudos de Usuário; Design; Avaliação de Interfaces. | Princípios de Desenvolvimento Ágil de Software, Programação Orientada a Objetos I | [chat](#)
+[Interfaces Humano-Computador](https://www.youtube.com/playlist?list=PLxI8Can9yAHcoiFzGoyLITBKzFbiw3RIp) | 3 Semanas | 3 horas/semana | Estudos de Usuário; Design; Avaliação de Interfaces. | - | [chat](#)
 
 ### 6º Semestre
 
