@@ -123,6 +123,8 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discução
 [Estrutura de Dados](https://www.youtube.com/playlist?list=PLUukMN0DTKCtdKaIUQoV4VWqGblYGZLfC) | 2 Semanas | 3 horas/semana | Filas; Pilhas; Árvores; Ordenação. | Introdução à Ciência da Computação com Python II, Teoria dos Grafos | [chat](#)
 
 ### 6º Semestre
+Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discução
+:-- | :--: | :--: | :--: | :--: | :--:
 [Paradigmas de Programação](https://www.youtube.com/playlist?list=PLYItvall0TqJ25sVTLcMhxsE0Hci58mpQ) | 2 Semanas | 3 horas/semana | Programação Funcional; Cálculo Lambda; Haskell; Monads. | Estrutura de Dados | [chat](#)
 
 ### 7º Semestre
