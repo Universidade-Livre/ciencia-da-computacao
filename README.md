@@ -149,6 +149,6 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discussão
 
 ## Especializações
 
-### Especializações I
+### Especializações
 
-### Especializações II
+Em breve.
