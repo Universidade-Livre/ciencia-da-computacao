@@ -100,7 +100,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discução
 [Noções de Direitos Autorais, parte I](https://www.escolavirtual.gov.br/curso/72) | 9 Semanas | 4 horas/semana | Direito Autoral; Direito do Autor; Limitação do Direito do Autor. | - | chat
 [Noções de Direitos Autorais, parte II](https://www.youtube.com/watch?v=XPLZSlop64I&list=PLxI8Can9yAHcoBrn53XO581IsIXHqgShZ) | 9 Semanas | 4 horas/semana | Patentes Digitais; Registro de Programas de Computador. | Noções de Direitos Autorais, parte I | chat
 
-### 3º Semestre
+### Desenvolvimento Técnico
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discução
 :-- | :--: | :--: | :--: | :--: | :--:
 [Programação Orientada a Objetos I](https://pt.coursera.org/learn/lab-poo-parte-1) | 6 Semanas | 4 horas/semana | OOP; Streams; MVC; Design Patterns. | Introdução à Ciência da Computação com Python II | [chat](#)
@@ -109,7 +109,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discução
 [Estatística e Probabilidade](https://www.youtube.com/playlist?list=PLxI8Can9yAHeeWqe3m9HZFiBhT33Mfxew) | 9 Semanas | 4 horas/semana | Análise Combinatória; Tabelas; Gráficos; Inferência; ANOVA. | Matemática Básica | chat
 [Princípios de Desenvolvimento Ágil de Software](https://pt.coursera.org/learn/principios-de-desenvolvimento-agil-de-software) | 9 Semanas | 4 horas/semana | XP; User Stories; Taks; Sprint; Diagramas. | - | chat
 
-### 4º Semestre
+### Desenvolvimento Teórico
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discução
 :-- | :--: | :--: | :--: | :--: | :--:
 [Desenvolvimento Ágil com Java Avançado](https://pt.coursera.org/learn/desenvolvimento-agil-com-java-avancado) | 4 Semanas | 3 horas/semana | JDBC; Servlets; Web; Lambda Calculus. | Princípios de Desenvolvimento Ágil de Software, Programação Orientada a Objetos I | [chat](#)
