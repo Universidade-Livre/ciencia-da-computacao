@@ -88,7 +88,7 @@ O currículo deste Curso se divide em duas categorias: a das Disciplinas de Form
 
 ### Introdução a Computação
 
-Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discução
+Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discussão
 :-- | :--: | :--: | :--: | :--: | :--:
 [Introdução à Ciência da Computação com Python I](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) | 9 Semanas | 4 horas/semana | Algoritmos; Lógica de Programação; Python; Testes. | - | [chat](#)
 [Matemática Básica](https://www.youtube.com/playlist?list=PLrOyM49ctTx9pRhKP90mGKhBstkTnBQbp) | 9 Semanas | 4 horas/semana | Números Primos; Bases Numéricas; Módulo; Gráficos. | - | [chat](#)
@@ -102,7 +102,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discução
 
 ### Aprofundamento de Conceitos Introdutórios
 
-Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discução
+Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discussão
 :-- | :--: | :--: | :--: | :--: | :--:
 [Introdução à Ciência da Computação com Python II](https://pt.coursera.org/learn/ciencia-computacao-python-conceitos-2) | 6 Semanas | 4 horas/semana | Matrizes; POO; Recursão; Complexidade de Algoritmos. | Introdução à Ciência da Computação com Python I | [chat](#)
 [Fundamentos Matemáticos para Computação](https://www.youtube.com/watch?v=QE6ruiq632o&list=PLrOyM49ctTx-HWypJVvn_zMO1o7oOAfVx) | 9 Semanas | 4 horas/semana | Lógica Formal; PROLOG; Recursão; Matrizes; Booleanos; Grafos. | Matemática Básica | [chat](#)
@@ -112,7 +112,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discução
 [Noções de Direitos Autorais, parte II](https://www.youtube.com/watch?v=XPLZSlop64I&list=PLxI8Can9yAHcoBrn53XO581IsIXHqgShZ) | 9 Semanas | 4 horas/semana | Patentes Digitais; Registro de Programas de Computador. | Noções de Direitos Autorais, parte I | chat
 
 ### Desenvolvimento Técnico
-Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discução
+Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discussão
 :-- | :--: | :--: | :--: | :--: | :--:
 [Programação Orientada a Objetos I](https://pt.coursera.org/learn/lab-poo-parte-1) | 6 Semanas | 4 horas/semana | OOP; Streams; MVC; Design Patterns. | Introdução à Ciência da Computação com Python II | [chat](#)
 [Bancos de Dados](https://www.youtube.com/playlist?list=PL4Sl6eAbMK7RSdXPe8lZ7s-xSitGHH4RZ) | 4 Semanas | 3 horas/semana | MER; Projeto de Banco de Dados; Normalização; SQL. | - | [chat](#)
@@ -121,7 +121,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discução
 [Princípios de Desenvolvimento Ágil de Software](https://pt.coursera.org/learn/principios-de-desenvolvimento-agil-de-software) | 9 Semanas | 4 horas/semana | XP; User Stories; Taks; Sprint; Diagramas. | - | chat
 
 ### Desenvolvimento Teórico
-Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discução
+Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discussão
 :-- | :--: | :--: | :--: | :--: | :--:
 [Desenvolvimento Ágil com Java Avançado](https://pt.coursera.org/learn/desenvolvimento-agil-com-java-avancado) | 4 Semanas | 3 horas/semana | JDBC; Servlets; Web; Lambda Calculus. | Princípios de Desenvolvimento Ágil de Software, Programação Orientada a Objetos I | [chat](#)
 [Cálculo I](https://www.youtube.com/playlist?list=PL2D9B691A704C6F7B) | 4 Semanas | 3 horas/semana | Funçõpes; Limite; Derivada; Trigonometria; Mat. Espacial. | Matemática Básica | [chat](#)
@@ -130,7 +130,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discução
 [Banco de Dados MySQL](https://www.youtube.com/playlist?list=PLucm8g_ezqNrWAQH2B_0AnrFY5dJcgOLR) | 3 Semanas | 4 horas/semana | CRUD; Consultas; Tabelas. | Introdução à Ciência da Computação com Python II, Bancos de Dados | [chat](#)
 
 ### Aprofundamento Técnico
-Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discução
+Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discussão
 :-- | :--: | :--: | :--: | :--: | :--:
 [Interfaces Humano-Computador](https://www.youtube.com/playlist?list=PLxI8Can9yAHcoiFzGoyLITBKzFbiw3RIp) | 3 Semanas | 3 horas/semana | Estudos de Usuário; Design; Avaliação de Interfaces. | - | [chat](#)
 [Estrutura de Dados](https://www.youtube.com/playlist?list=PLUukMN0DTKCtdKaIUQoV4VWqGblYGZLfC) | 2 Semanas | 3 horas/semana | Filas; Pilhas; Árvores; Ordenação. | Teoria dos Grafos | [chat](#)
@@ -139,7 +139,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discução
 [Introdução ao Desenvolvimento de Aplicativos Android](https://pt.coursera.org/learn/introducao-aplicativos-android) | 2 Semanas | 3 horas/semana | Aplicativos; Android Studio; Views. | Desenvolvimento Ágil com Java Avançado | [chat](#)
 
 ### Tópicos Finais
-Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discução
+Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discussão
 :-- | :--: | :--: | :--: | :--: | :--:
 [Paradigmas de Programação](https://www.youtube.com/playlist?list=PLYItvall0TqJ25sVTLcMhxsE0Hci58mpQ) | 2 Semanas | 3 horas/semana | Programação Funcional; Cálculo Lambda; Haskell; Monads. | Estrutura de Dados | [chat](#)
 [Compiladores](https://www.youtube.com/playlist?list=PLjcmNukBom6--0we1zrpoUE2GuRD-Me6W) | 2 Semanas | 3 horas/semana | Lexers; Parsers; AST; Generators.  | Teoria dos Grafos | [chat](#)
