@@ -46,20 +46,24 @@ Quando um livro ou curso de qualidade for recomendável a leitura, mas não enca
 ele deverá ser adicionado nas listas de [cursos extra](#) e [livros extra](#) respectivamente.
 
 **Organização**. O Currículo é organizado da seguinte forma:
-- **Tópico/Semestre**: Explicação
-- **Tópico/Semestre**: Explicação
-- **Tópico/Semestre**: Explicação
+- **Introdução a Computação**: Contêm os conteúdos de introdução, é onde você pode começar e ver se quer fazer CS.
+- **Aprofundamento de Conceitos Introdutórios**: Contêm os conteúdos que começam a aprofundar os conceitos introdutórios.
+- **Desenvolvimento Teórico**: Contêm os conteúdos que servem como base para a construção de bases teóricas.
+- **Desenvolvimento Técnico**: Contêm os conteúdos que começam a desenvolver bases técnicas.
+- **Aprofundamento Técnico**: Contêm os conteúdos que utilizam as bases teóricas e técnicas para contruir fundamentos práticos.
+- **Tópicos Finais**: Conteúdos que utilizam-se de todo conhecimento adquirido nos tópicos anteriores para técnicas avançadas de computação.
 
 **Duração**. É possível terminar o curso em x anos, dedicando x horas por dia. Os estudantes podem utilizar a [planilha que ainda vamos disponibilizar
 ](#) para estimar o tempo de curso que ainda falta para a conclusão. 
 
 **Custo**. Todos os cursos podem ser completados de forma gratuita. Porém, alguns cursos tem diplomas/certificados/atividades/extras opcionais que são pagos.
-Observe que o [Coursera](https://learner.coursera.help/hc/en-us/articles/209819033-Apply-for-Financial-Aid) e [edX](https://courses.edx.org/financial-assistance/) oferecem ajuda financeira.
+Observe que o [Coursera](https://learner.coursera.help/hc/en-us/articles/209819033-Apply-for-Financial-Aid) oferece ajuda financeira.
 
 Decida quanto tempo de curso e quanto quer gastar em seus estudos nesse curso por sua própria conta,
 apenas tenha sempre em mente que você não pode comprar o sucesso!
 
 **Processo**. Os estudantes podem fazer as disciplinas individualmente ou em grupo, seguindo a ordem que estabelecemos ou não.
+
 - Processo
 - Processo
 
@@ -139,7 +143,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discução
 [Paradigmas de Programação](https://www.youtube.com/playlist?list=PLYItvall0TqJ25sVTLcMhxsE0Hci58mpQ) | 2 Semanas | 3 horas/semana | Programação Funcional; Cálculo Lambda; Haskell; Monads. | Estrutura de Dados | [chat](#)
 [Compiladores](https://www.youtube.com/playlist?list=PLjcmNukBom6--0we1zrpoUE2GuRD-Me6W) | 2 Semanas | 3 horas/semana | Lexers; Parsers; AST; Generators.  | Teoria dos Grafos | [chat](#)
 [Gerência da Qualidade de Software](https://www.youtube.com/watch?v=Rr89ePGLAmI&list=PLxI8Can9yAHcmjsfjFdo_xJ3xhLiczzLC) | 2 Semanas | 3 horas/semana | Testes; Estimativas; Processos.  | - | [chat](#)
-[Fundamentos da Inteligência Artificial](https://www.youtube.com/playlist?list=PLtQM10PgmGogjn0cikgWi8wpQUnV6ERkY) | 2 Semanas | 3 horas/semana | Regressão Linear; Gradientes; Redes Neurais; Perceptons.  | - | [chat](#)
+[Fundamentos da Inteligência Artificial](https://www.youtube.com/playlist?list=PLtQM10PgmGogjn0cikgWi8wpQUnV6ERkY) | 2 Semanas | 3 horas/semana | Regressão Linear; Gradientes; Redes Neurais; Perceptons.  | Teoria dos Grafos | [chat](#)
 [Metodologia da Pesquisa em Computação](https://www.youtube.com/playlist?list=PLclUQno6PMpQO0-XrDwWsPzRzEvjwp1__) | 2 Semanas | 3 horas/semana | Pesquisa; Artigos; Métodos; Publicação.  | - | [chat](#)
 
 ## Especializações
