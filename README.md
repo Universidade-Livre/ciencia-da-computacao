@@ -63,16 +63,17 @@ Decida quanto tempo de curso e quanto quer gastar em seus estudos nesse curso po
 apenas tenha sempre em mente que você não pode comprar o sucesso!
 
 **Processo**. Os estudantes podem fazer as disciplinas individualmente ou em grupo, seguindo a ordem que estabelecemos ou não.
-
+<!--
 - Processo
 - Processo
-
+-->
 **Política de Conteúdo**. Apenas publique em seu GitHub e espaços públicos os materiais que seu Curso permite que sejam publicados.
 *Nunca desrespeite nenhuma regra* do curso em que se matriculou e nunca faça plágios!
-
+<!--
 **[Como contribuir](#)**
 
 **[Ajuda](#)** (FAQ)
+-->
 
 # Comunidade
 - TODO
