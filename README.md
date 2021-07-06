@@ -75,6 +75,8 @@ apenas tenha sempre em mente que você não pode comprar o sucesso!
 
 ---
 
+## Formação Geral
+
 ### Introdução a Computação
 
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discução
@@ -135,6 +137,9 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discução
 [Gerência da Qualidade de Software](https://www.youtube.com/watch?v=Rr89ePGLAmI&list=PLxI8Can9yAHcmjsfjFdo_xJ3xhLiczzLC) | 2 Semanas | 3 horas/semana | Testes; Estimativas; Processos.  | - | [chat](#)
 [Inteligência Artificial](https://www.youtube.com/playlist?list=PLtQM10PgmGogjn0cikgWi8wpQUnV6ERkY) | 2 Semanas | 3 horas/semana | Regressão Linear; Gradientes; Redes Neurais; Perceptons.  | - | [chat](#)
 
-### 7º Semestre
 
-### 8º Semestre
+## Especializações
+
+### Especializações I
+
+### Especializações II
