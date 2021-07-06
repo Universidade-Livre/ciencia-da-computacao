@@ -14,7 +14,7 @@
 # Conteúdos
 
 - [Sumário](https://github.com/Universidade-Livre/ciencia-da-computacao#sum%C3%A1rio)
-- [Comunidade](#)
+- [Comunidade](https://github.com/Universidade-Livre/ciencia-da-computacao#comunidade)
 - [Currículo](#)
 - [Código de Conduta](#)
 - [Time](#)
