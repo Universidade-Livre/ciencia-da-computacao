@@ -118,7 +118,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discução
 [Sistemas Operacionais](https://www.youtube.com/playlist?list=PLxI8Can9yAHeK7GUEGxMsqoPRmJKwI9Jw) | 4 Semanas | 3 horas/semana | Processos; Threads; Calls; I/O. | Fundamentos da Arquitetura de Computadores | [chat](#)
 [Banco de Dados MySQL](https://www.youtube.com/playlist?list=PLucm8g_ezqNrWAQH2B_0AnrFY5dJcgOLR) | 3 Semanas | 4 horas/semana | CRUD; Consultas; Tabelas. | Introdução à Ciência da Computação com Python II, Bancos de Dados | [chat](#)
 
-### 5º Semestre
+### Aprofundamento Técnico
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discução
 :-- | :--: | :--: | :--: | :--: | :--:
 [Interfaces Humano-Computador](https://www.youtube.com/playlist?list=PLxI8Can9yAHcoiFzGoyLITBKzFbiw3RIp) | 3 Semanas | 3 horas/semana | Estudos de Usuário; Design; Avaliação de Interfaces. | - | [chat](#)
@@ -127,7 +127,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discução
 [Criação de Startups](https://pt.coursera.org/learn/criacao-startups) | 2 Semanas | 3 horas/semana | Canvas; MVP; Modelo de Negócio; Pitch. | - | [chat](#)
 [Introdução ao Desenvolvimento de Aplicativos Android](https://pt.coursera.org/learn/introducao-aplicativos-android) | 2 Semanas | 3 horas/semana | Aplicativos; Android Studio; Views. | - | [chat](#)
 
-### 6º Semestre
+### Tópicos Finais
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discução
 :-- | :--: | :--: | :--: | :--: | :--:
 [Paradigmas de Programação](https://www.youtube.com/playlist?list=PLYItvall0TqJ25sVTLcMhxsE0Hci58mpQ) | 2 Semanas | 3 horas/semana | Programação Funcional; Cálculo Lambda; Haskell; Monads. | Estrutura de Dados | [chat](#)
