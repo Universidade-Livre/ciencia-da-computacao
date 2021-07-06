@@ -15,9 +15,11 @@
 
 - [Sumário](https://github.com/Universidade-Livre/ciencia-da-computacao#sum%C3%A1rio)
 - [Comunidade](https://github.com/Universidade-Livre/ciencia-da-computacao#comunidade)
-- [Currículo](#)
+- [Currículo](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/README.md#curr%C3%ADculo)
+<!--
 - [Código de Conduta](#)
 - [Time](#)
+-->
 
 # Sumário
 
