@@ -15,6 +15,7 @@
 
 - [Sumário](https://github.com/Universidade-Livre/ciencia-da-computacao#sum%C3%A1rio)
 - [Comunidade](https://github.com/Universidade-Livre/ciencia-da-computacao#comunidade)
+- [Técnicas de estudo, organização e aprendizagem](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/README.md#t%C3%A9cnicas-de-estudo-organiza%C3%A7%C3%A3o-e-aprendizagem)
 - [Currículo](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/README.md#curr%C3%ADculo)
 <!--
 - [Código de Conduta](#)
