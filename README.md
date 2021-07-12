@@ -170,6 +170,7 @@ Curso | Duração | Dedicação | Conteúdos | Discussão
 [Tópicos de Computação Gráfica](https://www.youtube.com/playlist?list=PL5TJqBvpXQv5zNlgvgH2HGuhZHpnkT3oo) | ? Semanas | ? horas/semana | Ray Tracing; Reflexos; Imagens; Reconstrução de Imagens.  |[chat](#)
 [Conceitos Básicos de Computação Gráfica](https://www.youtube.com/playlist?list=PLo4jXE-LdDTRGoEarRQXBIalJkjSP-aGA) | 4 Semanas | 8 horas/semana | Objetos gráficos; Modelagem geométrica; Fundamentos de sistemas gráficos. | [chat](#)
 [Processamento de Imagens](https://www.youtube.com/playlist?list=PLo4jXE-LdDTRaFa39TdNN3FgPAKkcuHvj) | 4 Semanas | 8 horas/semana | Imagem digital; Quantização; Operações com imagens; Dithering; warping de imagens; Aplicações | [chat](#)
+[Processamento de Imagens em Python](https://www.youtube.com/playlist?list=PL5TJqBvpXQv54i_HWjd7s70vbP4Is7sK_) | ? Semanas | ? horas/semana | Redimensionamento; Efeitos; Animação; Detecção. |[chat](#)
 (*Em construção*)
 
 ¹ Esse curso está dísponível apoiando a partir de R$ 2,99/mês o Canal.
