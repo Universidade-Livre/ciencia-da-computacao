@@ -149,6 +149,8 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discussão
 
 ## Especializações
 
+Após ter concluído a formação geral, você já deve ter uma ampla visão sobre Ciência da Computação, seus fundamentos e aplicações e estará mais que preparado para escolher uma área de especialidade dentro de suas aplicações para se tornar especialista. 
+
 ### Computação Gráfica
 
 **Áreas de aplicação**:
