@@ -150,6 +150,16 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discussão
 ## Especializações
 
 ### Computação Gráfica
+
+**Áreas de aplicação**:
+`softwares gráficos`
+`aplicações 3D`
+`games`
+`fotorealismo`
+`sistemas gráficos`
+`simuladores`
+`e mais`
+
 Curso | Duração | Dedicação | Conteúdos | Discussão
 :-- | :--: | :--: | :--: | :--:
 [Pixar in a Box](https://pt.khanacademy.org/partner-content/pixar-latam) | 2 Semanas | 3 horas/semana | Renderização; Animação; Curvas; 3D. | [chat](#)
@@ -159,7 +169,17 @@ Curso | Duração | Dedicação | Conteúdos | Discussão
 [Processamento de Imagens](https://www.youtube.com/playlist?list=PLo4jXE-LdDTRaFa39TdNN3FgPAKkcuHvj) | 4 Semanas | 8 horas/semana | Imagem digital; Quantização; Operações com imagens; Dithering; warping de imagens; Aplicações | [chat](#)
 (*Em construção*)
 
-### IOT (Internet of the Things)
+### Embarcados
+
+**Áreas de aplicação**:
+`internet das coisas`
+`controles industriais`
+`coisas inteligentes`
+`wearables`
+`cidades inteligentes`
+`automobilismo`
+`e mais`
+
 Curso | Duração | Dedicação | Conteúdos | Discussão
 :-- | :--: | :--: | :--: | :--:
 [Curso de C moderno](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE) | 4 Semanas | 3 horas/semana | C; GDB; Tooling; Unix. | [chat](#)
