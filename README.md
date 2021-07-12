@@ -174,3 +174,6 @@ Curso | Duração | Dedicação | Conteúdos | Discussão
 
 ### Deswnvolvimento Mobile
 (*Em construção*)
+
+### Data Science
+(*Em construção*)
