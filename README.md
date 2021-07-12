@@ -154,7 +154,7 @@ Curso | Duração | Dedicação | Conteúdos | Discussão
 :-- | :--: | :--: | :--: | :--:
 [Pixar in a Box](https://pt.khanacademy.org/partner-content/pixar-latam) | 2 Semanas | 3 horas/semana | Renderização; Animação; Curvas; 3D. | [chat](#)
 [Algebra Linear I](https://www.youtube.com/playlist?list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI) | 4 Semanas | 3 horas/semana | Sistemas lineares; Vetores; Espaços Vetoriais.| [chat](#)
-[Tópicos de Computação Gráfica](https://www.youtube.com/playlist?list=PL5TJqBvpXQv5zNlgvgH2HGuhZHpnkT3oo) | ? Semanas | ? horas/semana | Ray Tracing; Reflexos; Imagens; Reconstrução de Imagens.  | - | [chat](#)
+[Tópicos de Computação Gráfica](https://www.youtube.com/playlist?list=PL5TJqBvpXQv5zNlgvgH2HGuhZHpnkT3oo) | ? Semanas | ? horas/semana | Ray Tracing; Reflexos; Imagens; Reconstrução de Imagens.  |[chat](#)
 [Conceitos Básicos de Computação Gráfica](https://www.youtube.com/playlist?list=PLo4jXE-LdDTRGoEarRQXBIalJkjSP-aGA) | 4 Semanas | 8 horas/semana | Objetos gráficos; Modelagem geométrica; Fundamentos de sistemas gráficos. | [chat](#)
 [Processamento de Imagens](https://www.youtube.com/playlist?list=PLo4jXE-LdDTRaFa39TdNN3FgPAKkcuHvj) | 4 Semanas | 8 horas/semana | Imagem digital; Quantização; Operações com imagens; Dithering; warping de imagens; Aplicações | [chat](#)
 
@@ -164,5 +164,5 @@ Curso | Duração | Dedicação | Conteúdos | Discussão
 [Curso de C moderno](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE) | 4 Semanas | 3 horas/semana | C; GDB; Tooling; Unix. | [chat](#)
 [Conceitos de Eletrônica](https://www.youtube.com/playlist?list=PLfdR3_dt2rbcv2CmrbeT8wu50Yga0fjE8) | 4 Semanas | 3 horas/semana | Sinais; Circuitos; Energia; Polaridade. | [chat](#)
 [Eletrônica para Iniciantes](https://www.youtube.com/playlist?list=PLZ8dBTV2_5HQpKzBt3nJex3Mbk7hmhFHl) | 5 Semanas | 8 horas/semana | Esquemáticos; Portas Lógicas; Circuitos; Carga. | [chat](#)
-[Curso de AVR-C](https://www.youtube.com/playlist?list=PLMdNWywlSE5QPsEeT_cXisUT366NS3U8R) | 2 Semanas | 4 horas/semana | C para Microcontroladores; Operações bit-a-bit; Datasheets. | - | [chat](#)
+[Curso de AVR-C](https://www.youtube.com/playlist?list=PLMdNWywlSE5QPsEeT_cXisUT366NS3U8R) | 2 Semanas | 4 horas/semana | C para Microcontroladores; Operações bit-a-bit; Datasheets. | [chat](#)
 [Curso de AVR Periféricos](https://www.youtube.com/playlist?list=PLMdNWywlSE5TtOxRm6frvH_om1NOyj33H) | 2 Semanas | 3 horas/semana | Displays; Timers; Conversores; Comunicação.| [chat](#)
