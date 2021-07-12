@@ -162,6 +162,7 @@ Curso | Duração | Dedicação | Conteúdos | Discussão
 Curso | Duração | Dedicação | Conteúdos | Discussão
 :-- | :--: | :--: | :--: | :--:
 [Curso de C moderno](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE) | 4 Semanas | 3 horas/semana | C; GDB; Tooling; Unix. | [chat](#)
-[Eletrônica](https://www.youtube.com/playlist?list=PLfdR3_dt2rbcv2CmrbeT8wu50Yga0fjE8) | 4 Semanas | 3 horas/semana | Sinais; Circuitos; Energia; Polaridade. | [chat](#)
+[Conceitos de Eletrônica](https://www.youtube.com/playlist?list=PLfdR3_dt2rbcv2CmrbeT8wu50Yga0fjE8) | 4 Semanas | 3 horas/semana | Sinais; Circuitos; Energia; Polaridade. | [chat](#)
+[Eletrônica para Iniciantes](https://www.youtube.com/playlist?list=PLZ8dBTV2_5HQpKzBt3nJex3Mbk7hmhFHl) | 5 Semanas | 8 horas/semana | Esquemáticos; Portas Lógicas; Circuitos; Carga. | [chat](#)
 [Curso de AVR-C](https://www.youtube.com/playlist?list=PLMdNWywlSE5QPsEeT_cXisUT366NS3U8R) | 2 Semanas | 4 horas/semana | C para Microcontroladores; Operações bit-a-bit; Datasheets. | - | [chat](#)
 [Curso de AVR Periféricos](https://www.youtube.com/playlist?list=PLMdNWywlSE5TtOxRm6frvH_om1NOyj33H) | 2 Semanas | 3 horas/semana | Displays; Timers; Conversores; Comunicação.| [chat](#)
