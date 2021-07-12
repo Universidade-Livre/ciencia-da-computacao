@@ -151,7 +151,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discussão
 
 ### Computação Gráfica
 Curso | Duração | Dedicação | Conteúdos | Discussão
-:-- | :--: | :--: | :--: | :--: | :--:
+:-- | :--: | :--: | :--: | :--:
 [Pixar in a Box](https://pt.khanacademy.org/partner-content/pixar-latam) | 2 Semanas | 3 horas/semana | Renderização; Animação; Curvas; 3D. | [chat](#)
 [Algebra Linear I](https://www.youtube.com/playlist?list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI) | 4 Semanas | 3 horas/semana | Sistemas lineares; Vetores; Espaços Vetoriais.| [chat](#)
 [Tópicos de Computação Gráfica](https://www.youtube.com/playlist?list=PL5TJqBvpXQv5zNlgvgH2HGuhZHpnkT3oo) | ? Semanas | ? horas/semana | Ray Tracing; Reflexos; Imagens; Reconstrução de Imagens.  | - | [chat](#)
