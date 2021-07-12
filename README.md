@@ -78,6 +78,16 @@ apenas tenha sempre em mente que você não pode comprar o sucesso!
 # Comunidade
 - TODO
 
+# Antes de começar...
+
+Antes de começar a estudar é importante que você aprenda algumas coisas importantes. Ser autodidata não é sobre aprender sozinho, nem sobre não estar vinculado à uma Instituição de Ensino Superior (IES), mas sobre **ser responsável pelo seu próprio ensino** e isso é algo que exige saber como estudar, o quanto estudar, como organizar seus estudos... e para isso recomendamos os seguintes conteúdos abaixo.
+
+Curso | Duração | Dedicação | Conteúdos
+:-- | :--: | :--: | :--: | :--:
+[Aprendendo a aprender](https://pt.coursera.org/learn/aprender) ¹ | 3 Semanas | 5 horas/semana | Memória; Técnicas de estudo; Recursos de estudo.
+[Como estudar do jeito certo](https://www.youtube.com/playlist?list=PL5TJqBvpXQv7Q2lT7L7BrTrh6tgZY872s) | 4 Semanas | 3 horas/semana | Tempo; Técnica; Dsicussão. 
+¹ Disponível com legendas em Português.
+
 # Currículo
 
 O currículo deste Curso se divide em duas categorias: a das Disciplinas de Formação Geral e as Disciplinas de Especialização. As disciplinas de formação geral são essenciais na formação de todos os alunos idependente de qual área ou especialização desejam seguir e são a base para o conteúdo técnico-teórico para os cursos de especialização. Você pode fazer os cursos na ordem, onde e como preferir e esse é o maior benefício da liberdade, mas por fins didáticos e de organização recomendamos que tente respeitar os pré-requisitos e que conclua todas as disciplinas de formação geral antes de prosseguir nas de especialização.
