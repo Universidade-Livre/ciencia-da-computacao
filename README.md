@@ -169,7 +169,7 @@ Curso | Duração | Dedicação | Conteúdos | Discussão
 [Curso de AVR Periféricos](https://www.youtube.com/playlist?list=PLMdNWywlSE5TtOxRm6frvH_om1NOyj33H) | 2 Semanas | 3 horas/semana | Displays; Timers; Conversores; Comunicação.| [chat](#)
 (*Em construção*)
 
-### Desnevolvimento Web
+### Desenevolvimento Web
 (*Em construção*)
 
 ### Desenvolvimento Mobile
