@@ -76,9 +76,10 @@ apenas tenha sempre em mente que você não pode comprar o sucesso!
 -->
 
 # Comunidade
+
 - TODO
 
-# Técnicas de estudo, organizaç
+# Técnicas de estudo, organização e aprendizagem
 
 Antes de começar a estudar é importante que você aprenda algumas coisas importantes. Ser autodidata não é sobre aprender sozinho, nem sobre não estar vinculado à uma Instituição de Ensino Superior (IES), mas sobre **ser responsável pelo seu próprio ensino** e isso é algo que exige saber como estudar, o quanto estudar, como organizar seus estudos... e para isso recomendamos os seguintes conteúdos abaixo.
 
