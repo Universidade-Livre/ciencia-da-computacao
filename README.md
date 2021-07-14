@@ -139,7 +139,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discussão
 [Desenvolvimento Ágil com Java Avançado](https://pt.coursera.org/learn/desenvolvimento-agil-com-java-avancado) | 4 Semanas | 3 horas/semana | JDBC; Servlets; Web; Lambda Calculus. | Princípios de Desenvolvimento Ágil de Software, Programação Orientada a Objetos I | [chat](#)
 [Cálculo I](https://www.youtube.com/playlist?list=PL2D9B691A704C6F7B) | 4 Semanas | 3 horas/semana | Funçõpes; Limite; Derivada; Trigonometria; Mat. Espacial. | Matemática Básica | [chat](#)
 [Teoria dos Grafos](https://www.youtube.com/playlist?list=PLrOyM49ctTx-xtyVeuO7ylclgXHd4ws9a) | 4 Semanas | 3 horas/semana | Grafos; Representações; Listas; Árvores. | Fundamentos Matemáticos para Computação, Programação Orientada a Objetos I | [chat](#)
-[Sistemas Operacionais](https://www.youtube.com/playlist?list=PLxI8Can9yAHeK7GUEGxMsqoPRmJKwI9Jw) | 4 Semanas | 3 horas/semana | Processos; Threads; Calls; I/O. | Arquitetura de Computadores II | [chat](#)
+[Sistemas Operacionais](http://wiki.inf.ufpr.br/maziero/doku.php?id=socm:start) | 4 Semanas | 3 horas/semana | Processos; Threads; Calls; I/O. | Arquitetura de Computadores II | [chat](#)
 [Banco de Dados MySQL](https://www.youtube.com/playlist?list=PLucm8g_ezqNrWAQH2B_0AnrFY5dJcgOLR) | 3 Semanas | 4 horas/semana | CRUD; Consultas; Tabelas. | Introdução à Ciência da Computação com Python II, Bancos de Dados | [chat](#)
 
 ### Aprofundamento Técnico
@@ -202,10 +202,12 @@ Curso | Duração | Dedicação | Conteúdos | Discussão
 Curso | Duração | Dedicação | Conteúdos | Discussão
 :-- | :--: | :--: | :--: | :--:
 [Curso de C moderno](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE) | 4 Semanas | 3 horas/semana | C; GDB; Tooling; Unix. | [chat](#)
+[Curso de Makefile](https://www.youtube.com/playlist?list=PLLCFxfe9wkl-tCZvSCbzQGcNv9nSN5ZAP) | 4 Semanas | 3 horas/semana | Make; Makefile. | [chat](#)
 [Conceitos de Eletrônica](https://www.youtube.com/playlist?list=PLfdR3_dt2rbcv2CmrbeT8wu50Yga0fjE8) | 4 Semanas | 3 horas/semana | Sinais; Circuitos; Energia; Polaridade. | [chat](#)
 [Eletrônica para Iniciantes](https://www.youtube.com/playlist?list=PLZ8dBTV2_5HQpKzBt3nJex3Mbk7hmhFHl) | 5 Semanas | 8 horas/semana | Esquemáticos; Portas Lógicas; Circuitos; Carga. | [chat](#)
 [Curso de AVR-C](https://www.youtube.com/playlist?list=PLMdNWywlSE5QPsEeT_cXisUT366NS3U8R) | 2 Semanas | 4 horas/semana | C para Microcontroladores; Operações bit-a-bit; Datasheets. | [chat](#)
 [Curso de AVR Periféricos](https://www.youtube.com/playlist?list=PLMdNWywlSE5TtOxRm6frvH_om1NOyj33H) | 2 Semanas | 3 horas/semana | Displays; Timers; Conversores; Comunicação.| [chat](#)
+[Curso de C++](https://www.youtube.com/playlist?list=PLIUc9-A-aPpqrzY3YuWDUOyQLOBCb5lck) | 3 Semanas | 4 horas/semana | OOP; Smart Pointers; Biblioteca padrão.| [chat](#)
 (*Em construção*)
 
 ### Desenevolvimento Web
