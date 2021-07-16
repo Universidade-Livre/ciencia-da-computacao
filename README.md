@@ -178,7 +178,7 @@ Após ter concluído a formação geral, você já deve ter uma ampla visão sob
 `e mais`
 
 Curso | Duração | Dedicação | Conteúdos
-:-- | :--: | :--: | :--: | :--:
+:-- | :--: | :--: | :--:
 [Pixar in a Box](https://pt.khanacademy.org/partner-content/pixar-latam) | 2 Semanas | 3 horas/semana | Renderização; Animação; Curvas; 3D.
 [Algebra Linear I](https://www.youtube.com/playlist?list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI) | 4 Semanas | 3 horas/semana | Sistemas lineares; Vetores; Espaços Vetoriais.
 [Programação em Julia](https://www.youtube.com/playlist?list=PL5TJqBvpXQv4TO4Y_JZExBCBzNXDLYUCj) ¹ | ? Semanas | ? horas/semana | Algoritmos; Julia; Algebra Linear. 
@@ -202,7 +202,7 @@ Curso | Duração | Dedicação | Conteúdos
 `e mais`
 
 Curso | Duração | Dedicação | Conteúdos
-:-- | :--: | :--: | :--: | :--:
+:-- | :--: | :--: | :--: 
 [Curso de C moderno](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE) | 4 Semanas | 3 horas/semana | C; GDB; Tooling; Unix. 
 [Curso de Makefile](https://www.youtube.com/playlist?list=PLLCFxfe9wkl-tCZvSCbzQGcNv9nSN5ZAP) | 4 Semanas | 3 horas/semana | Make; Makefile. 
 [Conceitos de Eletrônica](https://www.youtube.com/playlist?list=PLfdR3_dt2rbcv2CmrbeT8wu50Yga0fjE8) | 4 Semanas | 3 horas/semana | Sinais; Circuitos; Energia; Polaridade. 
