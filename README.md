@@ -177,7 +177,7 @@ Após ter concluído a formação geral, você já deve ter uma ampla visão sob
 `simuladores`
 `e mais`
 
-Curso | Duração | Dedicação | Conteúdos | Discussão
+Curso | Duração | Dedicação | Conteúdos
 :-- | :--: | :--: | :--: | :--:
 [Pixar in a Box](https://pt.khanacademy.org/partner-content/pixar-latam) | 2 Semanas | 3 horas/semana | Renderização; Animação; Curvas; 3D.
 [Algebra Linear I](https://www.youtube.com/playlist?list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI) | 4 Semanas | 3 horas/semana | Sistemas lineares; Vetores; Espaços Vetoriais.
@@ -201,7 +201,7 @@ Curso | Duração | Dedicação | Conteúdos | Discussão
 `automobilismo`
 `e mais`
 
-Curso | Duração | Dedicação | Conteúdos | Discussão
+Curso | Duração | Dedicação | Conteúdos
 :-- | :--: | :--: | :--: | :--:
 [Curso de C moderno](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE) | 4 Semanas | 3 horas/semana | C; GDB; Tooling; Unix. 
 [Curso de Makefile](https://www.youtube.com/playlist?list=PLLCFxfe9wkl-tCZvSCbzQGcNv9nSN5ZAP) | 4 Semanas | 3 horas/semana | Make; Makefile. 
