@@ -213,10 +213,53 @@ Curso | Duração | Dedicação | Conteúdos | Discussão
 (*Em construção*)
 
 ### Desenevolvimento Web
+
+**Áreas de aplicação**:
+`aplicações em servidor`
+`layout de páginas web`
+`sistemas on-line`
+`APIs`
+`computação em nuvem`
+`streamming`
+`e mais`
+
 (*Em construção*)
 
 ### Desenvolvimento Mobile
+
+**Áreas de aplicação**:
+`jogos mobile`
+`aplicativos para smartphone`
+`desenvolvimento para tablets`
+`iOS && Android`
+`aplicativos comerciais`
+`redes sociais`
+`e mais`
+
+(*Em construção*)
+
+### Database Administrator (DBA)
+
+**Áreas de aplicação**:
+`administração de banco de dados`
+`organização de tabelas de dados`
+`optimização de querys`
+`segurança de dados`
+`criação de rotinas de bd`
+`big data`
+`e mais`
+
 (*Em construção*)
 
 ### Data Science
+
+**Áreas de aplicação**:
+`analise de dados`
+`visualização de dados`
+`machine learning`
+`deep learning`
+`sistemas epecialistas`
+`estat`
+`e mais`
+
 (*Em construção*)
