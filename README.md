@@ -179,13 +179,13 @@ Após ter concluído a formação geral, você já deve ter uma ampla visão sob
 
 Curso | Duração | Dedicação | Conteúdos | Discussão
 :-- | :--: | :--: | :--: | :--:
-[Pixar in a Box](https://pt.khanacademy.org/partner-content/pixar-latam) | 2 Semanas | 3 horas/semana | Renderização; Animação; Curvas; 3D. | [chat](#)
-[Algebra Linear I](https://www.youtube.com/playlist?list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI) | 4 Semanas | 3 horas/semana | Sistemas lineares; Vetores; Espaços Vetoriais.| [chat](#)
-[Programação em Julia](https://www.youtube.com/playlist?list=PL5TJqBvpXQv4TO4Y_JZExBCBzNXDLYUCj) ¹ | ? Semanas | ? horas/semana | Algoritmos; Julia; Algebra Linear. |[chat](#)
-[Tópicos de Computação Gráfica](https://www.youtube.com/playlist?list=PL5TJqBvpXQv5zNlgvgH2HGuhZHpnkT3oo) | ? Semanas | ? horas/semana | Ray Tracing; Reflexos; Imagens; Reconstrução de Imagens.  |[chat](#)
-[Conceitos Básicos de Computação Gráfica](https://www.youtube.com/playlist?list=PLo4jXE-LdDTRGoEarRQXBIalJkjSP-aGA) | 4 Semanas | 8 horas/semana | Objetos gráficos; Modelagem geométrica; Fundamentos de sistemas gráficos. | [chat](#)
-[Processamento de Imagens](https://www.youtube.com/playlist?list=PLo4jXE-LdDTRaFa39TdNN3FgPAKkcuHvj) | 4 Semanas | 8 horas/semana | Imagem digital; Quantização; Operações com imagens; Dithering; warping de imagens; Aplicações | [chat](#)
-[Processamento de Imagens em Python](https://www.youtube.com/playlist?list=PL5TJqBvpXQv54i_HWjd7s70vbP4Is7sK_) | ? Semanas | ? horas/semana | Redimensionamento; Efeitos; Animação; Detecção. |[chat](#)
+[Pixar in a Box](https://pt.khanacademy.org/partner-content/pixar-latam) | 2 Semanas | 3 horas/semana | Renderização; Animação; Curvas; 3D.
+[Algebra Linear I](https://www.youtube.com/playlist?list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI) | 4 Semanas | 3 horas/semana | Sistemas lineares; Vetores; Espaços Vetoriais.
+[Programação em Julia](https://www.youtube.com/playlist?list=PL5TJqBvpXQv4TO4Y_JZExBCBzNXDLYUCj) ¹ | ? Semanas | ? horas/semana | Algoritmos; Julia; Algebra Linear. 
+[Tópicos de Computação Gráfica](https://www.youtube.com/playlist?list=PL5TJqBvpXQv5zNlgvgH2HGuhZHpnkT3oo) | ? Semanas | ? horas/semana | Ray Tracing; Reflexos; Imagens; Reconstrução de Imagens.  
+[Conceitos Básicos de Computação Gráfica](https://www.youtube.com/playlist?list=PLo4jXE-LdDTRGoEarRQXBIalJkjSP-aGA) | 4 Semanas | 8 horas/semana | Objetos gráficos; Modelagem geométrica; Fundamentos de sistemas gráficos. 
+[Processamento de Imagens](https://www.youtube.com/playlist?list=PLo4jXE-LdDTRaFa39TdNN3FgPAKkcuHvj) | 4 Semanas | 8 horas/semana | Imagem digital; Quantização; Operações com imagens; Dithering; warping de imagens; Aplicações
+[Processamento de Imagens em Python](https://www.youtube.com/playlist?list=PL5TJqBvpXQv54i_HWjd7s70vbP4Is7sK_) | ? Semanas | ? horas/semana | Redimensionamento; Efeitos; Animação; Detecção. 
 (*Em construção*)
 
 ¹ Esse curso está dísponível apoiando a partir de R$ 2,99/mês o Canal.
@@ -203,13 +203,13 @@ Curso | Duração | Dedicação | Conteúdos | Discussão
 
 Curso | Duração | Dedicação | Conteúdos | Discussão
 :-- | :--: | :--: | :--: | :--:
-[Curso de C moderno](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE) | 4 Semanas | 3 horas/semana | C; GDB; Tooling; Unix. | [chat](#)
-[Curso de Makefile](https://www.youtube.com/playlist?list=PLLCFxfe9wkl-tCZvSCbzQGcNv9nSN5ZAP) | 4 Semanas | 3 horas/semana | Make; Makefile. | [chat](#)
-[Conceitos de Eletrônica](https://www.youtube.com/playlist?list=PLfdR3_dt2rbcv2CmrbeT8wu50Yga0fjE8) | 4 Semanas | 3 horas/semana | Sinais; Circuitos; Energia; Polaridade. | [chat](#)
-[Eletrônica para Iniciantes](https://www.youtube.com/playlist?list=PLZ8dBTV2_5HQpKzBt3nJex3Mbk7hmhFHl) | 5 Semanas | 8 horas/semana | Esquemáticos; Portas Lógicas; Circuitos; Carga. | [chat](#)
-[Curso de AVR-C](https://www.youtube.com/playlist?list=PLMdNWywlSE5QPsEeT_cXisUT366NS3U8R) | 2 Semanas | 4 horas/semana | C para Microcontroladores; Operações bit-a-bit; Datasheets. | [chat](#)
-[Curso de AVR Periféricos](https://www.youtube.com/playlist?list=PLMdNWywlSE5TtOxRm6frvH_om1NOyj33H) | 2 Semanas | 3 horas/semana | Displays; Timers; Conversores; Comunicação.| [chat](#)
-[Curso de C++](https://www.youtube.com/playlist?list=PLIUc9-A-aPpqrzY3YuWDUOyQLOBCb5lck) | 3 Semanas | 4 horas/semana | OOP; Smart Pointers; Biblioteca padrão.| [chat](#)
+[Curso de C moderno](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE) | 4 Semanas | 3 horas/semana | C; GDB; Tooling; Unix. 
+[Curso de Makefile](https://www.youtube.com/playlist?list=PLLCFxfe9wkl-tCZvSCbzQGcNv9nSN5ZAP) | 4 Semanas | 3 horas/semana | Make; Makefile. 
+[Conceitos de Eletrônica](https://www.youtube.com/playlist?list=PLfdR3_dt2rbcv2CmrbeT8wu50Yga0fjE8) | 4 Semanas | 3 horas/semana | Sinais; Circuitos; Energia; Polaridade. 
+[Eletrônica para Iniciantes](https://www.youtube.com/playlist?list=PLZ8dBTV2_5HQpKzBt3nJex3Mbk7hmhFHl) | 5 Semanas | 8 horas/semana | Esquemáticos; Portas Lógicas; Circuitos; Carga. 
+[Curso de AVR-C](https://www.youtube.com/playlist?list=PLMdNWywlSE5QPsEeT_cXisUT366NS3U8R) | 2 Semanas | 4 horas/semana | C para Microcontroladores; Operações bit-a-bit; Datasheets. 
+[Curso de AVR Periféricos](https://www.youtube.com/playlist?list=PLMdNWywlSE5TtOxRm6frvH_om1NOyj33H) | 2 Semanas | 3 horas/semana | Displays; Timers; Conversores; Comunicação.
+[Curso de C++](https://www.youtube.com/playlist?list=PLIUc9-A-aPpqrzY3YuWDUOyQLOBCb5lck) | 3 Semanas | 4 horas/semana | OOP; Smart Pointers; Biblioteca padrão.
 (*Em construção*)
 
 ### Desenevolvimento Web
