@@ -78,7 +78,7 @@ apenas tenha sempre em mente que você não pode comprar o sucesso!
 
 # Comunidade
 
-- TODO
+- [Discord](https://discord.gg/wymGhmf7BT)
 
 # Técnicas de estudo, organização e aprendizagem
 
