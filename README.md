@@ -212,7 +212,7 @@ Curso | Duração | Dedicação | Conteúdos
 [Curso de C++](https://www.youtube.com/playlist?list=PLIUc9-A-aPpqrzY3YuWDUOyQLOBCb5lck) | 3 Semanas | 4 horas/semana | OOP; Smart Pointers; Biblioteca padrão.
 (*Em construção*)
 
-### Desenevolvimento Web
+### Desenvolvimento Web
 
 **Áreas de aplicação**:
 `aplicações em servidor`
