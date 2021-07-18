@@ -79,6 +79,7 @@ apenas tenha sempre em mente que você não pode comprar o sucesso!
 # Comunidade
 
 - Temos um servidor no Discord! [![Discord](https://img.shields.io/discord/866378348368625704.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/wymGhmf7BT) Aqui você pode encontrar e interagir com outros estudantes. Porquê não se apresenta lá agora mesmo? [Vem pro Discord](https://discord.gg/wymGhmf7BT).
+- Você também pode interagir sobre questões a respeito do problemas com Curso, propor mudanças de Currículo e outras coisas relacionadas atráves das nossas [issues](https://github.com/Universidade-Livre/ciencia-da-computacao/issues), sinta-se a vontade para abrir discussões lá.
 
 # Técnicas de estudo, organização e aprendizagem
 
