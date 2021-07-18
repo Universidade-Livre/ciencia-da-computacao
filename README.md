@@ -78,7 +78,7 @@ apenas tenha sempre em mente que você não pode comprar o sucesso!
 
 # Comunidade
 
-[![Discord](https://img.shields.io/discord/866378348368625704.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/wymGhmf7BT)
+- Temos um servidor no Discord! [![Discord](https://img.shields.io/discord/866378348368625704.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/wymGhmf7BT) Aqui você pode encontrar e interagir com outros estudantes. Porquê não se apresenta lá agora mesmo? [Vem pro Discord](https://discord.gg/wymGhmf7BT).
 
 # Técnicas de estudo, organização e aprendizagem
 
