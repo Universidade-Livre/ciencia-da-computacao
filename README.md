@@ -230,7 +230,7 @@ Curso | Duração | Dedicação | Conteúdos
 [HTML e CSS, Parte I](https://www.cursoemvideo.com/course/html5-css3-modulo1/) | 5 Semanas | 8 horas/semana | Tags; Hierarquias; Semântica.
 [HTML e CSS, Parte II](https://www.cursoemvideo.com/course/curso-html5-e-css3-modulo-2-de-5-40-horas/) | 5 Semanas | 8 horas/semana | Elementos; IDs; Variáveis.
 [JavaScript Básico](https://www.cursoemvideo.com/course/javascript/) | 5 Semanas | 8 horas/semana | Sintaxe; DOM; Funções.
-[Node.js](https://www.youtube.com/playlist?list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B) | 4 Semanas | 2 horas/semana | Sintaxe; DOM; Funções.
+[Node.js (Express)](https://www.youtube.com/playlist?list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B) | 4 Semanas | 4 horas/semana | Handlebars; Middlewares; Sequelize; MVC.
 
 ### Desenvolvimento Mobile
 
