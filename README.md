@@ -232,7 +232,7 @@ Curso | Duração | Dedicação | Conteúdos
 [JavaScript Básico](https://www.cursoemvideo.com/course/javascript/) | 5 Semanas | 8 horas/semana | Sintaxe; DOM; Funções.
 [Node.js (Express)](https://www.youtube.com/playlist?list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B) | 4 Semanas | 4 horas/semana | Handlebars; Middlewares; Sequelize; MVC.
 [Curso Básico REST APIs](https://www.youtube.com/playlist?list=PL3B-OV5dZTqbaLi1f2UmXEWbcx9WyYaTX) | 4 Semanas | 4 horas/semana | Modelos de Maturidade; Verbos e Status; Recursos; Modelagem.
-[Mini-curso TypeScript](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_) | 2 Semanas | 2 horas/semana | Tipos; Compilador; Classes; Generics.
+[Mini-curso de TypeScript](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_) | 2 Semanas | 2 horas/semana | Tipos; Compilador; Classes; Generics.
 
 ### Desenvolvimento Mobile
 
