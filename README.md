@@ -230,7 +230,7 @@ Curso | Duração | Dedicação | Conteúdos
 [HTML e CSS, Parte I](https://www.cursoemvideo.com/course/html5-css3-modulo1/) | 5 Semanas | 8 horas/semana | Tags; Hierarquias; Semântica.
 [HTML e CSS, Parte II](https://www.cursoemvideo.com/course/curso-html5-e-css3-modulo-2-de-5-40-horas/) | 5 Semanas | 8 horas/semana | Elementos; IDs; Variáveis.
 [JavaScript Básico](https://www.cursoemvideo.com/course/javascript/) | 5 Semanas | 8 horas/semana | Sintaxe; DOM; Funções.
-[Curso de JavaScript ES6](https://www.youtube.com/playlist?list=PLWhiA_CuQkbCX9nHuk4rolDYxlLUwXpNI) | 4 Semanas | 2 horas/semana | Sintaxe; DOM; Funções.
+[Curso de JavaScript ES6](https://www.youtube.com/playlist?list=PLWhiA_CuQkbCX9nHuk4rolDYxlLUwXpNI) | 4 Semanas | 2 horas/semana | Módulos; Async/Await; Promisses; Estrutura de Dados.
 [Debuggando JavaScript](https://www.youtube.com/playlist?list=PLg2lQYZDBwORqALpRkVPXEdgOloQz8sux) | - | 30 minutos | Logs; DEV Tools.
 [Curso de SASS](https://www.youtube.com/watch?v=XwPSWKnZIg4&list=PL97KElaimHeGRtfkksKwxg6IGVZi_cR7J) | 2 Semanas | 2 horas/semana | Preprocessamento CSS; Mixin; Output.
 [Node.js (Express)](https://www.youtube.com/playlist?list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B) | 4 Semanas | 4 horas/semana | Handlebars; Middlewares; Sequelize; MVC.
