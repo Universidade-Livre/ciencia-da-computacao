@@ -236,6 +236,7 @@ Curso | Duração | Dedicação | Conteúdos
 [Node.js (Express)](https://www.youtube.com/playlist?list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B) | 4 Semanas | 4 horas/semana | Handlebars; Middlewares; Sequelize; MVC.
 [ESLint + Prettier + editorconfig](https://www.youtube.com/watch?v=9UJYaAt7v2o) | - | 30 minutos | Formatação de Código; Padronização de Código; Linters.
 [Curso Básico REST APIs](https://www.youtube.com/playlist?list=PL3B-OV5dZTqbaLi1f2UmXEWbcx9WyYaTX) | 4 Semanas | 4 horas/semana | Modelos de Maturidade; Verbos e Status; Recursos; Modelagem.
+[Curso de React](https://www.youtube.com/playlist?list=PLx4x_zx8csUh752BVDGZkxYpY9lS40fyC) | 4 Semanas | 4 horas/semana | Componentes; Estado; Hooks; API; Navegação.
 [Mini-curso de TypeScript](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_) | 2 Semanas | 2 horas/semana | Tipos; Compilador; Classes; Generics.
 [Node (Express) com TypeScript](https://www.youtube.com/playlist?list=PLn3kOoc0oI2cQDdUEQxj75sxgRH53DmSc) | 2 Semanas | 2 horas/semana | Rotas; JWT; Tipos; Optionals.
 
