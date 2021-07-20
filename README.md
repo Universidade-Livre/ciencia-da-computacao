@@ -231,7 +231,8 @@ Curso | Duração | Dedicação | Conteúdos
 [HTML e CSS, Parte II](https://www.cursoemvideo.com/course/curso-html5-e-css3-modulo-2-de-5-40-horas/) | 5 Semanas | 8 horas/semana | Elementos; IDs; Variáveis.
 [JavaScript Básico](https://www.cursoemvideo.com/course/javascript/) | 5 Semanas | 8 horas/semana | Sintaxe; DOM; Funções.
 [Node.js (Express)](https://www.youtube.com/playlist?list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B) | 4 Semanas | 4 horas/semana | Handlebars; Middlewares; Sequelize; MVC.
-
+[Curso Básico REST APIs](https://www.youtube.com/playlist?list=PL3B-OV5dZTqbaLi1f2UmXEWbcx9WyYaTX) | 4 Semanas | 4 horas/semana | Handlebars; Middlewares; Sequelize; MVC.
+[Node.js (Express)](https://www.youtube.com/playlist?list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B) | 2 Semanas | 2 horas/semana | Modelos de Maturidade; Verbos e Status; Recursos; Modelagem.
 ### Desenvolvimento Mobile
 
 **Áreas de aplicação**:
