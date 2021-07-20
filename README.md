@@ -233,7 +233,6 @@ Curso | Duração | Dedicação | Conteúdos
 [Curso de JavaScript ES6](https://www.youtube.com/playlist?list=PLWhiA_CuQkbCX9nHuk4rolDYxlLUwXpNI) | 4 Semanas | 2 horas/semana | Sintaxe; DOM; Funções.
 [Debuggando JavaScript](https://www.youtube.com/playlist?list=PLg2lQYZDBwORqALpRkVPXEdgOloQz8sux) | - | 30 minutos | Logs; DEV Tools.
 [Curso de SASS](https://www.youtube.com/watch?v=XwPSWKnZIg4&list=PL97KElaimHeGRtfkksKwxg6IGVZi_cR7J) | 2 Semanas | 2 horas/semana | Preprocessamento CSS; Mixin; Output.
-[Curso de Bootstrap](https://www.youtube.com/watch?v=XwPSWKnZIg4&list=PL97KElaimHeGRtfkksKwxg6IGVZi_cR7J) | 2 Semanas | 2 horas/semana | Preprocessamento CSS; Mixin; Output.
 [Node.js (Express)](https://www.youtube.com/playlist?list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B) | 4 Semanas | 4 horas/semana | Handlebars; Middlewares; Sequelize; MVC.
 [ESLint + Prettier + editorconfig](https://www.youtube.com/watch?v=9UJYaAt7v2o) | - | 30 minutos | Formatação de Código; Padronização de Código; Linters.
 [Curso Básico REST APIs](https://www.youtube.com/playlist?list=PL3B-OV5dZTqbaLi1f2UmXEWbcx9WyYaTX) | 4 Semanas | 4 horas/semana | Modelos de Maturidade; Verbos e Status; Recursos; Modelagem.
