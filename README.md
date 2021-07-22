@@ -157,7 +157,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 [Programação Orientada a Objetos I](https://pt.coursera.org/learn/lab-poo-parte-1) | 6 Semanas | 4 horas/semana | OOP; Streams; MVC; Design Patterns. | Introdução à Ciência da Computação com Python II 
 [Bancos de Dados](https://www.youtube.com/playlist?list=PL4Sl6eAbMK7RSdXPe8lZ7s-xSitGHH4RZ) | 4 Semanas | 3 horas/semana | MER; Projeto de Banco de Dados; Normalização; SQL. | - 
 [Arquitetura de Computadores II](https://www.youtube.com/playlist?list=PLEUHFTHcrJmswfeq7QEHskgkT6HER3gK6) | 9 Semanas | 4 horas/semana | Cache; Paralelismo; ASM; RISC-V. | Arquitetura de Computadores I 
-[Estatística e Probabilidade](https://play.veduca.org/curso-online-probabilidade-e-estatistica) | 9 Semanas | 4 horas/semana | Espaços Discretos; Bayes; Distribuições; Variância; Regress. | Matemática Básica 
+[Estatística e Probabilidade](https://play.veduca.org/curso-online-probabilidade-e-estatistica) | 9 Semanas | 4 horas/semana | Espaços Discretos; Bayes; Distribuições; Variância; Regressão. | Matemática Básica 
 [Princípios de Desenvolvimento Ágil de Software](https://pt.coursera.org/learn/principios-de-desenvolvimento-agil-de-software) | 9 Semanas | 4 horas/semana | XP; User Stories; Taks; Sprint; Diagramas. | - 
 
 ### Desenvolvimento Teórico
