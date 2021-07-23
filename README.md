@@ -49,7 +49,7 @@ SOFTWARE.
 # Sumário
 
 O Curso de Ciência da Computação oferecido pela Universidade Livre Brasileira é **uma educação completa em Ciência da Computação** 
-usando materiais on-line e em Português do Brasil
+usando materiais on-line e em Português do Brasil.
 Esse Curso não é pensado para treinamento em tecnologias especificas ou focado em habilidades profissionais direcionadas ao mercado.
 Esse Curso é pensado para aqueles que desejam uma educação própria, *com qualidade*, fundada nos conceitos fundamentais da computação
 e é planejada para alunos com disciplina, cometimento e (o mais importante) bons hábitos de estudo majoritariamente independentes,
@@ -58,7 +58,7 @@ mas que buscam o suporte de uma comunidade de outros estudantes no Brasil todo.
 Esse curso contêm conteúdos que seriam vistos em um curso de Ciência da Computação organizados de forma estruturada e que contêm disciplinas
 relacionadas computação e também disciplinas de formação geral (acreditamos que uma formação completa abranja mais do que simplesmente CC).
 Os cursos em si são selecionados primariamente do conteúdo aberto de diversas Universidades e Institutos de Educação do Brasil, mas no geral
-os cursos presentes na grade seguem o seguinte critério:
+os cursos presentes na grade seguem os seguintes critérios:
 
 **Os Cursos devem**:
 - Ser gratuitos ou de conteúdo que possa ser assistido de forma aberta
