@@ -120,7 +120,7 @@ Curso | Duração | Dedicação | Conteúdos
 
 O currículo deste Curso se divide em duas categorias: a das Disciplinas de Formação Geral e as Disciplinas de Especialização. As disciplinas de formação geral são essenciais na formação de todos os alunos idependente de qual área ou especialização desejam seguir e são a base para o conteúdo técnico-teórico para os cursos de especialização. Você pode fazer os cursos na ordem, onde e como preferir e esse é o maior benefício da liberdade, mas por fins didáticos e de organização recomendamos que tente respeitar os pré-requisitos e que conclua todas as disciplinas de formação geral antes de prosseguir nas de especialização.
 
-![organização do currículo por área](https://i.imgur.com/DZZuqiq.png)
+![organização do currículo por área](https://github.com/Universidade-Livre/imagens/blob/main/curriculos/curriculo_ulivre_1.1.0.png)
 
 ---
 
@@ -132,7 +132,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 :-- | :--: | :--: | :--: | :--:
 [Introdução à Ciência da Computação com Python I](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) | 9 Semanas | 4 horas/semana | Algoritmos; Lógica de Programação; Python; Testes. | -
 [Matemática Básica](https://www.youtube.com/playlist?list=PLrOyM49ctTx9pRhKP90mGKhBstkTnBQbp) | 9 Semanas | 4 horas/semana | Números Primos; Bases Numéricas; Módulo; Gráficos. | -
-[Introdução à Conceitos de Computação](https://www.youtube.com/playlist?list=PLxI8Can9yAHcMJsy6GQ5URM9kU32ONOy9) | 4 semanas | 2 horas/semana | Sistemas Operacionais; Redes; Arquivos; História da Computação. | -
+[Ciência da Computação 50 (CC50)](https://cc50.estudarfora.org.br/) | 9 semanas | 4 horas/semana | Sistemas Operacionais; Redes; Arquivos; C; JS. | -
 [Leitura e Produção de Textos](https://www.youtube.com/playlist?list=PLxI8Can9yAHemh_YJh9GtkIUljZbI7Tvw) | 4 semanas | 2 horas/semana | Língua Portuguesa; Escrita; Gramática; Argumentação. | -
 [Circuitos Digitais](https://www.youtube.com/playlist?list=PLXyWBo_coJnMYO9Na3t-oYsc2X4kPJBWf) | 9 semanas | 4 horas/semana | Portas Lógicas; Diagramas; Máquinas de Estado; Projeto de Circuitos. | -
 <!---
