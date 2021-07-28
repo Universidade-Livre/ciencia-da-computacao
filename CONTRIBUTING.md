@@ -12,10 +12,6 @@ Se você está seguindo o Curso é de grande valor para nós saber como está se
 
 Todos os textos inclusive esse podem conter erros, frases que podem ser escritas de forma mais compreensível ou mal formadas, com erros de apresentação... quando encontrar um erro como esses você pode corrigi-lo e então abrir uma Pull Request ou então abrir uma issue para que outra pessoa possa corrigir.
 
-## Mudanças Pedagógicas
-
-Qualquer pessoa que tenha interesse em educação e deseja propor melhorias e mudanças pedagógicas no currículo é bem-vinda a abrir uma issue a respeito.
-
 ## Divulgação
 
 Ajudar esse projeto a chegar em mais pessoas é parte essencial para que possamos ajudar a oferecer a oportunidade de acesso ao maior número de pessoas possível. Toda a forma de divulgação é importante e valorizamos muito que apresente o projeto para outras pessoas seja através de grupos, redes sociais, palestras, eventos... enfim, como tiver oportunidade.
@@ -27,3 +23,7 @@ Caso você conheça conteúdos relevantes e gratuitos em Português que ainda n�
 ## Revisão de PR
 
 Opinar e revisar em PRs é importante para que possamos ter mais opiniões sobre as mudanças que estão sendo submetidas. Caso deseje fazer a revisão de uma Pull Request em aberto, basta participar da discussão na mesma.
+
+## Mudanças Pedagógicas
+
+Qualquer pessoa que tenha interesse em educação e deseja propor melhorias e mudanças pedagógicas no currículo é bem-vinda a abrir uma issue a respeito.
