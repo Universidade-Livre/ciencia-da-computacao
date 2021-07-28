@@ -2,7 +2,7 @@
 
 ## Ajudar outros estudantes
 
-O aprendizado sempre é catalisado por ter pessoas engajadas no mesmo objetivo. Voce pode ser a pessoa que pode fazer a diferença para alguém que está começando a estudar agora. Quando alguém novo chegar no Discord, pergunte quem ela é. Quando outra pessoa estiver começando a estudar ou fazendo um curso, porque nao estudar junto? Colaborando e ajudando outros estudantes voce está ajudando a criar uma experiencia de aprendizado melhor para todos, incluindo voce.
+O aprendizado sempre é catalisado por ter pessoas engajadas no mesmo objetivo. Voce pode ser a pessoa que pode fazer a diferença para alguém que está começando a estudar agora. Quando alguém novo chegar no Discord, pergunte quem ela é. Quando outra pessoa estiver começando a estudar ou fazendo um curso, porque não estudar junto? Colaborando e ajudando outros estudantes você está ajudando a criar uma experiência de aprendizado melhor para todos, incluindo você.
 
 ## Feedback
 
