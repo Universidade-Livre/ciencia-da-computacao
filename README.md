@@ -49,7 +49,7 @@ SOFTWARE.
 # Sumário
 
 O Curso de Ciência da Computação oferecido pela Universidade Livre Brasileira é **uma educação completa em Ciência da Computação** 
-usando materiais on-line e em Português do Brasil
+usando materiais on-line e em Português do Brasil.
 Esse Curso não é pensado para treinamento em tecnologias especificas ou focado em habilidades profissionais direcionadas ao mercado.
 Esse Curso é pensado para aqueles que desejam uma educação própria, *com qualidade*, fundada nos conceitos fundamentais da computação
 e é planejada para alunos com disciplina, cometimento e (o mais importante) bons hábitos de estudo majoritariamente independentes,
@@ -58,7 +58,7 @@ mas que buscam o suporte de uma comunidade de outros estudantes no Brasil todo.
 Esse curso contêm conteúdos que seriam vistos em um curso de Ciência da Computação organizados de forma estruturada e que contêm disciplinas
 relacionadas computação e também disciplinas de formação geral (acreditamos que uma formação completa abranja mais do que simplesmente CC).
 Os cursos em si são selecionados primariamente do conteúdo aberto de diversas Universidades e Institutos de Educação do Brasil, mas no geral
-os cursos presentes na grade seguem o seguinte critério:
+os cursos presentes na grade seguem os seguintes critérios:
 
 **Os Cursos devem**:
 - Ser gratuitos ou de conteúdo que possa ser assistido de forma aberta
@@ -102,8 +102,8 @@ apenas tenha sempre em mente que você não pode comprar o sucesso!
 
 # Comunidade
 
-- Temos um servidor no Discord! [![Discord](https://img.shields.io/discord/866378348368625704.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/wymGhmf7BT) Aqui você pode encontrar e interagir com outros estudantes. Porquê não se apresenta lá agora mesmo? [Vem pro Discord](https://discord.gg/wymGhmf7BT).
-- Você também pode interagir sobre questões a respeito do problemas com Curso, propor mudanças de Currículo e outras coisas relacionadas atráves das nossas [issues](https://github.com/Universidade-Livre/ciencia-da-computacao/issues), sinta-se a vontade para abrir discussões lá.
+- Temos um servidor no Discord! [![Discord](https://img.shields.io/discord/866378348368625704.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/wymGhmf7BT) Nele você pode encontrar e interagir com outros estudantes. Por que não se apresenta lá agora mesmo? [Vem pro Discord](https://discord.gg/wymGhmf7BT).
+- Você também pode interagir sobre questões a respeito dos problemas do Curso, propor mudanças de Currículo e outras coisas relacionadas atráves das nossas [issues](https://github.com/Universidade-Livre/ciencia-da-computacao/issues), sinta-se a vontade para abrir discussões lá.
 
 # Técnicas de estudo, organização e aprendizagem
 
@@ -112,13 +112,13 @@ Antes de começar a estudar é importante que você aprenda algumas coisas impor
 Curso | Duração | Dedicação | Conteúdos
 :-- | :--: | :--: | :--: 
 [Aprendendo a aprender](https://pt.coursera.org/learn/aprender) ¹ | 3 Semanas | 5 horas/semana | Memória; Técnicas de estudo; Recursos de estudo.
-[Como estudar do jeito certo](https://www.youtube.com/playlist?list=PL5TJqBvpXQv7Q2lT7L7BrTrh6tgZY872s) | 3 Semanas | 2 horas/semana | Tempo; Técnica; Dsicussão.
+[Como estudar do jeito certo](https://www.youtube.com/playlist?list=PL5TJqBvpXQv7Q2lT7L7BrTrh6tgZY872s) | 3 Semanas | 2 horas/semana | Tempo; Técnica; Discussão.
 
 ¹ Disponível com legendas em Português.
 
 # Currículo
 
-O currículo deste Curso se divide em duas categorias: a das Disciplinas de Formação Geral e as Disciplinas de Especialização. As disciplinas de formação geral são essenciais na formação de todos os alunos idependente de qual área ou especialização desejam seguir e são a base para o conteúdo técnico-teórico para os cursos de especialização. Você pode fazer os cursos na ordem, onde e como preferir e esse é o maior benefício da liberdade, mas por fins didáticos e de organização recomendamos que tente respeitar os pré-requisitos e que conclua todas as disciplinas de formação geral antes de prosseguir nas de especialização.
+O currículo deste Curso se divide em duas categorias: a das Disciplinas de Formação Geral e as Disciplinas de Especialização. As disciplinas de formação geral são essenciais na formação de todos os alunos independente de qual área ou especialização desejam seguir e são a base para o conteúdo técnico-teórico para os cursos de especialização. Você pode fazer os cursos na ordem, onde e como preferir e esse é o maior benefício da liberdade, mas por fins didáticos e de organização recomendamos que tente respeitar os pré-requisitos e que conclua todas as disciplinas de formação geral antes de prosseguir nas de especialização.
 
 ![organização do currículo por área](https://github.com/Universidade-Livre/imagens/blob/main/curriculos/curriculo_ulivre_1.1.0.png)
 
@@ -189,7 +189,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 
 ## Especializações
 
-Após ter concluído a formação geral, você já deve ter uma ampla visão sobre Ciência da Computação, seus fundamentos e aplicações e estará mais que preparado para escolher uma área de especialidade dentro de suas aplicações para se tornar especialista. A partir daqui não vamos mais elencar pré-requisitos, pois entendemos que a partir de ter a bagagem da formação geral o aluno já consegue ter pleno conhecimento sobre como estudar temas complexos e consegue decidir como e quando fazer cada curso sem necessitar de recomendaç
+Após ter concluído a formação geral, você já deve ter uma ampla visão sobre Ciência da Computação, seus fundamentos e aplicações e estará mais que preparado para escolher uma área de especialidade dentro de suas aplicações para se tornar especialista. A partir daqui não vamos mais elencar pré-requisitos, pois entendemos que com a bagagem da formação geral o aluno já consegue ter pleno conhecimento sobre como estudar temas complexos e decidir como e quando fazer cada curso sem necessitar de recomendação.
 
 ### Computação Gráfica
 
@@ -249,7 +249,7 @@ Curso | Duração | Dedicação | Conteúdos
 `sistemas on-line`
 `APIs`
 `computação em nuvem`
-`streamming`
+`streaming`
 `e mais`
 
 
@@ -297,12 +297,12 @@ Curso | Duração | Dedicação | Conteúdos
 ### Data Science
 
 **Áreas de aplicação**:
-`analise de dados`
+`análise de dados`
 `visualização de dados`
 `machine learning`
 `deep learning`
-`sistemas epecialistas`
-`estat`
+`sistemas especialistas`
+`estatística`
 `e mais`
 
 (*Em construção*)
