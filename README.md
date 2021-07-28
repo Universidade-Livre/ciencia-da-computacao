@@ -236,7 +236,7 @@ Curso | Duração | Dedicação | Conteúdos
 [Curso de AVR Periféricos](https://www.youtube.com/playlist?list=PLMdNWywlSE5TtOxRm6frvH_om1NOyj33H) | 2 Semanas | 3 horas/semana | Displays; Timers; Conversores; Comunicação.
 [Curso de C++](https://www.youtube.com/playlist?list=PLIUc9-A-aPpqrzY3YuWDUOyQLOBCb5lck) | 3 Semanas | 4 horas/semana | OOP; Smart Pointers; Biblioteca padrão.
 [Cuso de FreeRTOS](https://www.youtube.com/playlist?list=PLU15eSNTfwrnlzgvMmb1NK7l0qNo8UMKr) | 2 Semanas | 2 horas/semana | Filas; Tasks; Timers; Async.
-[Cuso de LoRaWan](https://www.youtube.com/watch?v=iPGXyeHv5JQ&list=PLU15eSNTfwrnd1I835eFA124rd4CVGq3e) | 1 Semanas | 3 horas/semana | Protocolo; Camadas; ADR; AU915.
+[Cuso de LoRaWan](https://www.youtube.com/watch?v=iPGXyeHv5JQ&list=PLU15eSNTfwrnd1I835eFA124rd4CVGq3e) | 1 Semana | 3 horas/semana | Protocolo; Camadas; ADR; AU915.
 [Curso de FPGA](https://www.youtube.com/playlist?list=PLZ8dBTV2_5HS79fVexGTtCMDUp7kjnumS) | 4 Semanas | 4 horas/semana | VHDL; Verilog; ASIC. 
 (*Em construção*)
 
