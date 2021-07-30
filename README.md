@@ -21,7 +21,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 -->
-![placeholder](https://uploaddeimagens.com.br/images/003/361/136/original/placeholder.jpg)
+<img align="center" src="https://uploaddeimagens.com.br/images/003/361/136/original/placeholder.jpg">
 
 <h3 align="center">Universidade Livre Brasileira</h3>
 <p align="center">
