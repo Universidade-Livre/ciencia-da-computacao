@@ -160,7 +160,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 [Programação Orientada a Objetos I](https://pt.coursera.org/learn/lab-poo-parte-1) | 6 Semanas | 4 horas/semana | OOP; Streams; MVC; Design Patterns. | Introdução à Ciência da Computação com Python II 
 [Bancos de Dados](https://www.youtube.com/playlist?list=PL4Sl6eAbMK7RSdXPe8lZ7s-xSitGHH4RZ) | 4 Semanas | 3 horas/semana | MER; Projeto de Banco de Dados; Normalização; SQL. | - 
 [Arquitetura de Computadores II](https://www.youtube.com/playlist?list=PLEUHFTHcrJmswfeq7QEHskgkT6HER3gK6) | 9 Semanas | 4 horas/semana | Cache; Paralelismo; ASM; RISC-V. | Arquitetura de Computadores I 
-[Estatística e Probabilidade](https://play.veduca.org/curso-online-probabilidade-e-estatistica) | 9 Semanas | 4 horas/semana | Espaços Discretos; Bayes; Distribuições; Variância; Regressão. | Matemática Básica 
+[Estatística e Probabilidade](https://www.youtube.com/playlist?list=PLxI8Can9yAHeeWqe3m9HZFiBhT33Mfxew) | 9 Semanas | 4 horas/semana | Espaços Discretos; Bayes; Distribuições; Variância; Regressão. | Matemática Básica 
 [Princípios de Desenvolvimento Ágil de Software](https://pt.coursera.org/learn/principios-de-desenvolvimento-agil-de-software) | 9 Semanas | 4 horas/semana | XP; User Stories; Taks; Sprint; Diagramas. | - 
 
 ### Desenvolvimento Teórico
@@ -189,7 +189,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 [Compiladores](https://www.youtube.com/playlist?list=PLjcmNukBom6--0we1zrpoUE2GuRD-Me6W) | 2 Semanas | 3 horas/semana | Lexers; Parsers; AST; Generators.  | Teoria dos Grafos
 [Gerência da Qualidade de Software](https://www.youtube.com/watch?v=Rr89ePGLAmI&list=PLxI8Can9yAHcmjsfjFdo_xJ3xhLiczzLC) | 2 Semanas | 3 horas/semana | Testes; Estimativas; Processos.  | -
 [Fundamentos da Inteligência Artificial](https://www.youtube.com/playlist?list=PLtQM10PgmGogjn0cikgWi8wpQUnV6ERkY) | 2 Semanas | 3 horas/semana | Regressão Linear; Gradientes; Redes Neurais; Perceptons.  | Teoria dos Grafos
-[Metodologia da Pesquisa em Computação](https://play.veduca.org/curso-online-metodologia-cientifica) | 8 Semanas | 5 horas/semana | Pesquisa; Artigos; Métodos; Publicação.  | -
+[Metodologia da Pesquisa em Computação](https://www.youtube.com/playlist?list=PLclUQno6PMpQO0-XrDwWsPzRzEvjwp1__) | 8 Semanas | 5 horas/semana | Pesquisa; Artigos; Métodos; Publicação.  | -
 
 ## Especializações
 
