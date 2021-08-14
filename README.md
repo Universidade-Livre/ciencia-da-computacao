@@ -53,12 +53,12 @@ SOFTWARE.
 
 O Curso de Ciência da Computação oferecido pela Universidade Livre Brasileira é **uma educação completa em Ciência da Computação** 
 usando materiais on-line e em Português do Brasil.
-Esse Curso não é pensado para treinamento em tecnologias especificas ou focado em habilidades profissionais direcionadas ao mercado.
+Esse Curso não é pensado para treinamento em tecnologias específicas ou focado em habilidades profissionais direcionadas ao mercado.
 Esse Curso é pensado para aqueles que desejam uma educação própria, *com qualidade*, fundada nos conceitos fundamentais da computação
 e é planejada para alunos com disciplina, cometimento e (o mais importante) bons hábitos de estudo majoritariamente independentes,
 mas que buscam o suporte de uma comunidade de outros estudantes no Brasil todo.
 
-Esse curso contêm conteúdos que seriam vistos em um curso de Ciência da Computação organizados de forma estruturada e que contêm disciplinas
+Esse curso contém conteúdos que seriam vistos em um curso de Ciência da Computação organizados de forma estruturada e que contêm disciplinas
 relacionadas computação e também disciplinas de formação geral (acreditamos que uma formação completa abranja mais do que simplesmente CC).
 Os cursos em si são selecionados primariamente do conteúdo aberto de diversas Universidades e Institutos de Educação do Brasil, mas no geral
 os cursos presentes na grade seguem os seguintes critérios:
@@ -71,20 +71,20 @@ os cursos presentes na grade seguem os seguintes critérios:
 
 Os cursos tem como suplementação sempre que possível livros.
 Quando um livro ou curso de qualidade for recomendável a leitura, mas não encaixar-se com o currículo
-ele deverá ser adicionado nas listas de [cursos extra](#) e [livros extra](#) respectivamente.
+ele deverá ser adicionado nas listas de [cursos extras](#) e [livros extras](#) respectivamente.
 
 **Organização**. O Currículo é organizado da seguinte forma:
 - **Introdução a Computação**: Contêm os conteúdos de introdução, é onde você pode começar e ver se quer fazer CS.
 - **Aprofundamento de Conceitos Introdutórios**: Contêm os conteúdos que começam a aprofundar os conceitos introdutórios.
 - **Desenvolvimento Teórico**: Contêm os conteúdos que servem como base para a construção de bases teóricas.
 - **Desenvolvimento Técnico**: Contêm os conteúdos que começam a desenvolver bases técnicas.
-- **Aprofundamento Técnico**: Contêm os conteúdos que utilizam as bases teóricas e técnicas para contruir fundamentos práticos.
+- **Aprofundamento Técnico**: Contêm os conteúdos que utilizam as bases teóricas e técnicas para construir fundamentos práticos.
 - **Tópicos Finais**: Conteúdos que utilizam-se de todo conhecimento adquirido nos tópicos anteriores para técnicas avançadas de computação.
 
 **Duração**. É possível terminar o curso em x anos, dedicando x horas por dia. Os estudantes podem utilizar a [planilha que ainda vamos disponibilizar
 ](#) para estimar o tempo de curso que ainda falta para a conclusão. 
 
-**Custo**. Todos os cursos podem ser completados de forma gratuita. Porém, alguns cursos tem diplomas/certificados/atividades/extras opcionais que são pagos.
+**Custo**. Todos os cursos podem ser completados de forma gratuita. Porém, alguns cursos têm diplomas/certificados/atividades/extras opcionais que são pagos.
 Observe que o [Coursera](https://learner.coursera.help/hc/en-us/articles/209819033-Apply-for-Financial-Aid) oferece ajuda financeira.
 
 Decida quanto tempo de curso e quanto quer gastar em seus estudos nesse curso por sua própria conta,
@@ -105,8 +105,8 @@ apenas tenha sempre em mente que você não pode comprar o sucesso!
 
 # Comunidade
 
-- Temos um servidor no Discord! [![Discord](https://img.shields.io/discord/866378348368625704.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/wymGhmf7BT) Nele você pode encontrar e interagir com outros estudantes. Por que não se apresenta lá agora mesmo? [Vem pro Discord](https://discord.gg/wymGhmf7BT).
-- Você também pode interagir sobre questões a respeito dos problemas do Curso, propor mudanças de Currículo e outras coisas relacionadas atráves das nossas [issues](https://github.com/Universidade-Livre/ciencia-da-computacao/issues), sinta-se a vontade para abrir discussões lá.
+- Temos um servidor no Discord! [![Discord](https://img.shields.io/discord/866378348368625704.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/wymGhmf7BT) Nele pode encontrar e interagir com outros estudantes. Por que não se apresenta lá agora mesmo? [Vem para o Discord](https://discord.gg/wymGhmf7BT).
+- Você também pode interagir sobre questões a respeito dos problemas do Curso, propor mudanças de Currículo e outras coisas relacionadas através das nossas [issues](https://github.com/Universidade-Livre/ciencia-da-computacao/issues), sinta-se a vontade para abrir discussões lá.
 
 # Técnicas de estudo, organização e aprendizagem
 
@@ -150,7 +150,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 [Introdução à Ciência da Computação com Python II](https://pt.coursera.org/learn/ciencia-computacao-python-conceitos-2) | 6 Semanas | 4 horas/semana | Matrizes; POO; Recursão; Complexidade de Algoritmos. | Introdução à Ciência da Computação com Python I 
 [Fundamentos Matemáticos para Computação](https://www.youtube.com/watch?v=QE6ruiq632o&list=PLrOyM49ctTx-HWypJVvn_zMO1o7oOAfVx) | 9 Semanas | 4 horas/semana | Lógica Formal; PROLOG; Recursão; Matrizes; Booleanos; Grafos. | Matemática Básica
 [Arquitetura de Computadores I](https://www.youtube.com/playlist?list=PLEUHFTHcrJmswfeq7QEHskgkT6HER3gK6) | 9 Semanas | 4 horas/semana | Memória; Booleans; Arquitetura; RISC-V. | Circuitos Digitais
-[Noções de Ingês](https://www.youtube.com/playlist?list=PLxI8Can9yAHeYb4-3dXwiY2Z9VdqhnqpM) | 9 Semanas | 4 horas/semana | Inglês básico; Técnicas de Leitura; Escrita. | -
+[Noções de Inglês](https://www.youtube.com/playlist?list=PLxI8Can9yAHeYb4-3dXwiY2Z9VdqhnqpM) | 9 Semanas | 4 horas/semana | Inglês básico; Técnicas de Leitura; Escrita. | -
 [Noções de Direitos Autorais, parte I](https://www.escolavirtual.gov.br/curso/72) | 9 Semanas | 4 horas/semana | Direito Autoral; Direito do Autor; Limitação do Direito do Autor. | -
 [Noções de Direitos Autorais, parte II](https://www.youtube.com/watch?v=XPLZSlop64I&list=PLxI8Can9yAHcoBrn53XO581IsIXHqgShZ) | 9 Semanas | 4 horas/semana | Patentes Digitais; Registro de Programas de Computador. | Noções de Direitos Autorais, parte I 
 
@@ -160,7 +160,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 [Programação Orientada a Objetos I](https://pt.coursera.org/learn/lab-poo-parte-1) | 6 Semanas | 4 horas/semana | OOP; Streams; MVC; Design Patterns. | Introdução à Ciência da Computação com Python II 
 [Bancos de Dados](https://www.youtube.com/playlist?list=PL4Sl6eAbMK7RSdXPe8lZ7s-xSitGHH4RZ) | 4 Semanas | 3 horas/semana | MER; Projeto de Banco de Dados; Normalização; SQL. | - 
 [Arquitetura de Computadores II](https://www.youtube.com/playlist?list=PLEUHFTHcrJmswfeq7QEHskgkT6HER3gK6) | 9 Semanas | 4 horas/semana | Cache; Paralelismo; ASM; RISC-V. | Arquitetura de Computadores I 
-[Estatística e Probabilidade](https://play.veduca.org/curso-online-probabilidade-e-estatistica) | 9 Semanas | 4 horas/semana | Espaços Discretos; Bayes; Distribuições; Variância; Regressão. | Matemática Básica 
+[Estatística e Probabilidade](https://www.youtube.com/playlist?list=PLxI8Can9yAHeeWqe3m9HZFiBhT33Mfxew) | 9 Semanas | 4 horas/semana | Espaços Discretos; Bayes; Distribuições; Variância; Regressão. | Matemática Básica 
 [Princípios de Desenvolvimento Ágil de Software](https://pt.coursera.org/learn/principios-de-desenvolvimento-agil-de-software) | 9 Semanas | 4 horas/semana | XP; User Stories; Taks; Sprint; Diagramas. | - 
 
 ### Desenvolvimento Teórico
@@ -189,7 +189,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 [Compiladores](https://www.youtube.com/playlist?list=PLjcmNukBom6--0we1zrpoUE2GuRD-Me6W) | 2 Semanas | 3 horas/semana | Lexers; Parsers; AST; Generators.  | Teoria dos Grafos
 [Gerência da Qualidade de Software](https://www.youtube.com/watch?v=Rr89ePGLAmI&list=PLxI8Can9yAHcmjsfjFdo_xJ3xhLiczzLC) | 2 Semanas | 3 horas/semana | Testes; Estimativas; Processos.  | -
 [Fundamentos da Inteligência Artificial](https://www.youtube.com/playlist?list=PLtQM10PgmGogjn0cikgWi8wpQUnV6ERkY) | 2 Semanas | 3 horas/semana | Regressão Linear; Gradientes; Redes Neurais; Perceptons.  | Teoria dos Grafos
-[Metodologia da Pesquisa em Computação](https://play.veduca.org/curso-online-metodologia-cientifica) | 8 Semanas | 5 horas/semana | Pesquisa; Artigos; Métodos; Publicação.  | -
+[Metodologia da Pesquisa em Computação](https://www.youtube.com/playlist?list=PLclUQno6PMpQO0-XrDwWsPzRzEvjwp1__) | 8 Semanas | 5 horas/semana | Pesquisa; Artigos; Métodos; Publicação.  | -
 
 ## Especializações
 
