@@ -195,10 +195,8 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 
 Após ter concluído a formação geral, você já deve ter uma ampla visão sobre Ciência da Computação, seus fundamentos e aplicações e estará mais que preparado para escolher uma área de especialidade dentro de suas aplicações para se tornar especialista. A partir daqui não vamos mais elencar pré-requisitos, pois entendemos que com a bagagem da formação geral o aluno já consegue ter pleno conhecimento sobre como estudar temas complexos e decidir como e quando fazer cada curso sem necessitar de recomendação.
 
-Especialização     | Duração     | Dedicação                | O que é? | Áreas de Atuação
-:--                | :--:        | :--:                     | :--:     | :-- 
-[Computação Gráfica](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/computer_graphics.md) | 15+ semanas | M<sub>e</sub> 4 h/semana | [Computação Gráfica - Nerdologia](https://www.youtube.com/watch?v=-4_OU95nKuU) | `softwares gráficos`, `aplicações 3D`, `games`, `fotorealismo`, `sistemas gráficos`, `simuladores`, `e mais`
-[Embarcados](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/embedded_systems.md)         | 31 semanas  | M<sub>e</sub> 4 h/semana | [Sistemas Embarcados - Dicionário do Programador](https://www.youtube.com/watch?v=XppU8kKpa6I) | `internet das coisas`, `controles industriais`, `coisas inteligentes`, `wearables`, `cidades inteligentes`, `automobilismo`, `e mais`
-[Desenvolvimento Web](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/web_development.md) | 37 semanas | M<sub>e</sub> 4 h/semana | [Desenvolvimento Web - Hostinger](https://www.youtube.com/watch?v=fBLRkIA7Y9M) ¹ | `aplicações em servidor`, `layout de páginas web`, `sistemas on-line`, `APIs`, `computação em nuvem`, `streaming`, `e mais`
-
-¹ Contêm propaganda feita de forma não explícita a um produto da empresa dona do Canal, não é uma recomendação de serviço ou produto, apenas de conteúdo.
+Especialização     | Duração     | Dedicação                | Áreas de Atuação
+:--                | :--:        | :--:                     | :--     
+[Computação Gráfica](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/computer_graphics.md) | 15+ semanas | M<sub>e</sub> 4 h/semana | `softwares gráficos`, `aplicações 3D`, `games`, `fotorealismo`, `sistemas gráficos`, `simuladores`, `e mais`
+[Embarcados](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/embedded_systems.md)         | 31 semanas  | M<sub>e</sub> 4 h/semana | `internet das coisas`, `controles industriais`, `coisas inteligentes`, `wearables`, `cidades inteligentes`, `automobilismo`, `e mais`
+[Desenvolvimento Web](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/web_development.md) | 37 semanas | M<sub>e</sub> 4 h/semana | `aplicações em servidor`, `layout de páginas web`, `sistemas on-line`, `APIs`, `computação em nuvem`, `streaming`, `e mais`
