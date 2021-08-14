@@ -197,6 +197,6 @@ Após ter concluído a formação geral, você já deve ter uma ampla visão sob
 
 Especialização     | Duração     | Dedicação                | Áreas de Atuação
 :--                | :--:        | :--:                     | :--     
-[Computação Gráfica](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/computer_graphics.md) | 15+ semanas | M<sub>e</sub> 4 h/semana | `softwares gráficos`, `aplicações 3D`, `games`, `fotorealismo`, `sistemas gráficos`, `simuladores`, `e mais`
-[Embarcados](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/embedded_systems.md)         | 31 semanas  | M<sub>e</sub> 4 h/semana | `internet das coisas`, `controles industriais`, `coisas inteligentes`, `wearables`, `cidades inteligentes`, `automobilismo`, `e mais`
-[Desenvolvimento Web](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/web_development.md) | 37 semanas | M<sub>e</sub> 4 h/semana | `aplicações em servidor`, `layout de páginas web`, `sistemas on-line`, `APIs`, `computação em nuvem`, `streaming`, `e mais`
+[Computação Gráfica](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/computer_graphics.md) | 15+ semanas | Média de 4 h/semana | `softwares gráficos`, `aplicações 3D`, `games`, `fotorealismo`, `sistemas gráficos`, `simuladores`, `e mais`
+[Embarcados](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/embedded_systems.md)         | 31 semanas  | Média de 4 h/semana | `internet das coisas`, `controles industriais`, `coisas inteligentes`, `wearables`, `cidades inteligentes`, `automobilismo`, `e mais`
+[Desenvolvimento Web](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/web_development.md) | 37 semanas | Média de  4 h/semana | `aplicações em servidor`, `layout de páginas web`, `sistemas on-line`, `APIs`, `computação em nuvem`, `streaming`, `e mais`
