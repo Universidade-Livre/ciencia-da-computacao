@@ -1,13 +1,6 @@
-### Computação Gráfica
+## Computação Gráfica
 
-**Áreas de aplicação**:
-`softwares gráficos`
-`aplicações 3D`
-`games`
-`fotorealismo`
-`sistemas gráficos`
-`simuladores`
-`e mais`
+A computação gráfica é a área da computação destinada à geração de imagens em geral — em forma de representação de dados e informação, ou em forma de recriação do mundo real. Ela pode possuir uma infinidade de aplicações para diversas áreas, desde a própria informática, ao produzir interfaces gráficas para software, sistemas operacionais e sites na Internet, quanto para produzir animações e jogos. 
 
 Curso | Duração | Dedicação | Conteúdos
 :-- | :--: | :--: | :--:

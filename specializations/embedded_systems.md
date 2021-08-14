@@ -1,13 +1,6 @@
-### Embarcados
+## Embarcados
 
-**Áreas de aplicação**:
-`internet das coisas`
-`controles industriais`
-`coisas inteligentes`
-`wearables`
-`cidades inteligentes`
-`automobilismo`
-`e mais`
+Um sistema embarcado (ou sistema embutido) é um sistema microprocessado no qual o computador é completamente encapsulado ou dedicado ao dispositivo ou sistema que ele controla. Diferentemente de computadores de propósito geral, como o computador pessoal, um sistema embarcado realiza um conjunto de tarefas predefinidas, geralmente com requisitos específicos. Sistemas embarcados são utilizados para o desenvolvimento de veículos, eletrodomésticos, hardware de dispositivos computacionais e muitas outras coisas que usamos no nosso dia-a-dia.
 
 Curso | Duração | Dedicação | Conteúdos
 :-- | :--: | :--: | :--:
