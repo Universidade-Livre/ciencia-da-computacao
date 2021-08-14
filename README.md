@@ -200,3 +200,26 @@ Especialização     | Duração     | Dedicação                | Áreas de At
 [Computação Gráfica](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/computer_graphics.md) | 15+ semanas | Média de 4 h/semana | `softwares gráficos`, `aplicações 3D`, `games`, `fotorealismo`, `sistemas gráficos`, `simuladores`, `e mais`
 [Embarcados](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/embedded_systems.md)         | 31 semanas  | Média de 4 h/semana | `internet das coisas`, `controles industriais`, `coisas inteligentes`, `wearables`, `cidades inteligentes`, `automobilismo`, `e mais`
 [Desenvolvimento Web](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/web_development.md) | 37 semanas | Média de  4 h/semana | `aplicações em servidor`, `layout de páginas web`, `sistemas on-line`, `APIs`, `computação em nuvem`, `streaming`, `e mais`
+
+## Como demonstrar o meu progresso?
+
+A melhor forma de demonstrar sua evolução e maturidade ao longo do currículo é através de projetos práticos que demonstrem um pouco do que você aprendeu em cada disciplina, isso vai desde projetos guiados em muitas disciplinas, até projetos que você decida fazer para se testar e constuir coisas com o que aprendeu. Compartilhar sobre os projetos que tem feito ao longo do Curso, seja através de redes sociais, blogs, tutoriais, streamming... vai demonstrar para as pessoas do meio técnico e de outros meios o quanto você aprendeu e evoluiu ao longo dessa jornada.
+
+Não deixe de hospedar todos os seus códigos em seu perfil do GitHub, mesmo que sejam pequenos projetos ou apenas exercícios eles podem demonstrar muito sobre o que você tem estudado, como você resolve problemas e o quanto você melhorou ao longo do tempo.0
+
+## Parabéns!
+Após completar todos os requisitos do currículo acima e aprender ao menos uma especialização você já viu todo o conteúdo equivalente a um Bacharelado completo em Ciência da Computação. Parabéns!
+
+O que fazer após isso? Bem, na verdade as possibilidades são sem limites e interconectadas:
+- Procurar um trabalho como Desenvolvedor em sua especialidade.
+- Aprender mais lendo livros clássicos de Ciência da Computação em um Clube do Livro para melhorar suas habilidades e expandir seu conhecimento (além de fazer muitos amigos)!
+- Participar ou organizar meetups de tecnologia.
+- Encontrar novas tecnologias que estão crescendo:
+  - Explorar o **modelo de atores (actor model)** com [Elixir](https://github.com/aleDsz/elixir4noobs) ou [Scala](https://www.coursera.org/specializations/scala), que são linguagens modernas com ferramental e bibliotecas muito interessantes para Desenvolvimento Web e que utilizam VM's muito poderosas!
+  - Explorar  **empréstimo (borrowing) e tempo de vida (lifetimes)** em [Rust](https://www.rust-lang.org/pt-BR), uma linguagem que tem [segurança de memória](https://pt.wikipedia.org/wiki/Seguran%C3%A7a_de_mem%C3%B3ria) e de [fio de execução](https://pt.wikipedia.org/wiki/Thread_safety) sem um [coletor de lixo](https://pt.wikipedia.org/wiki/Thread_safety)!
+  - Aprender mais sobre **tipos** e **inferência de tipos** com [OCaml](https://github.com/Camilotk/ocaml4noobs), uma linguagem multiparadigma com inferência estática de tipos!
+
+ ## Time
+
+  - [Camilo Cunha de Azevedo](https://github.com/Camilotk): Fundador da ULivre
+  - [Mateus Roveda](https://github.com/mateusrovedaa): Líder de Comunidade
