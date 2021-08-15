@@ -234,7 +234,7 @@ Nosso muito obrigado a todas essas pessoas!
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/fabiokon"><img src="https://avatars.githubusercontent.com/u/1528912?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Fabio Kon</b></sub></a><br /><a href="#video-fabiokon" title="Videos">📹</a></td>
+    <td align="center"><a href="https://github.com/fabiokon"><img src="https://www.ime.usp.br/~kon/" width="100px;" alt=""/><br /><sub><b>Fabio Kon</b></sub></a><br /><a href="#video-fabiokon" title="Videos">📹</a></td>
     <td align="center"><a href="https://github.com/professordouglasmaioli"><img src="https://avatars.githubusercontent.com/u/76759425?v=4?s=100" width="100px;" alt=""/><br /><sub><b>professordouglasmaioli</b></sub></a><br /><a href="#video-professordouglasmaioli" title="Videos">📹</a></td>
     <td align="center"><a href="https://github.com/gablg1"><img src="https://avatars.githubusercontent.com/u/5253695?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Gabriel Guimaraes</b></sub></a><br /><a href="#video-gablg1" title="Videos">📹</a></td>
     <td align="center"><a href="http://dca.ufrn.br/~souza"><img src="https://avatars.githubusercontent.com/u/5923790?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Pedro Thiago Valério de Souza</b></sub></a><br /><a href="#video-pedrothiag" title="Videos">📹</a></td>
