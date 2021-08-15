@@ -1,0 +1,78 @@
+{
+  "projectName": "ciencia da computacao",
+  "projectOwner": "Camilotk",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "none",
+  "contributors": [
+    {
+      "login": "fabiokon",
+      "name": "Fabio Kon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1528912?v=4",
+      "profile": "https://github.com/fabiokon",
+      "contributions": [
+        "video"
+      ]
+    },
+    {
+      "login": "professordouglasmaioli",
+      "name": "professordouglasmaioli",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76759425?v=4",
+      "profile": "https://github.com/professordouglasmaioli",
+      "contributions": [
+        "video"
+      ]
+    },
+    {
+      "login": "gablg1",
+      "name": "Gabriel Guimaraes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5253695?v=4",
+      "profile": "https://github.com/gablg1",
+      "contributions": [
+        "video"
+      ]
+    },
+    {
+      "login": "pedrothiag",
+      "name": "Pedro Thiago Valério de Souza",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5923790?v=4",
+      "profile": "http://dca.ufrn.br/~souza",
+      "contributions": [
+        "video"
+      ]
+    },
+    {
+      "login": "rjazevedo",
+      "name": "Rodolfo Azevedo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/691525?v=4",
+      "profile": "http://www.ic.unicamp.br/~rodolfo",
+      "contributions": [
+        "video"
+      ]
+    },
+    {
+      "login": "guerraem",
+      "name": "Eduardo Guerra",
+      "avatar_url": "https://avatars.githubusercontent.com/u/907905?v=4",
+      "profile": "https://github.com/guerraem",
+      "contributions": [
+        "video"
+      ]
+    },
+    {
+      "login": "bosontreinamentos",
+      "name": "Fábio dos Reis",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22084794?v=4",
+      "profile": "https://github.com/bosontreinamentos",
+      "contributions": [
+        "video"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}

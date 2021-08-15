@@ -223,3 +223,30 @@ O que fazer após isso? Bem, na verdade as possibilidades são sem limites e int
 
   - [Camilo Cunha de Azevedo](https://github.com/Camilotk): Fundador da ULivre
   - [Mateus Roveda](https://github.com/mateusrovedaa): Líder de Comunidade
+
+## Contribuidores
+(*em atualização*)
+
+Nosso muito obrigado a todas essas pessoas!
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/fabiokon"><img src="https://avatars.githubusercontent.com/u/1528912?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Fabio Kon</b></sub></a><br /><a href="#video-fabiokon" title="Videos">📹</a></td>
+    <td align="center"><a href="https://github.com/professordouglasmaioli"><img src="https://avatars.githubusercontent.com/u/76759425?v=4?s=100" width="100px;" alt=""/><br /><sub><b>professordouglasmaioli</b></sub></a><br /><a href="#video-professordouglasmaioli" title="Videos">📹</a></td>
+    <td align="center"><a href="https://github.com/gablg1"><img src="https://avatars.githubusercontent.com/u/5253695?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Gabriel Guimaraes</b></sub></a><br /><a href="#video-gablg1" title="Videos">📹</a></td>
+    <td align="center"><a href="http://dca.ufrn.br/~souza"><img src="https://avatars.githubusercontent.com/u/5923790?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Pedro Thiago Valério de Souza</b></sub></a><br /><a href="#video-pedrothiag" title="Videos">📹</a></td>
+    <td align="center"><a href="http://www.ic.unicamp.br/~rodolfo"><img src="https://avatars.githubusercontent.com/u/691525?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rodolfo Azevedo</b></sub></a><br /><a href="#video-rjazevedo" title="Videos">📹</a></td>
+    <td align="center"><a href="https://github.com/guerraem"><img src="https://avatars.githubusercontent.com/u/907905?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Eduardo Guerra</b></sub></a><br /><a href="#video-guerraem" title="Videos">📹</a></td>
+    <td align="center"><a href="https://github.com/bosontreinamentos"><img src="https://avatars.githubusercontent.com/u/22084794?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Fábio dos Reis</b></sub></a><br /><a href="#video-bosontreinamentos" title="Videos">📹</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
