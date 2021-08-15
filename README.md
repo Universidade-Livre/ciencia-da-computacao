@@ -275,3 +275,4 @@ Nosso muito obrigado a todas essas pessoas!
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+*E a todos os outros educadores, produtores de conteúdo e pessoas que contribuiram com esse projeto, mas não possuem perfil ou ainda não os encontramos!*
