@@ -242,6 +242,13 @@ Nosso muito obrigado a todas essas pessoas!
     <td align="center"><a href="https://github.com/guerraem"><img src="https://avatars.githubusercontent.com/u/907905?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Eduardo Guerra</b></sub></a><br /><a href="#video-guerraem" title="Videos">📹</a></td>
     <td align="center"><a href="https://github.com/bosontreinamentos"><img src="https://avatars.githubusercontent.com/u/22084794?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Fábio dos Reis</b></sub></a><br /><a href="#video-bosontreinamentos" title="Videos">📹</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/matheusfelipeog"><img src="https://avatars.githubusercontent.com/u/50463866?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Matheus Felipe</b></sub></a><br /><a href="https://github.com/Camilotk/ciencia da computacao/pulls?q=is%3Apr+reviewed-by%3Amatheusfelipeog" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://jjpaulo2.github.io/"><img src="https://avatars.githubusercontent.com/u/22819523?v=4?s=100" width="100px;" alt=""/><br /><sub><b>João Paulo Carvalho</b></sub></a><br /><a href="#ideas-jjpaulo2" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://sswellington.github.io/"><img src="https://avatars.githubusercontent.com/u/45939490?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Wellington Silva</b></sub></a><br /><a href="#ideas-sswellington" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://youtube.com/programacaodinamica"><img src="https://avatars.githubusercontent.com/u/5713977?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Hallison Paz</b></sub></a><br /><a href="#video-hallpaz" title="Videos">📹</a> <a href="#ideas-hallpaz" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="http://menteb.in/"><img src="https://avatars.githubusercontent.com/u/1429647?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Fernando Mercês</b></sub></a><br /><a href="#video-merces" title="Videos">📹</a> <a href="#maintenance-merces" title="Maintenance">🚧</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-restore -->

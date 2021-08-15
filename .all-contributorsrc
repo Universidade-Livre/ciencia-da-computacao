@@ -72,6 +72,53 @@
       "contributions": [
         "video"
       ]
+    },
+    {
+      "login": "matheusfelipeog",
+      "name": "Matheus Felipe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50463866?v=4",
+      "profile": "https://github.com/matheusfelipeog",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "jjpaulo2",
+      "name": "João Paulo Carvalho",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22819523?v=4",
+      "profile": "https://jjpaulo2.github.io/",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "sswellington",
+      "name": "Wellington Silva",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45939490?v=4",
+      "profile": "https://sswellington.github.io/",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "hallpaz",
+      "name": "Hallison Paz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5713977?v=4",
+      "profile": "https://youtube.com/programacaodinamica",
+      "contributions": [
+        "video",
+        "ideas"
+      ]
+    },
+    {
+      "login": "merces",
+      "name": "Fernando Mercês",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1429647?v=4",
+      "profile": "http://menteb.in/",
+      "contributions": [
+        "video",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7
