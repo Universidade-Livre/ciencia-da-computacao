@@ -248,6 +248,8 @@ Nosso muito obrigado a todas essas pessoas!
     <td align="center"><a href="https://sswellington.github.io/"><img src="https://avatars.githubusercontent.com/u/45939490?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Wellington Silva</b></sub></a><br /><a href="#ideas-sswellington" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://youtube.com/programacaodinamica"><img src="https://avatars.githubusercontent.com/u/5713977?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Hallison Paz</b></sub></a><br /><a href="#video-hallpaz" title="Videos">📹</a> <a href="#ideas-hallpaz" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="http://menteb.in/"><img src="https://avatars.githubusercontent.com/u/1429647?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Fernando Mercês</b></sub></a><br /><a href="#video-merces" title="Videos">📹</a> <a href="#maintenance-merces" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://linktr.ee/fmasanori"><img src="https://avatars.githubusercontent.com/u/977887?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Fernando Masanori</b></sub></a><br /><a href="#video-fmasanori" title="Videos">📹</a></td>
+    <td align="center"><a href="http://professor.ufabc.edu.br/~e.francesquini"><img src="https://avatars.githubusercontent.com/u/730414?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Emilio Francesquini</b></sub></a><br /><a href="#video-francesquini" title="Videos">📹</a></td>
   </tr>
 </table>
 

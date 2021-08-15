@@ -119,6 +119,24 @@
         "video",
         "maintenance"
       ]
+    },
+    {
+      "login": "fmasanori",
+      "name": "Fernando Masanori",
+      "avatar_url": "https://avatars.githubusercontent.com/u/977887?v=4",
+      "profile": "https://linktr.ee/fmasanori",
+      "contributions": [
+        "video"
+      ]
+    },
+    {
+      "login": "francesquini",
+      "name": "Emilio Francesquini",
+      "avatar_url": "https://avatars.githubusercontent.com/u/730414?v=4",
+      "profile": "http://professor.ufabc.edu.br/~e.francesquini",
+      "contributions": [
+        "video"
+      ]
     }
   ],
   "contributorsPerLine": 7
