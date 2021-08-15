@@ -251,6 +251,24 @@ Nosso muito obrigado a todas essas pessoas!
     <td align="center"><a href="https://linktr.ee/fmasanori"><img src="https://avatars.githubusercontent.com/u/977887?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Fernando Masanori</b></sub></a><br /><a href="#video-fmasanori" title="Videos">📹</a></td>
     <td align="center"><a href="http://professor.ufabc.edu.br/~e.francesquini"><img src="https://avatars.githubusercontent.com/u/730414?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Emilio Francesquini</b></sub></a><br /><a href="#video-francesquini" title="Videos">📹</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/folivetti"><img src="https://avatars.githubusercontent.com/u/3751284?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Fabricio Olivetti de Franca</b></sub></a><br /><a href="#video-folivetti" title="Videos">📹</a></td>
+    <td align="center"><a href="http://www.professorisidro.com.br/"><img src="https://avatars.githubusercontent.com/u/6184696?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Professor Isidro</b></sub></a><br /><a href="#video-professorisidro" title="Videos">📹</a></td>
+    <td align="center"><a href="https://levysiqueira.com.br/"><img src="https://avatars.githubusercontent.com/u/1347668?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Fabio Levy Siqueira</b></sub></a><br /><a href="#video-levysiqueira" title="Videos">📹</a></td>
+    <td align="center"><a href="http://lvelho.impa.br/"><img src="https://avatars.githubusercontent.com/u/3164819?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Luiz Velho</b></sub></a><br /><a href="#video-lvelho" title="Videos">📹</a></td>
+    <td align="center"><a href="https://dirack.github.io/"><img src="https://avatars.githubusercontent.com/u/39841723?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Geofisicando</b></sub></a><br /><a href="#video-Geofisicando" title="Videos">📹</a></td>
+    <td align="center"><a href="http://wrkits.com.br/"><img src="https://avatars.githubusercontent.com/u/18622371?v=4?s=100" width="100px;" alt=""/><br /><sub><b>WR Kits</b></sub></a><br /><a href="#video-wagner-rambo" title="Videos">📹</a></td>
+    <td align="center"><a href="https://bdouram.github.io/"><img src="https://avatars.githubusercontent.com/u/31232196?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Bruno Miranda</b></sub></a><br /><a href="#video-bdouram" title="Videos">📹</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/professorguanabara"><img src="https://avatars.githubusercontent.com/u/66076428?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Gustavo Guanabara</b></sub></a><br /><a href="#video-professorguanabara" title="Videos">📹</a></td>
+    <td align="center"><a href="https://github.com/techtuxbr"><img src="https://avatars.githubusercontent.com/u/25886341?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Victor Lima</b></sub></a><br /><a href="#video-techtuxbr" title="Videos">📹</a></td>
+    <td align="center"><a href="https://github.com/lucasnhimi"><img src="https://avatars.githubusercontent.com/u/54808138?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Lucas Nhimi</b></sub></a><br /><a href="#video-lucasnhimi" title="Videos">📹</a></td>
+    <td align="center"><a href="https://github.com/oliveira-michel"><img src="https://avatars.githubusercontent.com/u/48107652?v=4?s=100" width="100px;" alt=""/><br /><sub><b>oliveira-michel</b></sub></a><br /><a href="#video-oliveira-michel" title="Videos">📹</a></td>
+    <td align="center"><a href="http://willianjusten.com.br/"><img src="https://avatars.githubusercontent.com/u/3991845?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Willian Justen </b></sub></a><br /><a href="#video-willianjusten" title="Videos">📹</a></td>
+    <td align="center"><a href="https://youtube.com/programacaodinamica"><img src="https://avatars.githubusercontent.com/u/6809851?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kizzy Terra </b></sub></a><br /><a href="#video-kterra" title="Videos">📹</a></td>
+    <td align="center"><a href="https://andrewrosario.medium.com/"><img src="https://avatars.githubusercontent.com/u/21269337?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Andrew Rosário</b></sub></a><br /><a href="#video-andrewarosario" title="Videos">📹</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-restore -->
