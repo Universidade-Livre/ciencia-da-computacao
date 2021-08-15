@@ -225,8 +225,6 @@ O que fazer após isso? Bem, na verdade as possibilidades são sem limites e int
   - [Mateus Roveda](https://github.com/mateusrovedaa): Líder de Comunidade
 
 ## Contribuidores
-(*em atualização*)
-
 Nosso muito obrigado a todas essas pessoas!
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
