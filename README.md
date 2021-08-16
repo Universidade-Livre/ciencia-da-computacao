@@ -212,7 +212,7 @@ Após completar todos os requisitos do currículo acima e aprender ao menos uma 
 
 O que fazer após isso? Bem, na verdade as possibilidades são sem limites e interconectadas:
 - Procurar um trabalho como Desenvolvedor em sua especialidade.
-- Aprender mais lendo livros clássicos de Ciência da Computação em um Clube do Livro para melhorar suas habilidades e expandir seu conhecimento (além de fazer muitos amigos)!
+- Aprender mais lendo livros clássicos de Ciência da Computação em um [Clube do Livro](https://github.com/pilhacheia/clube-do-livro-dev) para melhorar suas habilidades e expandir seu conhecimento (além de fazer muitos amigos)!
 - Participar ou organizar meetups de tecnologia.
 - Encontrar novas tecnologias que estão crescendo:
   - Explorar o **modelo de atores (actor model)** com [Elixir](https://github.com/aleDsz/elixir4noobs) ou [Scala](https://www.coursera.org/specializations/scala), que são linguagens modernas com ferramental e bibliotecas muito interessantes para Desenvolvimento Web e que utilizam VM's muito poderosas!
