@@ -203,7 +203,7 @@ Especialização     | Duração     | Dedicação                | Áreas de At
 
 ## Como demonstrar o meu progresso?
 
-A melhor forma de demonstrar sua evolução e maturidade ao longo do currículo é através de projetos práticos que demonstrem um pouco do que você aprendeu em cada disciplina, isso vai desde projetos guiados em muitas disciplinas, até projetos que você decida fazer para se testar e constuir coisas com o que aprendeu. Compartilhar sobre os projetos que tem feito ao longo do Curso, seja através de redes sociais, blogs, tutoriais, streamming... vai demonstrar para as pessoas do meio técnico e de outros meios o quanto você aprendeu e evoluiu ao longo dessa jornada.
+A melhor forma de demonstrar sua evolução e maturidade ao longo do currículo é através de projetos práticos que demonstrem um pouco do que você aprendeu em cada disciplina, isso vai desde projetos guiados em muitas disciplinas, até projetos que você decida fazer para se testar e construir coisas com o que aprendeu. Compartilhar sobre os projetos que tem feito ao longo do Curso, seja através de redes sociais, blogues, tutoriais, streamming... vai demonstrar para as pessoas do meio técnico e de outros meios o quanto você aprendeu e evoluiu ao longo dessa jornada.
 
 Não deixe de hospedar todos os seus códigos em seu perfil do GitHub, mesmo que sejam pequenos projetos ou apenas exercícios eles podem demonstrar muito sobre o que você tem estudado, como você resolve problemas e o quanto você melhorou ao longo do tempo.
 
