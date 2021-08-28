@@ -15,6 +15,7 @@ Curso | Duração | Dedicação | Conteúdos
 [Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning?specialization=data-science-foundations-r) ¹ | 4 semanas | 8 horas / semana | Manipulaçao de Dados; Limpeza de Dados; Expressões Regulares; APIs.
 [Exploratory Data Analysis](https://www.coursera.org/learn/exploratory-data-analysis?specialization=data-science-foundations-r) ¹ | 4 semanas | 15 horas / semana | Plotagem de Dados; Sistemas avançados; Padrões de Dados.
 [Reproducible Research](https://www.coursera.org/learn/reproducible-research?specialization=data-science-foundations-r) ¹ | 4 semanas | 2 horas/semaan | Organização de Dados; Pesquisa.
+[Estatística computacional](https://www.youtube.com/playlist?list=PLUUx2DlFul6LjL3K9AZT2nTlyZ4o38tE7) | 5 semanas | 4 horas / semana | Razão e Distribuição; Geração de Variáveis; Monte Carlo; Jacknife; AIC e BIC; DIC. 
 (*Em construção*)
 
 ¹ Áudio em Inglês, mas legendas em Português do Brasil.
