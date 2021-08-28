@@ -2,6 +2,8 @@
 
 Ciência de dados (Data science) é uma área interdisciplinar voltada para o estudo e a análise de dados econômicos, financeiros e sociais, estruturados e não-estruturados, que visa a extração de conhecimento, detecção de padrões e/ou obtenção de insights para possíveis tomadas de decisão. Ciência de dados enquanto campo existe há 30 anos, porém ganhou mais destaque nos últimos anos devido a alguns fatores como o surgimento e popularização de grandes bancos de dados e o desenvolvimento de áreas como machine learning. Cientistas de Dados podem trabalhar no setor privado, por exemplo, transformando grande quantidade de dados brutos em insights de negócios, auxiliando empresas em tomadas de decisões para atingir melhores resultados ou na academia e terceiro setor como pesquisadores quantitativos interdisciplinares. 
 
+> Esse é o primeira trilha a conter material que não é nativamente produzido em Português (legendado), isso ainda é um experimento e está sendo discutido e votado através [desta issue](https://github.com/Universidade-Livre/ciencia-da-computacao/issues/6), sua opinião é muito impotante para nós. Caso faça uso do mesmo e queira fazer algum feedback apreciaremos muito saber sobre sua experiência!
+
 **Áreas de aplicação**:
 
 Curso | Duração | Dedicação | Conteúdos
