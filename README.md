@@ -200,7 +200,7 @@ Especialização     | Duração     | Dedicação                | Áreas de At
 [Computação Gráfica](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/computer_graphics.md) | 15+ semanas | Média de 4 h/semana | `softwares gráficos`, `aplicações 3D`, `games`, `fotorealismo`, `sistemas gráficos`, `simuladores`, `e mais`
 [Embarcados](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/embedded_systems.md)         | 31 semanas  | Média de 4 h/semana | `internet das coisas`, `controles industriais`, `coisas inteligentes`, `wearables`, `cidades inteligentes`, `automobilismo`, `e mais`
 [Desenvolvimento Web](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/web_development.md) | 37 semanas | Média de  4 h/semana | `aplicações em servidor`, `layout de páginas web`, `sistemas on-line`, `APIs`, `computação em nuvem`, `streaming`, `e mais`
-[Ciência de Dados](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/data_science.md) | ? semanas | Média de  4 h/semana | `análise de dados`, `visualização de dados`, `machine learning`, `deep learning`, `sistemas especialistas`, `estatística`, `e mais`
+[Ciência de Dados](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/data_science.md) | 25+ semanas | Média de  4 h/semana | `análise de dados`, `visualização de dados`, `machine learning`, `deep learning`, `sistemas especialistas`, `estatística`, `e mais`
 
 ## Como demonstrar o meu progresso?
 
