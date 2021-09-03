@@ -217,7 +217,7 @@ O que fazer após isso? Bem, na verdade as possibilidades são sem limites e int
 - Participar ou organizar meetups de tecnologia.
 - Encontrar novas tecnologias que estão crescendo:
   - Explorar o **modelo de atores (actor model)** com [Elixir](https://github.com/aleDsz/elixir4noobs) ou [Scala](https://www.coursera.org/specializations/scala), que são linguagens modernas com ferramental e bibliotecas muito interessantes para Desenvolvimento Web e que utilizam VM's muito poderosas!
-  - Explorar  **empréstimo (borrowing) e tempo de vida (lifetimes)** em [Rust](https://www.rust-lang.org/pt-BR), uma linguagem que tem [segurança de memória](https://pt.wikipedia.org/wiki/Seguran%C3%A7a_de_mem%C3%B3ria) e de [fio de execução](https://pt.wikipedia.org/wiki/Thread_safety) sem um [coletor de lixo](https://pt.wikipedia.org/wiki/Thread_safety)!
+  - Explorar  **empréstimo (borrowing) e tempo de vida (lifetimes)** em [Rust](https://www.rust-lang.org/pt-BR), uma linguagem que tem [segurança de memória](https://pt.wikipedia.org/wiki/Seguran%C3%A7a_de_mem%C3%B3ria) e de [fio de execução](https://pt.wikipedia.org/wiki/Thread_safety) sem um [coletor de lixo](https://pt.wikipedia.org/wiki/Coletor_de_lixo_(inform%C3%A1tica))!
   - Aprender mais sobre **tipos** e **inferência de tipos** com [OCaml](https://github.com/Camilotk/ocaml4noobs), uma linguagem multiparadigma com inferência estática de tipos!
 
  ## Time
