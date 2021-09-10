@@ -95,6 +95,7 @@ apenas tenha sempre em mente que você não pode comprar o sucesso!
 <!--
 - Processo
 - Processo
+- Processo
 -->
 **Política de Conteúdo**. Apenas publique em seu GitHub e espaços públicos os materiais que seu Curso permite que sejam publicados.
 *Nunca desrespeite nenhuma regra* do curso em que se matriculou e nunca faça plágios!
