@@ -25,7 +25,7 @@ SOFTWARE.
 <img src="https://uploaddeimagens.com.br/images/003/361/136/original/placeholder.jpg">
 </p>
 <p align="center">
-<h3 align="center">Universidade Livre Brasileira</h3>
+<h3 align="center">Universidade Brasileira Livre</h3>
 <p align="center">
   Um caminho para a educação autodidata em Ciência da Computação!
 </p>
