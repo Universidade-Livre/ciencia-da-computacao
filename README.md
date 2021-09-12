@@ -211,7 +211,7 @@ A melhor forma de demonstrar sua evolução e maturidade ao longo do currículo 
 Não deixe de hospedar todos os seus códigos em seu perfil do GitHub, mesmo que sejam pequenos projetos ou apenas exercícios eles podem demonstrar muito sobre o que você tem estudado, como você resolve problemas e o quanto você melhorou ao longo do tempo.
 
 ## Parabéns!
-![](https://github.com/Universidade-Livre/imagens/blob/main/mascote/mascote_ubl_cut.png)
+
 Após completar todos os requisitos do currículo acima e aprender ao menos uma especialização você já viu todo o conteúdo equivalente a um Bacharelado completo em Ciência da Computação. Parabéns!
 
 O que fazer após isso? Bem, na verdade as possibilidades são sem limites e interconectadas:
@@ -222,6 +222,8 @@ O que fazer após isso? Bem, na verdade as possibilidades são sem limites e int
   - Explorar o **modelo de atores (actor model)** com [Elixir](https://github.com/aleDsz/elixir4noobs) ou [Scala](https://www.coursera.org/specializations/scala), que são linguagens modernas com ferramental e bibliotecas muito interessantes para Desenvolvimento Web e que utilizam VM's muito poderosas!
   - Explorar  **empréstimo (borrowing) e tempo de vida (lifetimes)** em [Rust](https://www.rust-lang.org/pt-BR), uma linguagem que tem [segurança de memória](https://pt.wikipedia.org/wiki/Seguran%C3%A7a_de_mem%C3%B3ria) e de [fio de execução](https://pt.wikipedia.org/wiki/Thread_safety) sem um [coletor de lixo](https://pt.wikipedia.org/wiki/Coletor_de_lixo_(inform%C3%A1tica))!
   - Aprender mais sobre **tipos** e **inferência de tipos** com [OCaml](https://github.com/Camilotk/ocaml4noobs), uma linguagem multiparadigma com inferência estática de tipos!
+
+![busquem conhecimento](https://github.com/Universidade-Livre/imagens/blob/main/mascote/mascote_ubl_cut.png)
 
  ## Time
 
