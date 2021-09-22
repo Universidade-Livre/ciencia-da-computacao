@@ -136,7 +136,7 @@ O currículo deste Curso se divide em duas categorias: a das Disciplinas de Form
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 :-- | :--: | :--: | :--: | :--:
 [Introdução à Ciência da Computação com Python I](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) | 9 Semanas | 4 horas/semana | Algoritmos; Lógica de Programação; Python; Testes. | -
-[Matemática Básica](https://www.youtube.com/playlist?list=PLrOyM49ctTx9pRhKP90mGKhBstkTnBQbp) | 9 Semanas | 4 horas/semana | Números Primos; Bases Numéricas; Módulo; Gráficos. | -
+[Fundamentos Matemáticos para Computação](https://www.youtube.com/watch?v=QE6ruiq632o&list=PLrOyM49ctTx-HWypJVvn_zMO1o7oOAfVx) | 9 Semanas | 4 horas/semana | Lógica Formal; PROLOG; Recursão; Matrizes; Booleanos; Grafos. | -
 [Ciência da Computação 50 (CC50)](https://cc50.estudarfora.org.br/) | 9 semanas | 4 horas/semana | Sistemas Operacionais; Redes; Arquivos; C; JS. | -
 [Leitura e Produção de Textos](https://www.youtube.com/playlist?list=PLxI8Can9yAHemh_YJh9GtkIUljZbI7Tvw) | 4 semanas | 2 horas/semana | Língua Portuguesa; Escrita; Gramática; Argumentação. | -
 [Circuitos Digitais](https://www.youtube.com/playlist?list=PLXyWBo_coJnMYO9Na3t-oYsc2X4kPJBWf) | 9 semanas | 4 horas/semana | Portas Lógicas; Diagramas; Máquinas de Estado; Projeto de Circuitos. | -
@@ -150,7 +150,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 :-- | :--: | :--: | :--: | :--:
 [Introdução à Ciência da Computação com Python II](https://pt.coursera.org/learn/ciencia-computacao-python-conceitos-2) | 6 Semanas | 4 horas/semana | Matrizes; POO; Recursão; Complexidade de Algoritmos. | Introdução à Ciência da Computação com Python I 
-[Fundamentos Matemáticos para Computação](https://www.youtube.com/watch?v=QE6ruiq632o&list=PLrOyM49ctTx-HWypJVvn_zMO1o7oOAfVx) | 9 Semanas | 4 horas/semana | Lógica Formal; PROLOG; Recursão; Matrizes; Booleanos; Grafos. | Matemática Básica
+[Estatística e Probabilidade](https://www.youtube.com/playlist?list=PLxI8Can9yAHeeWqe3m9HZFiBhT33Mfxew) | 9 Semanas | 4 horas/semana | Espaços Discretos; Bayes; Distribuições; Variância; Regressão. | Fundamentos Matemáticos para Computação
 [Arquitetura de Computadores I](https://www.youtube.com/playlist?list=PLEUHFTHcrJmswfeq7QEHskgkT6HER3gK6) | 9 Semanas | 4 horas/semana | Memória; Booleans; Arquitetura; RISC-V. | Circuitos Digitais
 [Noções de Inglês](https://www.youtube.com/playlist?list=PLxI8Can9yAHeYb4-3dXwiY2Z9VdqhnqpM) | 9 Semanas | 4 horas/semana | Inglês básico; Técnicas de Leitura; Escrita. | -
 [Noções de Direitos Autorais, parte I](https://www.escolavirtual.gov.br/curso/72) | 9 Semanas | 4 horas/semana | Direito Autoral; Direito do Autor; Limitação do Direito do Autor. | -
@@ -162,14 +162,14 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 [Programação Orientada a Objetos I](https://pt.coursera.org/learn/lab-poo-parte-1) | 6 Semanas | 4 horas/semana | OOP; Streams; MVC; Design Patterns. | Introdução à Ciência da Computação com Python II 
 [Bancos de Dados](https://www.youtube.com/playlist?list=PL4Sl6eAbMK7RSdXPe8lZ7s-xSitGHH4RZ) | 4 Semanas | 3 horas/semana | MER; Projeto de Banco de Dados; Normalização; SQL. | - 
 [Arquitetura de Computadores II](https://www.youtube.com/playlist?list=PLEUHFTHcrJmswfeq7QEHskgkT6HER3gK6) | 9 Semanas | 4 horas/semana | Cache; Paralelismo; ASM; RISC-V. | Arquitetura de Computadores I 
-[Estatística e Probabilidade](https://www.youtube.com/playlist?list=PLxI8Can9yAHeeWqe3m9HZFiBhT33Mfxew) | 9 Semanas | 4 horas/semana | Espaços Discretos; Bayes; Distribuições; Variância; Regressão. | Matemática Básica 
+[Algebra Linear I](https://www.youtube.com/playlist?list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI) | 4 Semanas | 3 horas/semana | Sistemas lineares; Vetores; Espaços Vetoriais. | Fundamentos Matemáticos para Computação
 [Princípios de Desenvolvimento Ágil de Software](https://pt.coursera.org/learn/principios-de-desenvolvimento-agil-de-software) | 9 Semanas | 4 horas/semana | XP; User Stories; Taks; Sprint; Diagramas. | - 
 
 ### Desenvolvimento Teórico
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos 
 :-- | :--: | :--: | :--: | :--: 
 [Desenvolvimento Ágil com Java Avançado](https://pt.coursera.org/learn/desenvolvimento-agil-com-java-avancado) | 4 Semanas | 3 horas/semana | JDBC; Servlets; Web; Lambda Calculus. | Princípios de Desenvolvimento Ágil de Software, Programação Orientada a Objetos I 
-[Cálculo I](https://www.youtube.com/playlist?list=PL2D9B691A704C6F7B) | 4 Semanas | 3 horas/semana | Funçõpes; Limite; Derivada; Trigonometria; Mat. Espacial. | Matemática Básica 
+[Cálculo I](https://www.youtube.com/playlist?list=PL2D9B691A704C6F7B) | 4 Semanas | 3 horas/semana | Funçõpes; Limite; Derivada; Trigonometria; Mat. Espacial. | Fundamentos Matemáticos para Computação
 [Teoria dos Grafos](https://www.youtube.com/playlist?list=PLrOyM49ctTx-xtyVeuO7ylclgXHd4ws9a) | 4 Semanas | 3 horas/semana | Grafos; Representações; Listas; Árvores. | Fundamentos Matemáticos para Computação, Programação Orientada a Objetos I 
 [Sistemas Operacionais](http://wiki.inf.ufpr.br/maziero/doku.php?id=socm:start) | 4 Semanas | 3 horas/semana | Processos; Threads; Calls; I/O. | Arquitetura de Computadores II 
 [Banco de Dados MySQL](https://www.youtube.com/playlist?list=PLucm8g_ezqNrWAQH2B_0AnrFY5dJcgOLR) | 3 Semanas | 4 horas/semana | CRUD; Consultas; Tabelas. | Introdução à Ciência da Computação com Python II, Bancos de Dados 
