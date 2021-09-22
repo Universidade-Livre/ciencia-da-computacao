@@ -5,7 +5,6 @@ A computação gráfica é a área da computação destinada à geração de ima
 Curso | Duração | Dedicação | Conteúdos
 :-- | :--: | :--: | :--:
 [Pixar in a Box](https://pt.khanacademy.org/partner-content/pixar-latam) | 2 Semanas | 3 horas/semana | Renderização; Animação; Curvas; 3D.
-[Algebra Linear I](https://www.youtube.com/playlist?list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI) | 4 Semanas | 3 horas/semana | Sistemas lineares; Vetores; Espaços Vetoriais.
 [Programação em Julia](https://www.youtube.com/playlist?list=PL5TJqBvpXQv4TO4Y_JZExBCBzNXDLYUCj) ¹ | ? Semanas | ? horas/semana | Algoritmos; Julia; Algebra Linear. 
 [Tópicos de Computação Gráfica](https://www.youtube.com/playlist?list=PL5TJqBvpXQv5zNlgvgH2HGuhZHpnkT3oo) | ? Semanas | ? horas/semana | Ray Tracing; Reflexos; Imagens; Reconstrução de Imagens.  
 [Conceitos Básicos de Computação Gráfica](https://www.youtube.com/playlist?list=PLo4jXE-LdDTRGoEarRQXBIalJkjSP-aGA) | 4 Semanas | 8 horas/semana | Objetos gráficos; Modelagem geométrica; Fundamentos de sistemas gráficos. 
