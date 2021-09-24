@@ -231,7 +231,8 @@ O que fazer após isso? Bem, na verdade as possibilidades são sem limites e int
 
   - [Camilo Cunha de Azevedo](https://github.com/Camilotk): Fundador da ULivre
   - [Mateus Roveda](https://github.com/mateusrovedaa): Líder de Comunidade
-  - [Leonardo Fiedler ](https://github.com/leonardoFiedler): Mantenedor da Especialização em Ciência de Dados
+  - [Leonardo Fiedler](https://github.com/leonardoFiedler): Mantenedor da Especialização em Ciência de Dados
+  - [Jefferson Quesado](https://github.com/jeffque): Mantenedor da Especialização em Desenvolvimento Web
 
 ## Contribuidores
 Nosso muito obrigado a todas essas pessoas!
