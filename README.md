@@ -70,7 +70,7 @@ os cursos presentes na grade seguem os seguintes critérios:
 - Ter reconhecimento de qualidade da Comunidade sobre o tema
 - Estar de acordo com o que espera-se do Currículo de Ciências da Computação
 
-Os cursos tem como suplementação sempre que possível livros.
+Os cursos têm como suplementação sempre que possível, livros.
 Quando um livro ou curso de qualidade for recomendável a leitura, mas não encaixar-se com o currículo
 ele deverá ser adicionado nas listas de [cursos extras](#) e [livros extras](#) respectivamente.
 
