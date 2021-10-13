@@ -60,7 +60,7 @@ e é planejada para alunos com disciplina, cometimento e (o mais importante) bon
 mas que buscam o suporte de uma comunidade de outros estudantes no Brasil todo.
 
 Esse curso contém conteúdos que seriam vistos em um curso de Ciência da Computação organizados de forma estruturada e que contêm disciplinas
-relacionadas computação e também disciplinas de formação geral (acreditamos que uma formação completa abranja mais do que simplesmente CC).
+relacionadas à computação e também disciplinas de formação geral (acreditamos que uma formação completa abrange mais do que simplesmente CC).
 Os cursos em si são selecionados primariamente do conteúdo aberto de diversas Universidades e Institutos de Educação do Brasil, mas no geral
 os cursos presentes na grade seguem os seguintes critérios:
 
@@ -88,7 +88,7 @@ ele deverá ser adicionado nas listas de [cursos extras](#) e [livros extras](#)
 **Custo**. Todos os cursos podem ser completados de forma gratuita. Porém, alguns cursos têm diplomas/certificados/atividades/extras opcionais que são pagos.
 Observe que o [Coursera](https://learner.coursera.help/hc/en-us/articles/209819033-Apply-for-Financial-Aid) oferece ajuda financeira.
 
-Decida quanto tempo de curso e quanto quer gastar em seus estudos nesse curso por sua própria conta,
+Decida quanto tempo de curso e quanto quer gastar em seus estudos neste curso por sua própria conta,
 apenas tenha sempre em mente que você não pode comprar o sucesso!
 
 **Processo**. Os estudantes podem fazer as disciplinas individualmente ou em grupo, seguindo a ordem que estabelecemos ou não.
@@ -108,7 +108,7 @@ apenas tenha sempre em mente que você não pode comprar o sucesso!
 # Comunidade
 
 - Temos um servidor no Discord! [![Discord](https://img.shields.io/discord/866378348368625704.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/wymGhmf7BT) Nele pode encontrar e interagir com outros estudantes. Por que não se apresenta lá agora mesmo? [Vem para o Discord](https://discord.gg/wymGhmf7BT).
-- Você também pode interagir sobre questões a respeito dos problemas do Curso, propor mudanças de Currículo e outras coisas relacionadas através das nossas [issues](https://github.com/Universidade-Livre/ciencia-da-computacao/issues), sinta-se a vontade para abrir discussões lá.
+- Você também pode interagir sobre questões a respeito dos problemas do Curso, propor mudanças de Currículo e outras coisas relacionadas através das nossas [issues](https://github.com/Universidade-Livre/ciencia-da-computacao/issues), sinta-se à vontade para abrir discussões lá.
 
 # Técnicas de estudo, organização e aprendizagem
 
