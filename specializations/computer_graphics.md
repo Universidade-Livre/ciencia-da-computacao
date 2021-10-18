@@ -11,7 +11,7 @@ Curso | Duração | Dedicação | Conteúdos
 [Conceitos Básicos de Computação Gráfica](https://www.youtube.com/playlist?list=PLo4jXE-LdDTRGoEarRQXBIalJkjSP-aGA) | 4 Semanas | 8 horas/semana | Objetos gráficos; Modelagem geométrica; Fundamentos de sistemas gráficos. 
 [Processamento de Imagens](https://www.youtube.com/playlist?list=PLo4jXE-LdDTRaFa39TdNN3FgPAKkcuHvj) | 4 Semanas | 8 horas/semana | Imagem digital; Quantização; Operações com imagens; Dithering; warping de imagens; Aplicações
 [Processamento de Imagens em Python](https://www.youtube.com/playlist?list=PL5TJqBvpXQv54i_HWjd7s70vbP4Is7sK_) | ? Semanas | ? horas/semana | Redimensionamento; Efeitos; Animação; Detecção. 
-
+[OpenGL C++ - Gráficos 3D](https://www.youtube.com/playlist?list=PLVRDPs83ZhmcXYuktF3r2hfyoabg_EVPO) | 3 Semanas | 3 horas/semana | OpenGL; C++; Iluminação; Câmera; Modelagem de giguras geométricas; Prática
 
 ¹ Áudio em Inglês, mas legendas em Português do Brasil.
 
