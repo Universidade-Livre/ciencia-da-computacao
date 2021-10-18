@@ -15,4 +15,4 @@ Curso | Duração | Dedicação | Conteúdos
 
 ¹ Áudio em Inglês, mas legendas em Português do Brasil.
 
-² Esse curso está dísponível apoiando a partir de R$ 2,99/mês o Canal.
+² Esse curso está disponível apoiando a partir de R$ 2,99/mês o Canal.

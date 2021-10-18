@@ -2,11 +2,11 @@
 
 ## Ajudar outros estudantes
 
-O aprendizado sempre é catalisado por ter pessoas engajadas no mesmo objetivo. Voce pode ser a pessoa que pode fazer a diferença para alguém que está começando a estudar agora. Quando alguém novo chegar no Discord, pergunte quem ela é... interaja e dê incentivo para outros estudantes. Quando outra pessoa estiver começando a estudar ou fazendo um curso, porque não estudar junto? Colaborando e ajudando outros estudantes você está ajudando a criar uma experiência de aprendizado melhor para todos, incluindo você.
+O aprendizado sempre é catalisado por ter pessoas engajadas no mesmo objetivo. Você pode ser a pessoa que pode fazer a diferença para alguém que está começando a estudar agora. Quando alguém novo chegar no Discord, pergunte quem ela é... interaja e dê incentivo para outros estudantes. Quando outra pessoa estiver começando a estudar ou fazendo um curso, porque não estudar junto? Colaborando e ajudando outros estudantes você está ajudando a criar uma experiência de aprendizado melhor para todos, incluindo você.
 
 ## Feedback
 
-Se você está seguindo o Curso é de grande valor para nós saber como está sendo a sua experiência, estamos abertos a saber os pontos positivos, negativos e como podemos melhorar para cada vez mais conseguir entregar um trabalho de excelência para todos os estudantes. Para fazer isso a melhor forma é através do nosso servidor no Discord.
+Se você está seguindo o Curso é de grande valor para nós saber como está sendo a sua experiência, estamos abertos a saber os pontos positivos, negativos e como podemos melhorar para cada vez mais conseguir entregar um trabalho de excelência para todos os estudantes. Para fazer isso, a melhor forma é através do nosso servidor no Discord.
 
 ## Revisão de texto
 
@@ -18,7 +18,7 @@ Ajudar esse projeto a chegar em mais pessoas é parte essencial para que possamo
 
 ## Conteúdo
 
-Caso você conheça conteúdos relevantes e gratuitos em Português que ainda não consta na nossa grade, abra uma issue falando mais a respeito. Caso seja criador de conteúdo sobre temas relacionados a Ciência da Computação e deseja produzir algum conteúdo que pode ser relevante para a grade, abra uma issue nos informando como podemos ajudar. 
+Caso você conheça conteúdos relevantes e gratuitos em Português que ainda não consta na nossa grade, abra uma issue falando mais a respeito. Caso seja criador de conteúdo sobre temas relacionados à Ciência da Computação e deseja produzir algum conteúdo que pode ser relevante para a grade, abra uma issue nos informando como podemos ajudar. 
 
 ## Revisão de PR
 
