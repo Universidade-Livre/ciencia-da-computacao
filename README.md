@@ -125,7 +125,7 @@ Curso | Duração | Dedicação | Conteúdos
 
 O currículo deste Curso se divide em duas categorias: a das Disciplinas de Formação Geral e as Disciplinas de Especialização. As disciplinas de formação geral são essenciais na formação de todos os alunos independente de qual área ou especialização desejam seguir e são a base para o conteúdo técnico-teórico para os cursos de especialização. Você pode fazer os cursos na ordem, onde e como preferir e esse é o maior benefício da liberdade, mas por fins didáticos e de organização recomendamos que tente respeitar os pré-requisitos e que conclua todas as disciplinas de formação geral antes de prosseguir nas de especialização.
 
-![organização do currículo por área](https://github.com/Universidade-Livre/imagens/blob/main/curriculos/curriculo_ulivre_1.2.1.png)
+![organização do currículo por área](https://github.com/Universidade-Livre/imagens/blob/main/curriculos/curriculo_ulivre_1.3.0.png)
 
 ---
 
