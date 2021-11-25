@@ -39,6 +39,14 @@ SOFTWARE.
 	<img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg">
   </a>
 </p>
+<p align="center">
+  <a href="https://twitter.com/UBLivre">
+    <img alt="Twitter" width="25" src="https://github.com/Universidade-Livre/imagens/blob/main/png/twitter.png">
+  </a>
+   <a href="https://www.linkedin.com/school/universidade-brasileira-livre/">
+    <img alt="Linkedin" width="25" src="https://github.com/Universidade-Livre/imagens/blob/main/png/linkedin.png">
+  </a>
+</p>
 
 # Conteúdos
 
