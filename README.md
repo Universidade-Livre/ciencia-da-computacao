@@ -160,7 +160,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 :-- | :--: | :--: | :--: | :--:
 [Introdução à Ciência da Computação com Python II](https://pt.coursera.org/learn/ciencia-computacao-python-conceitos-2) | 6 Semanas | 4 horas/semana | Matrizes; POO; Recursão; Complexidade de Algoritmos. | Introdução à Ciência da Computação com Python I 
-[Estatística e Probabilidade](https://www.youtube.com/playlist?list=PLxI8Can9yAHeeWqe3m9HZFiBhT33Mfxew) | 9 Semanas | 4 horas/semana | Espaços Discretos; Bayes; Distribuições; Variância; Regressão. | Fundamentos Matemáticos para Computação
+[Estatística e Probabilidade](https://integra.univesp.br/courses/1624) | 9 Semanas | 4 horas/semana | Espaços Discretos; Bayes; Distribuições; Variância; Regressão. | Fundamentos Matemáticos para Computação
 [Arquitetura de Computadores I](https://www.youtube.com/playlist?list=PLEUHFTHcrJmswfeq7QEHskgkT6HER3gK6) | 9 Semanas | 4 horas/semana | Memória; Booleans; Arquitetura; RISC-V. | Circuitos Digitais
 [Noções de Inglês](https://integra.univesp.br/courses/3032) | 9 Semanas | 4 horas/semana | Inglês básico; Técnicas de Leitura; Escrita. | -
 [Noções de Direitos Autorais, parte I](https://www.escolavirtual.gov.br/curso/72) | 9 Semanas | 4 horas/semana | Direito Autoral; Direito do Autor; Limitação do Direito do Autor. | -
