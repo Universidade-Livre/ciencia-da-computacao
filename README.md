@@ -164,7 +164,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 [Arquitetura de Computadores I](https://www.youtube.com/playlist?list=PLEUHFTHcrJmswfeq7QEHskgkT6HER3gK6) | 9 Semanas | 4 horas/semana | Memória; Booleans; Arquitetura; RISC-V. | Circuitos Digitais
 [Noções de Inglês](https://integra.univesp.br/courses/3032) | 9 Semanas | 4 horas/semana | Inglês básico; Técnicas de Leitura; Escrita. | -
 [Noções de Direitos Autorais, parte I](https://www.escolavirtual.gov.br/curso/72) | 9 Semanas | 4 horas/semana | Direito Autoral; Direito do Autor; Limitação do Direito do Autor. | -
-[Noções de Direitos Autorais, parte II](https://www.youtube.com/watch?v=XPLZSlop64I&list=PLxI8Can9yAHcoBrn53XO581IsIXHqgShZ) | 9 Semanas | 4 horas/semana | Patentes Digitais; Registro de Programas de Computador. | Noções de Direitos Autorais, parte I 
+[Noções de Direitos Autorais, parte II](https://integra.univesp.br/courses/1936) | 9 Semanas | 4 horas/semana | Patentes Digitais; Registro de Programas de Computador. | Noções de Direitos Autorais, parte I 
 
 ### Desenvolvimento Técnico
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos 
