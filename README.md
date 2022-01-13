@@ -120,7 +120,11 @@ apenas tenha sempre em mente que você não pode comprar o sucesso!
 - Temos um servidor no Discord! [![Discord](https://img.shields.io/discord/866378348368625704.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/wymGhmf7BT) Nele pode encontrar e interagir com outros estudantes. Por que não se apresenta lá agora mesmo? [Vem para o Discord](https://discord.gg/wymGhmf7BT).
 - Você também pode interagir sobre questões a respeito dos problemas do Curso, propor mudanças de Currículo e outras coisas relacionadas através das nossas [issues](https://github.com/Universidade-Livre/ciencia-da-computacao/issues), sinta-se à vontade para abrir discussões lá.
 
-# Técnicas de estudo, organização e aprendizagem
+# Tópicos opcionais antes de começar
+
+Existem tópicos que apesar de não serem essenciais na formação de Ciência da Computação podem ser muito úteis na sua jornada de aprendizado.
+
+## Técnicas de estudo, organização e aprendizagem
 
 Antes de começar a estudar é importante que você aprenda algumas coisas importantes. Ser autodidata não é sobre aprender sozinho, nem sobre não estar vinculado à uma Instituição de Ensino Superior (IES), mas sobre **ser responsável pelo seu próprio ensino** e isso é algo que exige saber como estudar, o quanto estudar, como organizar seus estudos... e para isso recomendamos os seguintes conteúdos abaixo.
 
@@ -130,6 +134,15 @@ Curso | Duração | Dedicação | Conteúdos
 [Como estudar do jeito certo](https://www.youtube.com/playlist?list=PL5TJqBvpXQv7Q2lT7L7BrTrh6tgZY872s) | 3 Semanas | 2 horas/semana | Tempo; Técnica; Discussão.
 
 ¹ Disponível com legendas em Português.
+
+## Git e GitHub
+
+Conhecer ferramentas como Git vai te ajudar a organizar seus projetos de estudo e o GitHub (ou outras plataformas como BitBucket ou GitLab) pode ser muito útil para trabalhar remoto e compartilhar os seus projetos tanto com os colegas, além de também para usar como portifólio em futuras oportunidades de trabalho.  
+
+Curso | Duração | Dedicação | Conteúdos
+:-- | :--: | :--: | :--: 
+[Git e Github para Iniciantes](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A) | 2 Dias | 2 horas/dia | Git; GitHub; controle de versão.
+[Git e GitHub](https://www.cursoemvideo.com/curso/curso-de-git-e-github/) | 4 Semanas | 5 horas/semana | Git; GitHub; controle de versão.
 
 # Currículo
 
