@@ -66,7 +66,7 @@ O Curso de Ciência da Computação oferecido pela Universidade Livre Brasileira
 usando materiais on-line e em Português do Brasil.
 Esse Curso não é pensado para treinamento em tecnologias específicas ou focado em habilidades profissionais direcionadas ao mercado.
 Esse Curso é pensado para aqueles que desejam uma educação própria, *com qualidade*, fundada nos conceitos fundamentais da computação
-e é planejada para alunos com disciplina, cometimento e (o mais importante) bons hábitos de estudo majoritariamente independentes,
+e é planejada para alunos com disciplina, comprometimento e (o mais importante) bons hábitos de estudo majoritariamente independentes,
 mas que buscam o suporte de uma comunidade de outros estudantes no Brasil todo.
 
 Esse curso contém conteúdos que seriam vistos em um curso de Ciência da Computação organizados de forma estruturada e que contêm disciplinas
