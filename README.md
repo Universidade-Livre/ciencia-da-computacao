@@ -202,7 +202,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 :-- | :--: | :--: | :--: | :--:
 [Interfaces Humano-Computador](https://www.youtube.com/playlist?list=PLxI8Can9yAHcoiFzGoyLITBKzFbiw3RIp) | 3 Semanas | 3 horas/semana | Estudos de Usuário; Design; Avaliação de Interfaces. | -
 [Estrutura de Dados](https://www.youtube.com/playlist?list=PLUukMN0DTKCtdKaIUQoV4VWqGblYGZLfC) | 2 Semanas | 3 horas/semana | Filas; Pilhas; Árvores; Ordenação. | Teoria dos Grafos, Programação Orientada a Objetos I 
-[Redes de Computadores](https://www.youtube.com/playlist?list=PLxI8Can9yAHc-_dZ6nsfoon08i2-4OvEk) | 2 Semanas | 3 horas/semana | Protocolos; UDP; TCP; Comunicação. | -
+[Redes de Computadores](https://integra.univesp.br/courses/2713) | 2 Semanas | 3 horas/semana | Protocolos; UDP; TCP; Comunicação. | -
 [Criação de Startups](https://pt.coursera.org/learn/criacao-startups) | 2 Semanas | 3 horas/semana | Canvas; MVP; Modelo de Negócio; Pitch. | -
 [Introdução ao Desenvolvimento de Aplicativos Android](https://pt.coursera.org/learn/introducao-aplicativos-android) | 2 Semanas | 3 horas/semana | Aplicativos; Android Studio; Views. | Desenvolvimento Ágil com Java Avançado
 
