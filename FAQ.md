@@ -10,3 +10,6 @@ Esta página tem como objetivo responder perguntas que frequentemente recebemos.
 ### Haverão mais cursos além de Ciência da Computação?
 
 Sim, a ideia é que existam mais cursos além de Ciência da Computação. Futuramente, estamos pensando em experimentar expandir também para outras áreas além de TI. Mas estamos estudando as possibilidades com calma.
+
+### A UBL oferece algum diploma?
+Não. UBL é um guia de recursos educacionais que tem como objetivo auxiliar para que você aprenda os assuntos que normalmente são estudados em um curso universitário. Algumas pessoas envolvidas com a UBL podem estar trabalhando em outras empresas que podem oferecer algum tipo de certificação, mas a Universidade Livre Brasileira não está envolvida com qualquer emissão de certificado ou certificação.
