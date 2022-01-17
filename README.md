@@ -110,8 +110,9 @@ apenas tenha sempre em mente que você não pode comprar o sucesso!
 **Política de Conteúdo**. Apenas publique em seu GitHub e espaços públicos os materiais que seu Curso permite que sejam publicados.
 *Nunca desrespeite nenhuma regra* do curso em que se matriculou e nunca faça plágios!
 
-- **[Como contribuir](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/CONTRIBUTING.md)**
-- **[FAQ / Dúvidas Frequentes](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/FAQ.md)**
+**[Como contribuir](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/CONTRIBUTING.md)**
+
+**[FAQ / Dúvidas Frequentes](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/FAQ.md)**
 
 # Comunidade
 
