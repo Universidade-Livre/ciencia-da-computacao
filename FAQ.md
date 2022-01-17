@@ -4,6 +4,7 @@ Esta página tem como objetivo responder perguntas que frequentemente recebemos.
 
 ## Sumário
 1. [Haverão mais cursos além de Ciência da Computação?](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/FAQ.md#haver%C3%A3o-mais-cursos-al%C3%A9m-de-ci%C3%AAncia-da-computa%C3%A7%C3%A3o)
+1. [A UBL oferece algum diploma?](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/FAQ.md#a-ubl-oferece-algum-diploma)
 
 ## Questões
 
