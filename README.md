@@ -159,7 +159,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 :-- | :--: | :--: | :--: | :--:
 [Introdução à Ciência da Computação com Python I](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) | 9 Semanas | 4 horas/semana | Algoritmos; Lógica de Programação; Python; Testes. | -
 [Fundamentos Matemáticos para Computação](https://www.youtube.com/watch?v=QE6ruiq632o&list=PLrOyM49ctTx-HWypJVvn_zMO1o7oOAfVx) | 9 Semanas | 4 horas/semana | Lógica Formal; PROLOG; Recursão; Matrizes; Booleanos; Grafos. | -
-[Ciência da Computação 50 (CC50)](https://cc50.estudarfora.org.br/) | 9 semanas | 4 horas/semana | Sistemas Operacionais; Redes; Arquivos; C; JS. | -
+[Ciência da Computação 50 (CC50)](https://materiais.estudarfora.org.br/cc50-harvard/) | 9 semanas | 4 horas/semana | Sistemas Operacionais; Redes; Arquivos; C; JS. | -
 [Leitura e Produção de Textos](https://youtube.com/playlist?list=PLxI8Can9yAHemh_YJh9GtkIUljZbI7Tvw) | 4 semanas | 2 horas/semana | Língua Portuguesa; Escrita; Gramática; Argumentação. | -
 [Circuitos Digitais](https://www.youtube.com/playlist?list=PLXyWBo_coJnMYO9Na3t-oYsc2X4kPJBWf) | 9 semanas | 4 horas/semana | Portas Lógicas; Diagramas; Máquinas de Estado; Projeto de Circuitos. | -
 <!---
