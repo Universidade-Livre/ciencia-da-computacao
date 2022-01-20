@@ -112,7 +112,7 @@ apenas tenha sempre em mente que você não pode comprar o sucesso!
 
 **[Como contribuir](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/CONTRIBUTING.md)**
 
-**[FAQ / Dúvidas Frequentes](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/FAQ.md)**
+**[Conseguindo ajuda](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/HELP.md)** (Detalhes sobre o FAQ e servidor)
 
 # Comunidade
 
