@@ -7,7 +7,8 @@ Curso | Duração | Dedicação | Conteúdos
 [Microeletrônica](https://integra.univesp.br/courses/2344) | 7 Semanas | 4 horas / semana | Física; Fotolitografia; Oxidação; Deposição; Epitaxia; CMOS.
 [Curso de C moderno](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE) | 4 Semanas | 3 horas/semana | C; GDB; Tooling; Unix. 
 [Curso de Makefile](https://www.youtube.com/playlist?list=PLLCFxfe9wkl-tCZvSCbzQGcNv9nSN5ZAP) | 4 Semanas | 3 horas/semana | Make; Makefile. 
-[Conceitos de Eletrônica](https://www.youtube.com/playlist?list=PLfdR3_dt2rbcv2CmrbeT8wu50Yga0fjE8) | 4 Semanas | 3 horas/semana | Sinais; Circuitos; Energia; Polaridade. 
+[Conceitos de Eletrônica](https://www.youtube.com/playlist?list=PLfdR3_dt2rbcv2CmrbeT8wu50Yga0fjE8) | 4 Semanas | 3 horas/semana | Sinais; Circuitos; Energia; Polaridade.
+[Eletrônica Embarcada](https://integra.univesp.br/courses/2710) | 7 Semanas | 4 horas / semana | Embarcados em Veículos; GNSS; Instrumentação; Implementação.
 [Eletrônica para Iniciantes](https://www.youtube.com/playlist?list=PLZ8dBTV2_5HQpKzBt3nJex3Mbk7hmhFHl) | 5 Semanas | 8 horas/semana | Esquemáticos; Portas Lógicas; Circuitos; Carga. 
 [Curso de AVR-C](https://www.youtube.com/playlist?list=PLMdNWywlSE5QPsEeT_cXisUT366NS3U8R) | 2 Semanas | 4 horas/semana | C para Microcontroladores; Operações bit-a-bit; Datasheets. 
 [Curso de AVR Periféricos](https://www.youtube.com/playlist?list=PLMdNWywlSE5TtOxRm6frvH_om1NOyj33H) | 2 Semanas | 3 horas/semana | Displays; Timers; Conversores; Comunicação.
