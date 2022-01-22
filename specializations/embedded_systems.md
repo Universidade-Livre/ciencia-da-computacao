@@ -4,6 +4,7 @@ Um sistema embarcado (ou sistema embutido) é um sistema microprocessado no qual
 
 Curso | Duração | Dedicação | Conteúdos
 :-- | :--: | :--: | :--:
+[Microeletrônica](https://integra.univesp.br/courses/2344) | 7 Semanas | 4 horas / semana | Física; Fotolitografia; Oxidação; Deposição; Epitaxia; CMOS.
 [Curso de C moderno](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE) | 4 Semanas | 3 horas/semana | C; GDB; Tooling; Unix. 
 [Curso de Makefile](https://www.youtube.com/playlist?list=PLLCFxfe9wkl-tCZvSCbzQGcNv9nSN5ZAP) | 4 Semanas | 3 horas/semana | Make; Makefile. 
 [Conceitos de Eletrônica](https://www.youtube.com/playlist?list=PLfdR3_dt2rbcv2CmrbeT8wu50Yga0fjE8) | 4 Semanas | 3 horas/semana | Sinais; Circuitos; Energia; Polaridade. 
