@@ -118,6 +118,7 @@ apenas tenha sempre em mente que você não pode comprar o sucesso!
 
 - Temos um servidor no Discord! [![Discord](https://img.shields.io/discord/866378348368625704.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/wymGhmf7BT) Nele pode encontrar e interagir com outros estudantes. Por que não se apresenta lá agora mesmo? [Vem para o Discord](https://discord.gg/wymGhmf7BT).
 - Você também pode interagir sobre questões a respeito dos problemas do Curso, propor mudanças de Currículo e outras coisas relacionadas através das nossas [issues](https://github.com/Universidade-Livre/ciencia-da-computacao/issues), sinta-se à vontade para abrir discussões lá.
+- Adicione a Universidade Brasileira Livre no seu perfil do [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6889534067805605889)!
 
 # Antes de começar
 
