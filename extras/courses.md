@@ -6,5 +6,5 @@ Essa é uma lista de cursos de excelente qualidade que por uma razão ou outra a
 
 Curso | Duração | Dedicação
 :-- | :--: | :--:
-[O Semestre que faltou na sua graduação](https://missing-semester-pt.github.io/) | 2 semanas | 12 horas/semana
+[O semestre que falta na sua faculdade em ciência da computação](https://missing-semester-pt.github.io/) | 2 semanas | 12 horas/semana
 
