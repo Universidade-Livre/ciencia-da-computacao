@@ -7,4 +7,4 @@ Essa é uma lista de cursos de excelente qualidade que por uma razão ou outra a
 Curso | Duração | Dedicação
 :-- | :--: | :--:
 [O semestre que falta na sua faculdade em ciência da computação](https://missing-semester-pt.github.io/) | 2 semanas | 12 horas/semana
-
+[Introdução ao LaTeX](https://www.youtube.com/playlist?list=PLa_2246N48_p9ndUHlO255uvKtSR8mshE) | 2 semanas | 9 horas/semana
