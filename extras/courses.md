@@ -2,6 +2,12 @@
 
 Essa é uma lista de cursos de excelente qualidade que por uma razão ou outra acabaram não entrando no currículo. Na maior parte dos casos o curso simplesmente não faz parte do currículo porque trata de um assunto que normalmente não faz parte dos conceitos essenciais de ciência da computação ou há algum outro que trata do mesmo conteúdo e decidimos adicioná-lo na grade.
 
+## Programação
+
+Curso | Duração | Dedicação
+:-- | :--: | :--:
+[Programação Linear](https://www.youtube.com/channel/UCYe-qV12CP64BewDy2-BY5A/playlists) | 3 semanas | 8 horas/semana
+
 ## Ferramentas
 
 Curso | Duração | Dedicação
