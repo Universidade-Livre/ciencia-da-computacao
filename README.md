@@ -20,14 +20,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
 -->
 
 <p align="center">
-<img src="https://uploaddeimagens.com.br/images/003/361/136/original/placeholder.jpg">
+  <img src="https://uploaddeimagens.com.br/images/003/361/136/original/placeholder.jpg">
 </p>
 <p align="center">
-<h3 align="center">Universidade Brasileira Livre</h3>
+  <h3 align="center">Universidade Brasileira Livre</h3>
 <p align="center">
   Um caminho para a educação autodidata em Ciência da Computação!
 </p>
@@ -36,15 +35,14 @@ SOFTWARE.
     <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
   </a>
   <a href="https://github.com/ossu/computer-science">
-	<img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg">
+    <img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg">
   </a>
 </p>
 <p align="center">
   <a href="https://twitter.com/UBLivre">
     <img alt="Twitter" width="25" src="https://github.com/Universidade-Livre/imagens/blob/main/png/twitter.png">
   </a>
-	
-   <a href="https://www.linkedin.com/school/universidade-brasileira-livre/">
+  <a href="https://www.linkedin.com/school/universidade-brasileira-livre/">
     <img alt="Linkedin" width="25" src="https://github.com/Universidade-Livre/imagens/blob/main/png/linkedin.png">
   </a>
 </p>
@@ -165,9 +163,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 [Circuitos Digitais](https://www.youtube.com/playlist?list=PLXyWBo_coJnMYO9Na3t-oYsc2X4kPJBWf) | 9 semanas | 4 horas/semana | Portas Lógicas; Diagramas; Máquinas de Estado; Projeto de Circuitos. | -
 <!---
 [Lógica Formal](#) | x semanas | x horas/semana | - | -
-
 -->
-
 ### Aprofundamento de Conceitos Introdutórios
 
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
@@ -247,15 +243,15 @@ O que fazer após isso? Bem, na verdade as possibilidades são sem limites e int
   - Aprender mais sobre **tipos** e **inferência de tipos** com [OCaml](https://github.com/Camilotk/ocaml4noobs), uma linguagem multiparadigma com inferência estática de tipos!
 
 <p align="center">
-<img src="https://github.com/Universidade-Livre/imagens/blob/main/mascote/mascote_ubl_cut.png" />
+  <img src="https://github.com/Universidade-Livre/imagens/blob/main/mascote/mascote_ubl_cut.png" />
 </p>
 
  ## Time
 
-  - [Camilo Cunha de Azevedo](https://github.com/Camilotk): Fundador da ULivre
-  - [Mateus Roveda](https://github.com/mateusrovedaa): Líder de Comunidade
-  - [Leonardo Fiedler](https://github.com/leonardoFiedler): Mantenedor da Especialização em Ciência de Dados
-  - [Jefferson Quesado](https://github.com/jeffque): Mantenedor da Especialização em Desenvolvimento Web
+- [Camilo Cunha de Azevedo](https://github.com/Camilotk): Fundador da ULivre
+- [Mateus Roveda](https://github.com/mateusrovedaa): Líder de Comunidade
+- [Leonardo Fiedler](https://github.com/leonardoFiedler): Mantenedor da Especialização em Ciência de Dados
+- [Jefferson Quesado](https://github.com/jeffque): Mantenedor da Especialização em Desenvolvimento Web
 
 ## Contribuidores
 Nosso muito obrigado a todas essas pessoas!
