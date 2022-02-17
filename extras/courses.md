@@ -15,3 +15,9 @@ Curso | Duração | Dedicação
 [O semestre que falta na sua faculdade em ciência da computação](https://missing-semester-pt.github.io/) | 2 semanas | 12 horas/semana
 [Introdução ao LaTeX](https://www.youtube.com/playlist?list=PLa_2246N48_p9ndUHlO255uvKtSR8mshE) | 1 semanas | 3 horas/semana
 [LaTeX para Iniciantes](https://www.youtube.com/playlist?list=PLF6ZF9NW0Wmq0cgsPVX_mEhB0Kk81qAeF) | 2 semanas | 9 horas/semana
+
+# Outros
+
+Curso | Duração | Dedicação
+:-- | :--: | :--:
+[Pensamento Crítico, Lógica e Argumentação](https://www.coursera.org/learn/pensamento-critico-argumentacao) | 2 semanas | 12 horas/semana
