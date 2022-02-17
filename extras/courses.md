@@ -16,7 +16,7 @@ Curso | Duração | Dedicação
 [Introdução ao LaTeX](https://www.youtube.com/playlist?list=PLa_2246N48_p9ndUHlO255uvKtSR8mshE) | 1 semanas | 3 horas/semana
 [LaTeX para Iniciantes](https://www.youtube.com/playlist?list=PLF6ZF9NW0Wmq0cgsPVX_mEhB0Kk81qAeF) | 2 semanas | 9 horas/semana
 
-# Outros
+## Outros
 
 Curso | Duração | Dedicação
 :-- | :--: | :--:
