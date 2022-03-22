@@ -80,9 +80,9 @@ os cursos presentes na grade seguem os seguintes critérios:
 - Ter reconhecimento de qualidade da Comunidade sobre o tema
 - Estar de acordo com o que espera-se do Currículo de Ciências da Computação
 
-Os cursos têm como suplementação sempre que possível, livros.
-Quando um livro ou curso de qualidade for recomendável a leitura, mas não encaixar-se com o currículo
-ele deverá ser adicionado nas listas de [cursos extras](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/extras/courses.md) e [livros extras](#) respectivamente.
+Os cursos têm como suplementação sempre que possível, livros. A forma como você quer aprender o conteúdo de cada uma dessas disciplinas é inteiramente sua responsabilidade, você pode ler o livro ou assistir o curso conforme achar conveniente. Livros geralmente não são gratuitos e de livre acesso, mas não se preocupe o conteúdo é o mesmo dos cursos que são.
+
+Quando um curso de qualidade for recomendado, mas não se encaixar na grade vamos adicioná-lo em [cursos extras](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/extras/courses.md) o mesmo com livros em [livros extras](#).
 
 **Organização**. O Currículo é organizado da seguinte forma:
 - **Introdução a Computação**: Contêm os conteúdos de introdução, é onde você pode começar e ver se quer fazer CS.
