@@ -85,7 +85,7 @@ Os cursos têm como suplementação sempre que possível, livros. A forma como v
 Quando um curso de qualidade for recomendado, mas não se encaixar na grade vamos adicioná-lo em [cursos extras](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/extras/courses.md) o mesmo com livros em [livros extras](#).
 
 **Organização**. O Currículo é organizado da seguinte forma:
-- **Introdução a Computação**: Contêm os conteúdos de introdução, é onde você pode começar e ver se quer fazer CS.
+- **Introdução a Computação**: Contêm os conteúdos de introdução, é onde você pode começar e ver se quer fazer CC.
 - **Aprofundamento de Conceitos Introdutórios**: Contêm os conteúdos que começam a aprofundar os conceitos introdutórios.
 - **Desenvolvimento Teórico**: Contêm os conteúdos que servem como base para a construção de bases teóricas.
 - **Desenvolvimento Técnico**: Contêm os conteúdos que começam a desenvolver bases técnicas.
