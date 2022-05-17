@@ -47,6 +47,10 @@ SOFTWARE.
    <a href="https://www.linkedin.com/school/universidade-brasileira-livre/">
     <img alt="Linkedin" width="25" src="https://github.com/Universidade-Livre/imagens/blob/main/png/linkedin.png">
   </a>
+	
+  <a href="https://www.twitch.tv/universidade_livre">
+    <img alt="Linkedin" width="25" src="https://github.com/Universidade-Livre/imagens/blob/main/png/twitch.png">
+  </a>
 </p>
 
 # Conteúdos
