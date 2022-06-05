@@ -13,6 +13,9 @@ Curso | Duração | Dedicação | Conteúdos
 [Introdução a LGPD](https://www.ev.org.br/cursos/lei-geral-de-protecao-de-dados-lgpd) | 2 semanas | 2 horas/semana | LGPD
 [OWASP do início*](https://www.udemy.com/course/owasp-zap-from-scratch/) | 2 semanas | 2 horas/semana | OWASP; Força bruta
 [Introdução ao Hacking e Pentest](https://solyd.com.br/treinamentos/introducao-ao-hacking-e-pentest-2/) | 4 semanas | 2 horas/semana | Pentest; Vulnerabilidades
+[Criptografia Parte 1](https://www.youtube.com/watch?v=CcU5Kc_FN_4) | 1 semana | 2 horas/semana | Criptografia
+[Criptografia Parte 2](https://www.youtube.com/watch?v=HCHqtpipwu4) | 1 semana | 2 horas/semana | Criptografia
+[Configurar chaves públicas e privadas](https://www.youtube.com/watch?v=7BEsfupYngE) | 1 semana | 2 horas/semana | Chaves de autenticação
 
 Observações:
 * Material em inglês
