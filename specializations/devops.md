@@ -14,3 +14,4 @@ Curso | Duração | Dedicação | Conteúdos
 [Intensivo Gitflow](https://www.youtube.com/watch?v=dJjVr6Ya7B8) | 1h | ---| Gitflow e seus conceitos.
 [Desbravando CI/CD](https://www.youtube.com/playlist?list=PL7ScB28KYHhGTTHA2PFe0DmHmt3qU4YgM) | 3h | --- | Conceitos práticos de CI/CD.
 
+Especialização em construção.
