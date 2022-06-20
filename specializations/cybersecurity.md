@@ -19,3 +19,5 @@ Curso | Duração | Dedicação | Conteúdos
 
 Observações:
 * Material em inglês
+
+Especialização em construção.
