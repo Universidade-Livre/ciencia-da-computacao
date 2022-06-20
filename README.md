@@ -239,6 +239,8 @@ Especialização     | Duração     | Dedicação                | Áreas de At
 [Embarcados](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/embedded_systems.md)         | 31 semanas  | Média de 4 h/semana | `internet das coisas`, `controles industriais`, `coisas inteligentes`, `wearables`, `cidades inteligentes`, `automobilismo`, `e mais`
 [Desenvolvimento Web](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/web_development.md) | 37 semanas | Média de  4 h/semana | `aplicações em servidor`, `layout de páginas web`, `sistemas on-line`, `APIs`, `computação em nuvem`, `streaming`, `e mais`
 [Ciência de Dados](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/data_science.md) | 25+ semanas | Média de  4 h/semana | `análise de dados`, `visualização de dados`, `machine learning`, `deep learning`, `sistemas especialistas`, `estatística`, `e mais`
+[CyberSecurity](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/cybersecurity.md) | 20+ semanas | Média de  4 h/semana | `segurança`, `pentest`, `criptografia`, `autenticação`, `análise`, `estatística`, `e mais`
+[DevOps](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/devops.md) | 10+ semanas | Média de  2 h/semana | `devops`, `infraestrutura`, `container`, `docker`, `kubernates`, `CI/CD`, `e mais`
 
 ## Como demonstrar o meu progresso?
 
