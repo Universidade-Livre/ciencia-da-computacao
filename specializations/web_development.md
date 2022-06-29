@@ -16,3 +16,7 @@ Curso | Duração | Dedicação | Conteúdos
 [Curso de React](https://www.youtube.com/playlist?list=PLx4x_zx8csUh752BVDGZkxYpY9lS40fyC) | 4 Semanas | 4 horas/semana | Componentes; Estado; Hooks; API; Navegação.
 [Mini-curso de TypeScript](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_) | 2 Semanas | 2 horas/semana | Tipos; Compilador; Classes; Generics.
 [Node (Express) com TypeScript](https://www.youtube.com/playlist?list=PLn3kOoc0oI2cQDdUEQxj75sxgRH53DmSc) | 2 Semanas | 2 horas/semana | Rotas; JWT; Tipos; Optionals.
+[Curso de Vue.js 3](https://www.youtube.com/playlist?list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL) | -- | -- | Componentes, Vue-CLI, Vue Router;
+
+
+
