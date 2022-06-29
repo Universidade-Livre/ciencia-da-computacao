@@ -18,7 +18,7 @@ Curso | Duração | Dedicação | Conteúdos
 [Cloud Essentials](https://4linux.com.br/cursos/treinamento/cloud-fundamentals/) | 12 semanas | 2 horas/semana | IaaS, PaaS e SaaS; GCP/AWS/Azure; SSH
 [Curso de Introdução ao Vagrant](https://www.youtube.com/playlist?list=PLmSWX0ePcw4j6xaMvvTuYI0BgKadati5L) | 1 semana | 2 horas/semana | Introdução ao Vagrant e seus conceitos
 [Curso Docker Completo](https://www.youtube.com/playlist?list=PLg7nVxv7fa6dxsV1ftKI8FAm4YD6iZuI4) | 1 semana | 2 horas/semana | Docker Básico e CLI Docker
-[Descomplicando o Docker](https://www.youtube.com/playlist?list=PLg7nVxv7fa6dxsV1ftKI8FAm4YD6iZuI4) | 4 semanas | 2 horas/semana | Docker; Containers; Docker Swarm; Docker Hub
+[Descomplicando o Docker](https://www.youtube.com/playlist?list=PLf-O3X2-mxDn1VpyU2q3fuI6YYeIWp5rR) | 4 semanas | 2 horas/semana | Docker; Containers; Docker Swarm; Docker Hub
 [Docker e Docker Compose do zero ao Deploy](https://www.youtube.com/watch?v=yb2udL9GG2U) | 1 semana | 2 horas/semana | Docker em produção; Docker Compose; Conceitos de Deploy
 [Curso de Introdução ao Kubernetes](https://www.youtube.com/playlist?list=PLXzx948cNtr8XI5JBemHT9OWuYSPNUtXs) | 2 semanas | 2 horas/semana | Introdução ao Kubernetes e seus conceitos
 [Intensivo Kubernetes: O mínimo que um dev precisa saber](https://www.youtube.com/watch?v=5unI7VPnASM) | 1 semana | 2 horas/semana | Kubernetes essencial para desenvolvimento
