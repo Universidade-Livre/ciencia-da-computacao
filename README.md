@@ -186,9 +186,9 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Leitura Recomen
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Leitura Recomendada
 :-- | :--: | :--: | :--: | :--: | :--:
 [Introdução à Ciência da Computação com Python II](https://pt.coursera.org/learn/ciencia-computacao-python-conceitos-2) | 6 Semanas | 4 horas/semana | Matrizes; POO; Recursão; Complexidade de Algoritmos. | Introdução à Ciência da Computação com Python I | -
-[Estatística e Probabilidade](https://integra.univesp.br/courses/1624) | 9 Semanas | 4 horas/semana | Espaços Discretos; Bayes; Distribuições; Variância; Regressão. | Fundamentos Matemáticos para Computação | Ross, Sheldon. Probabilidade: Um Curso Moderno com Aplicações.
+[Estatística e Probabilidade](https://www.youtube.com/playlist?list=PLxI8Can9yAHeeWqe3m9HZFiBhT33Mfxew) | 9 Semanas | 4 horas/semana | Espaços Discretos; Bayes; Distribuições; Variância; Regressão. | Fundamentos Matemáticos para Computação | Ross, Sheldon. Probabilidade: Um Curso Moderno com Aplicações.
 [Arquitetura de Computadores I](https://www.youtube.com/playlist?list=PLEUHFTHcrJmswfeq7QEHskgkT6HER3gK6) | 9 Semanas | 4 horas/semana | Memória; Booleans; Arquitetura; RISC-V. | Circuitos Digitais | A. S. Tanenbaum. Organizacao Estruturada de Computadores
-[Noções de Inglês](https://integra.univesp.br/courses/3032) | 9 Semanas | 4 horas/semana | Inglês básico; Técnicas de Leitura; Escrita. | - | -
+[Noções de Inglês](https://www.youtube.com/playlist?list=PLxI8Can9yAHeYb4-3dXwiY2Z9VdqhnqpM) | 9 Semanas | 4 horas/semana | Inglês básico; Técnicas de Leitura; Escrita. | - | -
 [Noções de Direitos Autorais, parte I](https://www.escolavirtual.gov.br/curso/72) | 9 Semanas | 4 horas/semana | Direito Autoral; Direito do Autor; Limitação do Direito do Autor. | - | -
 [Noções de Direitos Autorais, parte II](https://www.youtube.com/playlist?list=PLxI8Can9yAHcoBrn53XO581IsIXHqgShZ) | 9 Semanas | 4 horas/semana | Patentes Digitais; Registro de Programas de Computador. | Noções de Direitos Autorais, parte I | -
 
@@ -205,7 +205,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Leitura Recomen
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Leitura Recomendada
 :-- | :--: | :--: | :--: | :--: | :--:
 [Desenvolvimento Ágil com Java Avançado](https://pt.coursera.org/learn/desenvolvimento-agil-com-java-avancado) | 4 Semanas | 3 horas/semana | JDBC; Servlets; Web; Lambda Calculus. | Princípios de Desenvolvimento Ágil de Software, Programação Orientada a Objetos I  | Deitel, Paul e Deitel, Harvey. Java: como programar.
-[Cálculo I](https://integra.univesp.br/courses/1907) | 4 Semanas | 3 horas/semana | Funções; Limite; Derivada; Trigonometria; Mat. Espacial. | Fundamentos Matemáticos para Computação | Steward, James. Cálculo, Volume 1.
+[Cálculo I](https://www.youtube.com/playlist?list=PLxI8Can9yAHd2Tjqa68gx_2R5YOkzOLgS) | 4 Semanas | 3 horas/semana | Funções; Limite; Derivada; Trigonometria; Mat. Espacial. | Fundamentos Matemáticos para Computação | Steward, James. Cálculo, Volume 1.
 [Teoria dos Grafos](https://www.youtube.com/playlist?list=PLndfcZyvAqbr2MLCOLEvBNX6FgD8UNWfX) | 4 Semanas | 3 horas/semana | Grafos; Representações; Isomorfismo; Decomposição. | Fundamentos Matemáticos para Computação | Bondy e Murty. Graph Theory with Applications.
 [Sistemas Operacionais](http://wiki.inf.ufpr.br/maziero/doku.php?id=socm:start) | 4 Semanas | 3 horas/semana | Processos; Threads; Calls; I/O. | Arquitetura de Computadores II | Tanenbaum, Andrew S. Sistemas Operacionais Modernos.
 [Banco de Dados MySQL](https://www.youtube.com/playlist?list=PLucm8g_ezqNrWAQH2B_0AnrFY5dJcgOLR) | 3 Semanas | 4 horas/semana | CRUD; Consultas; Tabelas. | Introdução à Ciência da Computação com Python II, Bancos de Dados | -
@@ -213,9 +213,9 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Leitura Recomen
 ### Aprofundamento Técnico
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Leitura Recomendada
 :-- | :--: | :--: | :--: | :--: | :--:
-[Interfaces Humano-Computador](https://integra.univesp.br/courses/1603) | 3 Semanas | 3 horas/semana | Estudos de Usuário; Design; Avaliação de Interfaces. | - | -
+[Interfaces Humano-Computador](https://www.youtube.com/playlist?list=PLxI8Can9yAHcoiFzGoyLITBKzFbiw3RIp) | 3 Semanas | 3 horas/semana | Estudos de Usuário; Design; Avaliação de Interfaces. | - | -
 [Estrutura de Dados](https://www.youtube.com/playlist?list=PLUukMN0DTKCtdKaIUQoV4VWqGblYGZLfC) | 2 Semanas | 3 horas/semana | Filas; Pilhas; Árvores; Ordenação. | Teoria dos Grafos, Programação Orientada a Objetos I | CORMEN, T., LEISERSON, C., RIVEST, R., e STEIN, C. Algoritmos - Teoria e Prática.
-[Redes de Computadores](https://integra.univesp.br/courses/2713) | 2 Semanas | 3 horas/semana | Protocolos; UDP; TCP; Comunicação. | - | KUROSE, J. F.; ROSS, K. W. Redes de Computadores e a Internet: Uma Abordagem Top-down
+[Redes de Computadores](https://www.youtube.com/playlist?list=PLxI8Can9yAHc-_dZ6nsfoon08i2-4OvEk) | 2 Semanas | 3 horas/semana | Protocolos; UDP; TCP; Comunicação. | - | KUROSE, J. F.; ROSS, K. W. Redes de Computadores e a Internet: Uma Abordagem Top-down
 [Criação de Startups](https://pt.coursera.org/learn/criacao-startups) | 2 Semanas | 3 horas/semana | Canvas; MVP; Modelo de Negócio; Pitch. | - | -
 [Introdução ao Desenvolvimento de Aplicativos Android](https://pt.coursera.org/learn/introducao-aplicativos-android) | 2 Semanas | 3 horas/semana | Aplicativos; Android Studio; Views. | Desenvolvimento Ágil com Java Avançado | -
 
@@ -225,7 +225,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Leitura Recomen
 [Paradigmas de Programação](https://www.youtube.com/playlist?list=PLYItvall0TqJ25sVTLcMhxsE0Hci58mpQ) | 2 Semanas | 3 horas/semana | Programação Funcional; Cálculo Lambda; Haskell; Monads. | Estrutura de Dados | -
 [Exercícios de Paradigmas de Programação](https://www.youtube.com/playlist?list=PLYItvall0TqJU369ZZ2oNN9mrhLX6Myqk) | - | - | Exercícios do curso. | Estrutura de Dados | -
 [Compiladores](https://www.youtube.com/playlist?list=PLjcmNukBom6--0we1zrpoUE2GuRD-Me6W) | 2 Semanas | 3 horas/semana | Lexers; Parsers; AST; Generators.  | Teoria dos Grafos | Aho, A.V., Sethi, R. e Ullman, J.D. Compiladores – Princípios, Técnicas e Ferramentas.
-[Gerência da Qualidade de Software](https://integra.univesp.br/courses/1602) | 2 Semanas | 3 horas/semana | Testes; Estimativas; Processos.  | - | -
+[Gerência da Qualidade de Software](https://www.youtube.com/playlist?list=PLxI8Can9yAHcmjsfjFdo_xJ3xhLiczzLC) | 2 Semanas | 3 horas/semana | Testes; Estimativas; Processos.  | - | -
 [Fundamentos da Inteligência Artificial](https://www.youtube.com/playlist?list=PLtQM10PgmGogjn0cikgWi8wpQUnV6ERkY) | 2 Semanas | 3 horas/semana | Regressão Linear; Gradientes; Redes Neurais; Perceptons.  | Estrutura de Dados, Estatística e Probabilidade | Russel, S. e Norvig, P. Inteligência Artificial.
 [Metodologia da Pesquisa em Computação](https://www.youtube.com/playlist?list=PLclUQno6PMpQO0-XrDwWsPzRzEvjwp1__) | 8 Semanas | 5 horas/semana | Pesquisa; Artigos; Métodos; Publicação.  | - | -
 
