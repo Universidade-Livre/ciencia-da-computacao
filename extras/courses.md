@@ -7,6 +7,7 @@ Essa é uma lista de cursos de excelente qualidade que por uma razão ou outra a
 Curso | Duração | Dedicação
 :-- | :--: | :--:
 [Programação Linear](https://www.youtube.com/channel/UCYe-qV12CP64BewDy2-BY5A/playlists) | 3 semanas | 8 horas/semana
+[Desenvolvimento Orientado a Tipos](https://www.youtube.com/playlist?list=PLYItvall0TqKaY6qObQMlZ45Bo94xq9Ym) | 3 semanas | 8 horas/semana
 
 ## Ferramentas
 
@@ -19,7 +20,7 @@ Curso | Duração | Dedicação
 ## Especialização Web
 Curso | Duração | Dedicação
 :-- | :--: | :--:
-[Curso de Vue.js 3](https://www.youtube.com/playlist?list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL) | -- | -- 
+[Curso de Vue.js 3](https://www.youtube.com/playlist?list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL) | -- | --
 
 ## Outros
 

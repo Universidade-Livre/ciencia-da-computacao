@@ -105,8 +105,7 @@ Quando um curso de qualidade for recomendado, mas não se encaixar na grade, vam
 - **Aprofundamento Técnico**: Contêm os conteúdos que utilizam as bases teóricas e técnicas para construir fundamentos práticos.
 - **Tópicos Finais**: Conteúdos que utilizam de todo conhecimento adquirido nos tópicos anteriores para técnicas avançadas de computação.
 
-**Duração**. É possível terminar o curso em x anos, dedicando x horas por dia. Os estudantes podem utilizar a [planilha que ainda vamos disponibilizar
-](#) para estimar o tempo de curso que ainda falta para a conclusão. 
+**Duração**. É possível terminar o curso em x anos, dedicando x horas por dia. Os estudantes podem utilizar a [planilha](https://docs.google.com/spreadsheets/d/1hcfneW8iGtDKHrCdO_L2HUAGISBd8NxyCxx8naiQhHI/edit?usp=sharing) para estimar o tempo de curso que ainda falta para a conclusão. 
 
 **Custo**. Todos os cursos podem ser completados de forma gratuita. Porém, alguns cursos têm diplomas/certificados/atividades/extras opcionais que são pagos.
 Observe que o [Coursera](https://learner.coursera.help/hc/en-us/articles/209819033-Apply-for-Financial-Aid) oferece ajuda financeira.
