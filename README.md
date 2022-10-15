@@ -107,7 +107,7 @@ Quando um curso de qualidade for recomendado, mas não se encaixar na grade, vam
 
 **Duração**. É possível terminar o curso em x anos, dedicando x horas por dia. Os estudantes podem utilizar a [planilha](https://docs.google.com/spreadsheets/d/1hcfneW8iGtDKHrCdO_L2HUAGISBd8NxyCxx8naiQhHI/edit?usp=sharing) para estimar o tempo de curso que ainda falta para a conclusão. 
 
-**Custo**. Todos os cursos podem ser completados de forma gratuita. Porém, alguns cursos têm diplomas/certificados/atividades/extras opcionais que são pagos.
+**Custo**. Todos os cursos podem ser completados de forma gratuita. Porém, alguns cursos têm diplomas, certificados, atividades ou extras opcionais que são pagos.
 Observe que o [Coursera](https://learner.coursera.help/hc/en-us/articles/209819033-Apply-for-Financial-Aid) oferece ajuda financeira.
 
 Decida quanto tempo de curso e quanto quer gastar em seus estudos neste curso por sua própria conta,
@@ -129,12 +129,12 @@ apenas tenha sempre em mente que você não pode comprar o sucesso!
 # Comunidade
 
 - Temos um servidor no Discord! [![Discord](https://img.shields.io/discord/866378348368625704.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/wymGhmf7BT) Nele pode encontrar e interagir com outros estudantes. Por que não se apresenta lá agora mesmo? [Vem para o Discord](https://discord.gg/wymGhmf7BT).
-- Você também pode interagir sobre questões a respeito dos problemas do Curso, propor mudanças de Currículo e outras coisas relacionadas através das nossas [issues](https://github.com/Universidade-Livre/ciencia-da-computacao/issues), sinta-se à vontade para abrir discussões lá.
+- Você também pode interagir sobre questões a respeito dos problemas do Curso, propor mudanças de Currículo e outras coisas relacionadas por meio das nossas [issues](https://github.com/Universidade-Livre/ciencia-da-computacao/issues). Sinta-se à vontade para abrir discussões lá.
 - Adicione a Universidade Brasileira Livre no seu perfil do [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6889534067805605889)!
 
 # Antes de começar
 
-Existem tópicos que apesar de não serem essenciais na formação de Ciência da Computação podem ser muito úteis na sua jornada de aprendizado. Caso queira você pode pulá-los ou vê-los depois.
+Existem tópicos que, apesar de não serem essenciais na formação de Ciência da Computação, podem ser muito úteis na sua jornada de aprendizado. Caso queira você pode pulá-los ou vê-los depois.
 
 ## Técnicas de estudo, organização e aprendizagem
 
@@ -149,12 +149,12 @@ Curso | Duração | Dedicação | Conteúdos
 
 ## Git e GitHub
 
-Conhecer ferramentas como Git vai te ajudar a organizar seus projetos de estudo e o GitHub (ou outras plataformas como BitBucket ou GitLab) pode ser muito útil para trabalhar remoto e compartilhar os seus projetos tanto com os colegas, além de também para usar como portfólio em futuras oportunidades de trabalho.  
+Conhecer ferramentas como o Git irá te ajudar a organizar seus projetos de estudo, enquanto que o GitHub (ou outras plataformas como BitBucket ou GitLab) pode ser muito útil para trabalhar remoto e compartilhar os seus projetos com colegas, além de poder usá-lo como portfólio em futuras oportunidades de trabalho.  
 
 Curso | Duração | Dedicação | Conteúdos
 :-- | :--: | :--: | :--: 
-[Git e Github para Iniciantes](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A) | 2 Dias | 2 horas/dia | Git; GitHub; controle de versão.
-[Git e GitHub](https://www.cursoemvideo.com/curso/curso-de-git-e-github/) | 4 Semanas | 5 horas/semana | Git; GitHub; controle de versão.
+[Git e Github para Iniciantes](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A) | 2 Dias | 2 horas/dia | Git; GitHub; Controle de versão.
+[Git e GitHub](https://www.cursoemvideo.com/curso/curso-de-git-e-github/) | 4 Semanas | 5 horas/semana | Git; GitHub; Controle de versão.
 
 # Currículo
 
@@ -166,7 +166,7 @@ O currículo deste Curso se divide em duas categorias: a das Disciplinas de Form
 
 ## Formação Geral
 
-### Introdução a Computação
+### Introdução à Computação
 
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Leitura Recomendada
 :-- | :--: | :--: | :--: | :--: | :--:
@@ -243,7 +243,7 @@ Especialização     | Duração     | Dedicação                | Áreas de At
 
 ## Como demonstrar o meu progresso?
 
-A melhor forma de demonstrar sua evolução e maturidade ao longo do currículo é através de projetos práticos que demonstrem um pouco do que você aprendeu em cada disciplina, isso vai desde projetos guiados em muitas disciplinas, até projetos que você decida fazer para se testar e construir coisas com o que aprendeu. Compartilhar sobre os projetos que tem feito ao longo do Curso, seja através de redes sociais, blogues, tutoriais, streaming... vai demonstrar para as pessoas do meio técnico e de outros meios o quanto você aprendeu e evoluiu ao longo dessa jornada.
+A melhor forma de demonstrar sua evolução e maturidade ao longo do currículo é por meio de projetos práticos que demonstrem um pouco do que você aprendeu em cada disciplina, isso vai desde projetos guiados em muitas disciplinas, até projetos que você decida fazer para se testar e construir coisas com o que aprendeu. Compartilhar sobre os projetos que tem feito ao longo do Curso, seja por meio de redes sociais, blogues, tutoriais, streaming... vai demonstrar para as pessoas do meio técnico e de outros meios o quanto você aprendeu e evoluiu ao longo dessa jornada.
 
 Não deixe de hospedar todos os seus códigos em seu perfil do GitHub, mesmo que sejam pequenos projetos ou apenas exercícios eles podem demonstrar muito sobre o que você tem estudado, como você resolve problemas e o quanto você melhorou ao longo do tempo.
 
