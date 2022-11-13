@@ -16,6 +16,8 @@ Curso | Duração | Dedicação | Conteúdos
 [Exploratory Data Analysis](https://www.coursera.org/learn/exploratory-data-analysis?specialization=data-science-foundations-r) ¹ | 4 semanas | 15 horas / semana | Plotagem de Dados; Sistemas avançados; Padrões de Dados.
 [Reproducible Research](https://www.coursera.org/learn/reproducible-research?specialization=data-science-foundations-r) ¹ | 4 semanas | 2 horas/semana | Organização de Dados; Pesquisa.
 [Estatística computacional](https://www.youtube.com/playlist?list=PLUUx2DlFul6LjL3K9AZT2nTlyZ4o38tE7) | 5 semanas | 4 horas / semana | Razão e Distribuição; Geração de Variáveis; Monte Carlo; Jacknife; AIC e BIC; DIC. 
+[Introdução à Ciência de Dados 3.0](https://www.datascienceacademy.com.br/course/intro-ciencia-de-dados-3) | 1 dia | 12 horas | Introdução a Dados.
+
 (*Em construção*)
 
 ¹ Áudio em Inglês, mas legendas em Português do Brasil.
