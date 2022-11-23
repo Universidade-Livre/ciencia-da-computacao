@@ -170,7 +170,7 @@ O currículo deste Curso se divide em duas categorias: a das Disciplinas de Form
 
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Leitura Recomendada
 :-- | :--: | :--: | :--: | :--: | :--:
-[Introdução à Ciência da Computação com Python I](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) | 9 Semanas | 4 horas/semana | Algoritmos; Lógica de Programação; Python; Testes. | - | -
+[Introdução à Ciência da Computação com Python I](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) | 9 Semanas | 4 horas/semana | Algoritmos; Lógica de Programação; Python; Testes. | - | [DOWNEY, Allen B. Pense em Python.](https://penseallen.github.io/PensePython2e/)
 [Fundamentos Matemáticos para Computação](https://www.youtube.com/watch?v=QE6ruiq632o&list=PLrOyM49ctTx-HWypJVvn_zMO1o7oOAfVx) | 9 Semanas | 4 horas/semana | Lógica Formal; PROLOG; Recursão; Matrizes; Booleanos; Grafos. | - | GERSTING, J. L. Fundamentos Matemáticos para a Ciência da Computação: Matemática Discreta e suas Aplicações.
 [Ciência da Computação 50 (CC50)](https://materiais.estudarfora.org.br/cc50-harvard/) | 9 semanas | 4 horas/semana | Sistemas Operacionais; Redes; Arquivos; C; JS. | - | -
 [Leitura e Produção de Textos](https://youtube.com/playlist?list=PLxI8Can9yAHemh_YJh9GtkIUljZbI7Tvw) | 4 semanas | 2 horas/semana | Língua Portuguesa; Escrita; Gramática; Argumentação. | - | -
@@ -184,7 +184,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Leitura Recomen
 
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Leitura Recomendada
 :-- | :--: | :--: | :--: | :--: | :--:
-[Introdução à Ciência da Computação com Python II](https://pt.coursera.org/learn/ciencia-computacao-python-conceitos-2) | 6 Semanas | 4 horas/semana | Matrizes; POO; Recursão; Complexidade de Algoritmos. | Introdução à Ciência da Computação com Python I | -
+[Introdução à Ciência da Computação com Python II](https://pt.coursera.org/learn/ciencia-computacao-python-conceitos-2) | 6 Semanas | 4 horas/semana | Matrizes; POO; Recursão; Complexidade de Algoritmos. | Introdução à Ciência da Computação com Python I | [DOWNEY, Allen B. Pense em Python.](https://penseallen.github.io/PensePython2e/)
 [Estatística e Probabilidade](https://www.youtube.com/playlist?list=PLxI8Can9yAHeeWqe3m9HZFiBhT33Mfxew) | 9 Semanas | 4 horas/semana | Espaços Discretos; Bayes; Distribuições; Variância; Regressão. | Fundamentos Matemáticos para Computação | Ross, Sheldon. Probabilidade: Um Curso Moderno com Aplicações.
 [Arquitetura de Computadores I](https://www.youtube.com/playlist?list=PLEUHFTHcrJmswfeq7QEHskgkT6HER3gK6) | 9 Semanas | 4 horas/semana | Memória; Booleans; Arquitetura; RISC-V. | Circuitos Digitais | A. S. Tanenbaum. Organizacao Estruturada de Computadores
 [Noções de Inglês](https://www.youtube.com/playlist?list=PLxI8Can9yAHeYb4-3dXwiY2Z9VdqhnqpM) | 9 Semanas | 4 horas/semana | Inglês básico; Técnicas de Leitura; Escrita. | - | -
