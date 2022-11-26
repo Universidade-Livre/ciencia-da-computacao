@@ -45,11 +45,11 @@ SOFTWARE.
   </a>
 	
    <a href="https://www.linkedin.com/school/universidade-brasileira-livre/">
-    <img alt="Linkedin" width="25" src="https://github.com/Universidade-Livre/imagens/blob/main/png/linkedin.png">
+    <img alt="LinkedIn" width="25" src="https://github.com/Universidade-Livre/imagens/blob/main/png/linkedin.png">
   </a>
 	
   <a href="https://www.twitch.tv/universidade_livre">
-    <img alt="Linkedin" width="25" src="https://github.com/Universidade-Livre/imagens/blob/main/png/twitch.png">
+    <img alt="LinkedIn" width="25" src="https://github.com/Universidade-Livre/imagens/blob/main/png/twitch.png">
   </a>
 </p>
 
@@ -84,18 +84,18 @@ Levamos em consideração (apesar de não ter implementado completamente como su
 em Ciência da Computação. Continuaremos constantemente trabalhando e aceitando sugestões de melhorias para cada vez mais oferecer uma experiência
 melhor para todos os estudantes que seguem nosso guia aberto de conteúdos.
 
-- [Referenciais de Formacao para Cursos de Graduacao em Computacao - Outubro 2017 (SBC)](https://www.sbc.org.br/documentos-da-sbc/summary/131-curriculos-de-referencia/1165-referenciais-de-formacao-para-cursos-de-graduacao-em-computacao-outubro-2017)
-- [Diretrizes Curriculates para Cursos de Computação (UFRGS)](https://www.inf.ufrgs.br/site/wp-content/uploads/2016/05/diretrizes_curriculares.pdf)
+- [Referenciais de Formação para os Cursos de Graduação em Computação 2017 (SBC)](https://www.sbc.org.br/documentos-da-sbc/send/131-curriculos-de-referencia/1165-referenciais-de-formacao-para-cursos-de-graduacao-em-computacao-outubro-2017)
+- [Diretrizes Curriculares de Cursos da Área de Computação e Informática (UFRGS)](https://www.inf.ufrgs.br/site/wp-content/uploads/2016/05/diretrizes_curriculares.pdf)
 
 **Os Cursos devem**:
 - Ser gratuitos ou de conteúdo que possa ser assistido de forma aberta
 - Possuir método pedagógico
 - Ter reconhecimento de qualidade da Comunidade sobre o tema
-- Estar de acordo com o que espera-se do Currículo de Ciências da Computação
+- Estar de acordo com o que se espera do Currículo de Ciências da Computação
 
-Os cursos têm como suplementação sempre que possível, livros. A forma como você quer aprender o conteúdo de cada uma dessas disciplinas é inteiramente sua responsabilidade, você pode ler o livro ou assistir o curso conforme achar conveniente. Livros geralmente não são gratuitos e de livre acesso, mas não se preocupe o conteúdo é o mesmo dos cursos que são.
+Os cursos têm como suplementação sempre que possível, livros. A forma como você quer aprender o conteúdo de cada uma dessas disciplinas é inteiramente sua responsabilidade, você pode ler o livro ou assistir o curso conforme achar conveniente. Livros geralmente não são gratuitos e de livre acesso, mas não se preocupe, pois o conteúdo é o mesmo dos cursos, que são.
 
-Quando um curso de qualidade for recomendado, mas não se encaixar na grade vamos adicioná-lo em [cursos extras](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/extras/courses.md) o mesmo com livros em [livros extras](#).
+Quando um curso de qualidade for recomendado, mas não se encaixar na grade, vamos adicioná-lo em [cursos extras](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/extras/courses.md) - e o mesmo com livros, em [livros extras](#).
 
 **Organização**. O Currículo é organizado da seguinte forma:
 - **Introdução a Computação**: Contêm os conteúdos de introdução, é onde você pode começar e ver se quer fazer CC.
@@ -103,11 +103,11 @@ Quando um curso de qualidade for recomendado, mas não se encaixar na grade vamo
 - **Desenvolvimento Teórico**: Contêm os conteúdos que servem como base para a construção de bases teóricas.
 - **Desenvolvimento Técnico**: Contêm os conteúdos que começam a desenvolver bases técnicas.
 - **Aprofundamento Técnico**: Contêm os conteúdos que utilizam as bases teóricas e técnicas para construir fundamentos práticos.
-- **Tópicos Finais**: Conteúdos que utilizam-se de todo conhecimento adquirido nos tópicos anteriores para técnicas avançadas de computação.
+- **Tópicos Finais**: Conteúdos que utilizam de todo conhecimento adquirido nos tópicos anteriores para técnicas avançadas de computação.
 
 **Duração**. É possível terminar o curso em x anos, dedicando x horas por dia. Os estudantes podem utilizar a [planilha](https://docs.google.com/spreadsheets/d/1hcfneW8iGtDKHrCdO_L2HUAGISBd8NxyCxx8naiQhHI/edit?usp=sharing) para estimar o tempo de curso que ainda falta para a conclusão. 
 
-**Custo**. Todos os cursos podem ser completados de forma gratuita. Porém, alguns cursos têm diplomas/certificados/atividades/extras opcionais que são pagos.
+**Custo**. Todos os cursos podem ser completados de forma gratuita. Porém, alguns cursos têm diplomas, certificados, atividades ou extras opcionais que são pagos.
 Observe que o [Coursera](https://learner.coursera.help/hc/en-us/articles/209819033-Apply-for-Financial-Aid) oferece ajuda financeira.
 
 Decida quanto tempo de curso e quanto quer gastar em seus estudos neste curso por sua própria conta,
@@ -129,12 +129,12 @@ apenas tenha sempre em mente que você não pode comprar o sucesso!
 # Comunidade
 
 - Temos um servidor no Discord! [![Discord](https://img.shields.io/discord/866378348368625704.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/wymGhmf7BT) Nele pode encontrar e interagir com outros estudantes. Por que não se apresenta lá agora mesmo? [Vem para o Discord](https://discord.gg/wymGhmf7BT).
-- Você também pode interagir sobre questões a respeito dos problemas do Curso, propor mudanças de Currículo e outras coisas relacionadas através das nossas [issues](https://github.com/Universidade-Livre/ciencia-da-computacao/issues), sinta-se à vontade para abrir discussões lá.
-- Adicione a Universidade Brasileira Livre no seu perfil do [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6889534067805605889)!
+- Você também pode interagir sobre questões a respeito dos problemas do Curso, propor mudanças de Currículo e outras coisas relacionadas por meio das nossas [issues](https://github.com/Universidade-Livre/ciencia-da-computacao/issues). Sinta-se à vontade para abrir discussões lá.
+- Adicione a Universidade Brasileira Livre no seu perfil do [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6889534067805605889)!
 
 # Antes de começar
 
-Existem tópicos que apesar de não serem essenciais na formação de Ciência da Computação podem ser muito úteis na sua jornada de aprendizado. Caso queira você pode pulá-los ou vê-los depois.
+Existem tópicos que, apesar de não serem essenciais na formação de Ciência da Computação, podem ser muito úteis na sua jornada de aprendizado. Caso queira você pode pulá-los ou vê-los depois.
 
 ## Técnicas de estudo, organização e aprendizagem
 
@@ -149,12 +149,12 @@ Curso | Duração | Dedicação | Conteúdos
 
 ## Git e GitHub
 
-Conhecer ferramentas como Git vai te ajudar a organizar seus projetos de estudo e o GitHub (ou outras plataformas como BitBucket ou GitLab) pode ser muito útil para trabalhar remoto e compartilhar os seus projetos tanto com os colegas, além de também para usar como portifólio em futuras oportunidades de trabalho.  
+Conhecer ferramentas como o Git irá te ajudar a organizar seus projetos de estudo, enquanto que o GitHub (ou outras plataformas como BitBucket ou GitLab) pode ser muito útil para trabalhar remoto e compartilhar os seus projetos com colegas, além de poder usá-lo como portfólio em futuras oportunidades de trabalho.  
 
 Curso | Duração | Dedicação | Conteúdos
 :-- | :--: | :--: | :--: 
-[Git e Github para Iniciantes](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A) | 2 Dias | 2 horas/dia | Git; GitHub; controle de versão.
-[Git e GitHub](https://www.cursoemvideo.com/curso/curso-de-git-e-github/) | 4 Semanas | 5 horas/semana | Git; GitHub; controle de versão.
+[Git e Github para Iniciantes](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A) | 2 Dias | 2 horas/dia | Git; GitHub; Controle de versão.
+[Git e GitHub](https://www.cursoemvideo.com/curso/curso-de-git-e-github/) | 4 Semanas | 5 horas/semana | Git; GitHub; Controle de versão.
 
 # Currículo
 
@@ -166,7 +166,7 @@ O currículo deste Curso se divide em duas categorias: a das Disciplinas de Form
 
 ## Formação Geral
 
-### Introdução a Computação
+### Introdução à Computação
 
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Leitura Recomendada
 :-- | :--: | :--: | :--: | :--: | :--:
@@ -186,7 +186,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Leitura Recomen
 :-- | :--: | :--: | :--: | :--: | :--:
 [Introdução à Ciência da Computação com Python II](https://pt.coursera.org/learn/ciencia-computacao-python-conceitos-2) | 6 Semanas | 4 horas/semana | Matrizes; POO; Recursão; Complexidade de Algoritmos. | Introdução à Ciência da Computação com Python I | [DOWNEY, Allen B. Pense em Python.](https://penseallen.github.io/PensePython2e/)
 [Estatística e Probabilidade](https://www.youtube.com/playlist?list=PLxI8Can9yAHeeWqe3m9HZFiBhT33Mfxew) | 9 Semanas | 4 horas/semana | Espaços Discretos; Bayes; Distribuições; Variância; Regressão. | Fundamentos Matemáticos para Computação | Ross, Sheldon. Probabilidade: Um Curso Moderno com Aplicações.
-[Arquitetura de Computadores I](https://www.youtube.com/playlist?list=PLEUHFTHcrJmswfeq7QEHskgkT6HER3gK6) | 9 Semanas | 4 horas/semana | Memória; Booleans; Arquitetura; RISC-V. | Circuitos Digitais | A. S. Tanenbaum. Organizacao Estruturada de Computadores
+[Arquitetura de Computadores I](https://www.youtube.com/playlist?list=PLEUHFTHcrJmswfeq7QEHskgkT6HER3gK6) | 9 Semanas | 4 horas/semana | Memória; Booleans; Arquitetura; RISC-V. | Circuitos Digitais | A. S. Tanenbaum. Organização Estruturada de Computadores
 [Noções de Inglês](https://www.youtube.com/playlist?list=PLxI8Can9yAHeYb4-3dXwiY2Z9VdqhnqpM) | 9 Semanas | 4 horas/semana | Inglês básico; Técnicas de Leitura; Escrita. | - | -
 [Noções de Direitos Autorais, parte I](https://www.escolavirtual.gov.br/curso/72) | 9 Semanas | 4 horas/semana | Direito Autoral; Direito do Autor; Limitação do Direito do Autor. | - | -
 [Noções de Direitos Autorais, parte II](https://www.youtube.com/playlist?list=PLxI8Can9yAHcoBrn53XO581IsIXHqgShZ) | 9 Semanas | 4 horas/semana | Patentes Digitais; Registro de Programas de Computador. | Noções de Direitos Autorais, parte I | -
@@ -198,7 +198,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Leitura Recomen
 [Bancos de Dados](https://cursos.univesp.br/courses/3129) | 4 Semanas | 3 horas/semana | MER; Projeto de Banco de Dados; Normalização; SQL. | - | -
 [Arquitetura de Computadores II](https://www.youtube.com/playlist?list=PLEUHFTHcrJmsqKX-GDD-hBvkF8h2_BfKJ) | 9 Semanas | 4 horas/semana | Cache; Paralelismo; ASM; RISC-V. | Arquitetura de Computadores I | Tanenbaum, Andrews S. Organização Estruturada de Computadores.
 [Algebra Linear I](https://www.youtube.com/playlist?list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI) | 4 Semanas | 3 horas/semana | Sistemas lineares; Vetores; Espaços Vetoriais. | Fundamentos Matemáticos para Computação | Strang, Gilbert. Álgebra linear e suas aplicações
-[Princípios de Desenvolvimento Ágil de Software](https://pt.coursera.org/learn/principios-de-desenvolvimento-agil-de-software) | 9 Semanas | 4 horas/semana | XP; User Stories; Taks; Sprint; Diagramas. | - | -
+[Princípios de Desenvolvimento Ágil de Software](https://pt.coursera.org/learn/principios-de-desenvolvimento-agil-de-software) | 9 Semanas | 4 horas/semana | XP; User Stories; Tasks; Sprint; Diagramas. | - | -
 
 ### Desenvolvimento Teórico
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Leitura Recomendada
@@ -234,16 +234,16 @@ Após ter concluído a formação geral, você já deve ter uma ampla visão sob
 
 Especialização     | Duração     | Dedicação                | Áreas de Atuação
 :--                | :--:        | :--:                     | :--     
-[Computação Gráfica](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/computer_graphics.md) | 15+ semanas | Média de 4 h/semana | `softwares gráficos`, `aplicações 3D`, `games`, `fotorealismo`, `sistemas gráficos`, `simuladores`, `e mais`
+[Computação Gráfica](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/computer_graphics.md) | 15+ semanas | Média de 4 h/semana | `softwares gráficos`, `aplicações 3D`, `games`, `fotorrealismo`, `sistemas gráficos`, `simuladores`, `e mais`
 [Embarcados](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/embedded_systems.md)         | 31 semanas  | Média de 4 h/semana | `internet das coisas`, `controles industriais`, `coisas inteligentes`, `wearables`, `cidades inteligentes`, `automobilismo`, `e mais`
 [Desenvolvimento Web](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/web_development.md) | 37 semanas | Média de  4 h/semana | `aplicações em servidor`, `layout de páginas web`, `sistemas on-line`, `APIs`, `computação em nuvem`, `streaming`, `e mais`
 [Ciência de Dados](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/data_science.md) | 25+ semanas | Média de  4 h/semana | `análise de dados`, `visualização de dados`, `machine learning`, `deep learning`, `sistemas especialistas`, `estatística`, `e mais`
 [CyberSecurity](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/cybersecurity.md) | 20+ semanas | Média de  4 h/semana | `segurança`, `pentest`, `criptografia`, `autenticação`, `análise`, `estatística`, `e mais`
-[DevOps](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/devops.md) | 30+ semanas | Média de  2 h/semana | `devops`, `infraestrutura`, `container`, `docker`, `kubernates`, `CI/CD`, `e mais`
+[DevOps](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/devops.md) | 30+ semanas | Média de  2 h/semana | `devops`, `infraestrutura`, `container`, `docker`, `kubernetes`, `CI/CD`, `e mais`
 
 ## Como demonstrar o meu progresso?
 
-A melhor forma de demonstrar sua evolução e maturidade ao longo do currículo é através de projetos práticos que demonstrem um pouco do que você aprendeu em cada disciplina, isso vai desde projetos guiados em muitas disciplinas, até projetos que você decida fazer para se testar e construir coisas com o que aprendeu. Compartilhar sobre os projetos que tem feito ao longo do Curso, seja através de redes sociais, blogues, tutoriais, streaming... vai demonstrar para as pessoas do meio técnico e de outros meios o quanto você aprendeu e evoluiu ao longo dessa jornada.
+A melhor forma de demonstrar sua evolução e maturidade ao longo do currículo é por meio de projetos práticos que demonstrem um pouco do que você aprendeu em cada disciplina, isso vai desde projetos guiados em muitas disciplinas, até projetos que você decida fazer para se testar e construir coisas com o que aprendeu. Compartilhar sobre os projetos que tem feito ao longo do Curso, seja por meio de redes sociais, blogues, tutoriais, streaming... vai demonstrar para as pessoas do meio técnico e de outros meios o quanto você aprendeu e evoluiu ao longo dessa jornada.
 
 Não deixe de hospedar todos os seus códigos em seu perfil do GitHub, mesmo que sejam pequenos projetos ou apenas exercícios eles podem demonstrar muito sobre o que você tem estudado, como você resolve problemas e o quanto você melhorou ao longo do tempo.
 
@@ -320,4 +320,4 @@ Nosso muito obrigado a todas essas pessoas!
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-*E a todos os outros educadores, produtores de conteúdo e pessoas que contribuiram com esse projeto, mas não possuem perfil ou ainda não os encontramos!*
+*E a todos os outros educadores, produtores de conteúdo e pessoas que contribuíram com esse projeto, mas não possuem perfil ou ainda não os encontramos!*
