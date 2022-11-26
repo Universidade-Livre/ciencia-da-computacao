@@ -8,6 +8,7 @@ Curso | Duração | Dedicação
 :-- | :--: | :--:
 [Programação Linear](https://www.youtube.com/channel/UCYe-qV12CP64BewDy2-BY5A/playlists) | 3 semanas | 8 horas/semana
 [Desenvolvimento Orientado a Tipos](https://www.youtube.com/playlist?list=PLYItvall0TqKaY6qObQMlZ45Bo94xq9Ym) | 3 semanas | 8 horas/semana
+[Engenharia Reversa do Zero](https://www.youtube.com/watch?v=IkUfXfnnKH4&list=PLIfZMtpPYFP6zLKlnyAeWY1I85VpyshAA) | -- | --
 
 ## Ferramentas
 
