@@ -270,8 +270,8 @@ O que fazer após isso? Bem, na verdade as possibilidades são sem limites e int
   - [Leonardo Fiedler](https://github.com/leonardoFiedler): Mantenedor da Especialização em Ciência de Dados
   - [Jefferson Quesado](https://github.com/jeffque): Mantenedor da Especialização em Desenvolvimento Web
   - [Marcus Rodrigues](https://github.com/mavinsi): Mantenedor do Site do Projeto
-  - [Rotfuchs](https://github.com/Rotfuchs-von-Vulpes): Moderador da Comunidade
-  - [Castelo](https://github.com/elvcastelo): Moderador da Comunidade 
+  - [Rotfuchs von Vulpes](https://github.com/Rotfuchs-von-Vulpes): Moderador da Comunidade
+  - [Emanuel Castelo](https://github.com/elvcastelo): Moderador da Comunidade 
   - [Gustavo Schneider](https://github.com/SttavoS): Moderador da Comunidade 
 
 ## Contribuidores
