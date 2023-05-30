@@ -20,6 +20,7 @@ Curso | Duração | Dedicação | Conteúdos
 [Configurar chaves públicas e privadas](https://www.youtube.com/watch?v=7BEsfupYngE) | 1 semana | 2 horas/semana | Chaves de autenticação
 [Curso de Engenharia Reversa Online](https://hackaflag.com.br/academy.html) | 6 semanas | 2 horas/semana | Introduçao Engenharia Reversa
 [Teoría e Ferramentas de Comando e Controle](https://www.youtube.com/watch?v=bUqu8fh7xUg) | 4 dias | 2 horas/dia | Hacking - Ferramentas de Comando e Controle
+[Curso Python para Pentesters](https://www.youtube.com/watch?v=KsUTiurSGJM&list=PLY-Tw02f5SDIP3CRtcaenRQc8Yz52m6XZ) | 12 semanas | 3 horas/semana | Python; Programação paralela e concorrente; Redes de computadores; Segurança ofensiva
 
 Observações:
 * Material em inglês
