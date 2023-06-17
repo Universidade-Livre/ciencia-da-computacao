@@ -6,6 +6,7 @@ Curso | Duração | Dedicação | Conteúdos
 :-- | :--: | :--: | :--:
 [HTML e CSS, Parte I](https://www.cursoemvideo.com/curso/html5-css3-modulo1/) | 5 Semanas | 8 horas/semana | Tags; Hierarquias; Semântica.
 [HTML e CSS, Parte II](https://www.cursoemvideo.com/curso/curso-html5-e-css3-modulo-2-de-5-40-horas/) | 5 Semanas | 8 horas/semana | Elementos; IDs; Variáveis.
+[Rockeseat Discover - Dos fundamentos ao seu primeiro projet](https://www.rocketseat.com.br/discover) | 3 dias | 2 horas/dia | HTML; CSS; Javascript.
 [JavaScript Básico](https://www.cursoemvideo.com/curso/javascript/) | 5 Semanas | 8 horas/semana | Sintaxe; DOM; Funções.
 [Curso de JavaScript ES6](https://www.youtube.com/playlist?list=PLWhiA_CuQkbCX9nHuk4rolDYxlLUwXpNI) | 4 Semanas | 2 horas/semana | Módulos; Async/Await; Promisses; Estrutura de Dados.
 [Debuggando JavaScript](https://www.youtube.com/playlist?list=PLg2lQYZDBwORqALpRkVPXEdgOloQz8sux) | - | 30 minutos | Logs; DEV Tools.
