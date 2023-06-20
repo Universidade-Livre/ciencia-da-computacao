@@ -1,6 +1,6 @@
 # Livros Sobre a Área de Computação:
 
-1 - [Entendendo Algoritmos: Um Guia Ilustrado Para Programadores e Outros Curiosos](https://www.amazon.com.br/Algoritmos-Teoria-Pr%C3%A1tica-Thomas-Cormen/dp/8535236996/ref=asc_df_8535236996/?tag=googleshopp00-20&linkCode=df0&hvadid=379707181411&hvpos=&hvnetw=g&hvrand=13813726138626692774&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9047717&hvtargid=pla-1002925180312&psc=1)
+1 - [Entendendo Algoritmos: Um Guia Ilustrado Para Programadores e Outros Curiosos](https://www.amazon.com.br/Algoritmos-Teoria-Pr%C3%A1tica-Thomas-Cormen/dp/8535236996/)
 
 2 - [Algoritmos - Teoria e Prática](https://www.amazon.com.br/Utilizando-UML-Padr%C3%B5es-Introdu%C3%A7%C3%A3o-Desenvolvimento-ebook/dp/B016V9PZXA)
 
@@ -18,7 +18,7 @@
 
 9 - [Introdução à Programação com Python: Algoritmos e Lógica de Programação Para Iniciantes](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-Programa%C3%A7%C3%A3o-com-Python-Algoritmos/dp/8575227181)
 
-10 - [Pense em Python: Pense Como um Cientista da Computação](https://www.amazon.com.br/Pense-Python-Como-Cientista-Computa%C3%A7%C3%A3o/dp/8575225081/ref=asc_df_8575225081/?tag=googleshopp00-20&linkCode=df0&hvadid=379792215563&hvpos=&hvnetw=g&hvrand=6079631020087353420&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9047717&hvtargid=pla-812887615377&psc=1)
+10 - [Pense em Python: Pense Como um Cientista da Computação](https://www.amazon.com.br/Pense-Python-Como-Cientista-Computa%C3%A7%C3%A3o/dp/8575225081)
 
 11 - [Artificial Intelligence: A Modern Approach](https://www.amazon.com.br/Artificial-Intelligence-Approach-Stuart-Russell/dp/0134610997)
 
@@ -28,6 +28,6 @@
 
 14 - [Problemas Clássicos de Ciência da Computação com Python](https://www.amazon.com.br/Data-Science-para-neg%C3%B3cios-Fawcett/dp/8576089726)
 
-15 - [O codificador limpo: Um código de conduta para programadores profissionais](https://www.amazon.com.br/dp/8576086476/ref=sspa_dk_detail_1?psc=1&pd_rd_i=8576086476&pd_rd_w=MycdE&content-id=amzn1.sym.ee659638-f9d2-4b85-bd9d-168940f9e834&pf_rd_p=ee659638-f9d2-4b85-bd9d-168940f9e834&pf_rd_r=2AP2X3F2SRX5491QHR6K&pd_rd_wg=3wIFb&pd_rd_r=2daae79a-640a-4ec9-975f-c0e845a53314&s=books&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzU08xUEpRMjRWSzJUJmVuY3J5cHRlZElkPUEwMzkwMDczRjNMRjEzTTdFWkxRJmVuY3J5cHRlZEFkSWQ9QTA0MTAyMDAxRENROVJDOVQ1WUM5JndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
+15 - [O codificador limpo: Um código de conduta para programadores profissionais](https://www.amazon.com.br/dp/8576086476)
 
 
