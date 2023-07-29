@@ -5,6 +5,9 @@ A área da segurança da informação vem crescendo cada vez mais com a ascenç�
 Curso | Duração | Dedicação | Conteúdos
 :-- | :--: | :--: | :--:
 [Introdução a CiberSegurança*](https://www.edx.org/course/introduction-to-cybersecurity) |  6 semanas | 3 horas/semana | Segurança; Introdução
+[Network Security Associate 1](https://training.fortinet.com/local/staticpage/view.php?page=nse_1) | 1 Dia | 1 horas/Dia | Introdução
+[Network Security Associate 2](https://training.fortinet.com/local/staticpage/view.php?page=nse_2) | 1 Dia | 3 horas/Dia | Introdução
+[Network Security Associate 3](https://training.fortinet.com/local/staticpage/view.php?page=nse_3) | 1 Dia | 4.2 horas/Dia | Introdução
 [Fundamentos CiberSegurança*](https://www.udemy.com/course/certified-secure-netizen/) | 2 semanas | 2 horas/semana | Nomenclaturas; Encriptação; Fundamentos
 [OWASP do início*](https://www.udemy.com/course/owasp-zap-from-scratch/) | 2 semanas | 2 horas/semana | OWASP; Força bruta
 [Introdução ao Hacking e Pentest](https://solyd.com.br/treinamentos/introducao-ao-hacking-e-pentest-2/) | 4 semanas | 2 horas/semana | Pentest; Vulnerabilidades
