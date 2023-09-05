@@ -21,6 +21,6 @@ Curso | Duração | Dedicação | Conteúdos
 
 
 Observações:
-* Material em inglês
+[*] Material em inglês
 
 certificações em construção.
