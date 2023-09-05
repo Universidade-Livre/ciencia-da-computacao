@@ -7,7 +7,7 @@ Curso | Duração | Dedicação | Conteúdos
 [Introdução a CiberSegurança*](https://www.edx.org/course/introduction-to-cybersecurity) |  6 semanas | 3 horas/semana | Segurança; Introdução
 [Fundamentos CiberSegurança*](https://www.udemy.com/course/certified-secure-netizen/) | 2 semanas | 2 horas/semana | Nomenclaturas; Encriptação; Fundamentos
 [Cybersecurity](https://eucapacito.com.br/curso-ec/cybersecurity) | 2 semanas | 4.3 horas/semana | Segurança;
-[Segurança em nuvem e engenharia de rede](https://cloud.google.com/training/networking-security?hl=pt-br)
+[Segurança em nuvem e engenharia de rede](https://cloud.google.com/training/networking-security?hl=pt-br) | -- | -- | Segurança; Nuvem;
 [OWASP do início*](https://www.udemy.com/course/owasp-zap-from-scratch/) | 2 semanas | 2 horas/semana | OWASP; Força bruta
 [Introdução ao Hacking e Pentest](https://solyd.com.br/treinamentos/introducao-ao-hacking-e-pentest-2/) | 4 semanas | 2 horas/semana | Pentest; Vulnerabilidades
 [Forense Digital*](https://acaditi.com.br/essentials-series/#dfe) | 8 semanas | 5 horas/semana | Essencial de Forense Digital
