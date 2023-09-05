@@ -10,6 +10,7 @@ Curso | Duração | Dedicação | Conteúdos
 [Segurança em nuvem e engenharia de rede](https://cloud.google.com/training/networking-security?hl=pt-br) | -- | -- | Segurança; Nuvem;
 [OWASP do início*](https://www.udemy.com/course/owasp-zap-from-scratch/) | 2 semanas | 2 horas/semana | OWASP; Força bruta
 [Introdução ao Hacking e Pentest](https://solyd.com.br/treinamentos/introducao-ao-hacking-e-pentest-2/) | 4 semanas | 2 horas/semana | Pentest; Vulnerabilidades
+[Introdução ao Pentest na prática ](https://desecsecurity.com/curso/introducao-pentest) | 1 dia | 4 horas/dia | Pentest; Vulnerabilidades
 [Forense Digital*](https://acaditi.com.br/essentials-series/#dfe) | 8 semanas | 5 horas/semana | Essencial de Forense Digital
 [Sistema de SIEM*](https://www.elastic.co/training/elastic-security-fundamentals-siem) | 1 dia | 4 horas/dia | Exemplo e Introdução à SIEM
 [O que é SAST?](https://www.microfocus.com/pt-br/what-is/sast) | 1 semana | 2 horas/semana | Estático; Análise
