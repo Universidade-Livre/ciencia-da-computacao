@@ -7,4 +7,4 @@ Curso | Duração | Dedicação | Conteúdos
 :-- | :--: | :--: | :--:
 [Mobile Marketing](https://eucapacito.com.br/curso-ec/mobile-marketing) | 3 semanas | 3 horas/semana | Linux; Fundamentos
 
-(*Em construção*)
+Especialização em construção
