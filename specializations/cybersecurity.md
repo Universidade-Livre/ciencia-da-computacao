@@ -25,6 +25,11 @@ Curso | Duração | Dedicação | Conteúdos
 [Teoría e Ferramentas de Comando e Controle](https://www.youtube.com/watch?v=bUqu8fh7xUg) | 4 dias | 2 horas/dia | Hacking - Ferramentas de Comando e Controle
 [Curso Python para Pentesters](https://www.youtube.com/watch?v=KsUTiurSGJM&list=PLY-Tw02f5SDIP3CRtcaenRQc8Yz52m6XZ) | 12 semanas | 3 horas/semana | Python; Programação paralela e concorrente; Redes de computadores; Segurança ofensiva
 
+**Treinamento Prático em Segurança Cibernética com PortSwigger**
+
+Para se destacar na área de Segurança da Informação e combater as ameaças digitais, é fundamental ir além da teoria. O site [PortSwigger](https://portswigger.net/) oferece treinamento gratuito em testes de penetração (pentest), permitindo que você pratique suas habilidades em ambientes simulados. A teoria é importante, mas a prática é essencial para enfrentar os desafios reais da segurança cibernética. Invista em treinamentos práticos para se tornar um especialista em proteger sistemas e redes digitais.
+
+
 Observações:
 (*) Material em inglês
 
