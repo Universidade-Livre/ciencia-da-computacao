@@ -6,8 +6,11 @@ Curso | Duração | Dedicação | Conteúdos
 :-- | :--: | :--: | :--:
 [Introdução a CiberSegurança*](https://www.edx.org/course/introduction-to-cybersecurity) |  6 semanas | 3 horas/semana | Segurança; Introdução
 [Fundamentos CiberSegurança*](https://www.udemy.com/course/certified-secure-netizen/) | 2 semanas | 2 horas/semana | Nomenclaturas; Encriptação; Fundamentos
+[Cybersecurity](https://eucapacito.com.br/curso-ec/cybersecurity) | 2 semanas | 4.3 horas/semana | Segurança;
+[Segurança em nuvem e engenharia de rede](https://cloud.google.com/training/networking-security?hl=pt-br) | -- | -- | Segurança; Nuvem;
 [OWASP do início*](https://www.udemy.com/course/owasp-zap-from-scratch/) | 2 semanas | 2 horas/semana | OWASP; Força bruta
 [Introdução ao Hacking e Pentest](https://solyd.com.br/treinamentos/introducao-ao-hacking-e-pentest-2/) | 4 semanas | 2 horas/semana | Pentest; Vulnerabilidades
+[Introdução ao Pentest na prática ](https://desecsecurity.com/curso/introducao-pentest) | 1 dia | 4 horas/dia | Pentest; Vulnerabilidades
 [Forense Digital*](https://acaditi.com.br/essentials-series/#dfe) | 8 semanas | 5 horas/semana | Essencial de Forense Digital
 [Sistema de SIEM*](https://www.elastic.co/training/elastic-security-fundamentals-siem) | 1 dia | 4 horas/dia | Exemplo e Introdução à SIEM
 [O que é SAST?](https://www.microfocus.com/pt-br/what-is/sast) | 1 semana | 2 horas/semana | Estático; Análise
@@ -21,8 +24,14 @@ Curso | Duração | Dedicação | Conteúdos
 [Curso de Engenharia Reversa Online](https://hackaflag.com.br/academy.html) | 6 semanas | 2 horas/semana | Introduçao Engenharia Reversa
 [Teoría e Ferramentas de Comando e Controle](https://www.youtube.com/watch?v=bUqu8fh7xUg) | 4 dias | 2 horas/dia | Hacking - Ferramentas de Comando e Controle
 [Curso Python para Pentesters](https://www.youtube.com/watch?v=KsUTiurSGJM&list=PLY-Tw02f5SDIP3CRtcaenRQc8Yz52m6XZ) | 12 semanas | 3 horas/semana | Python; Programação paralela e concorrente; Redes de computadores; Segurança ofensiva
+[PortSwigger](https://portswigger.net/) | -- | -- | Segurança ofensiva; Segurança; Pentest; owasp;
+
+**Treinamento Prático em Segurança Cibernética com PortSwigger**
+
+Para se destacar na área de Segurança da Informação e combater as ameaças digitais, é fundamental ir além da teoria. O site [PortSwigger](https://portswigger.net/) oferece treinamento gratuito em testes de penetração (pentest), permitindo que você pratique suas habilidades em ambientes simulados. A teoria é importante, mas a prática é essencial para enfrentar os desafios reais da segurança cibernética. Invista em treinamentos práticos para se tornar um especialista em proteger sistemas e redes digitais.
+
 
 Observações:
-* Material em inglês
+(*) Material em inglês
 
 Especialização em construção.

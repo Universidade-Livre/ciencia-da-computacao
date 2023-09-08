@@ -6,7 +6,12 @@ Curso | Duração | Dedicação | Conteúdos
 :-- | :--: | :--: | :--:
 [HTML e CSS, Parte I](https://www.cursoemvideo.com/curso/html5-css3-modulo1/) | 5 Semanas | 8 horas/semana | Tags; Hierarquias; Semântica.
 [HTML e CSS, Parte II](https://www.cursoemvideo.com/curso/curso-html5-e-css3-modulo-2-de-5-40-horas/) | 5 Semanas | 8 horas/semana | Elementos; IDs; Variáveis.
+[HTML e CSS, Parte III](https://www.cursoemvideo.com/curso/curso-html5-e-css3-modulo-3-de-5-40-horas/) | 2 Semanas | 3 horas/semana | Git; Github; Tabela
+[HTML e CSS, Parte III](https://www.cursoemvideo.com/curso/curso-html5-e-css3-modulo-4-de-5-40-horas/) | 2 Semanas | 3 horas/semana | iframes; Media Queries;
 [JavaScript Básico](https://www.cursoemvideo.com/curso/javascript/) | 5 Semanas | 8 horas/semana | Sintaxe; DOM; Funções.
+[WordPress Módulo 1](https://www.cursoemvideo.com/curso/wordpress-2019-profissional-com-gutenberg/) | 2 Semanas | 3 horas/semana | WordPress; Fundamentos
+[WordPress Módulo 2](https://www.cursoemvideo.com/curso/wordpress-modulo-2-seguranca-performance-e-recursos-avancados/) | 2 Semanas | 3 horas/semana | WordPress
+[WordPress + WooCommerce Módulo 3](https://www.cursoemvideo.com/curso/curso-loja-online/) | 2 Semanas | 3 horas/semana | WordPress
 [Curso de JavaScript ES6](https://www.youtube.com/playlist?list=PLWhiA_CuQkbCX9nHuk4rolDYxlLUwXpNI) | 4 Semanas | 2 horas/semana | Módulos; Async/Await; Promisses; Estrutura de Dados.
 [Debuggando JavaScript](https://www.youtube.com/playlist?list=PLg2lQYZDBwORqALpRkVPXEdgOloQz8sux) | - | 30 minutos | Logs; DEV Tools.
 [Curso de SASS](https://www.youtube.com/watch?v=XwPSWKnZIg4&list=PL97KElaimHeGRtfkksKwxg6IGVZi_cR7J) | 2 Semanas | 2 horas/semana | Preprocessamento CSS; Mixin; Output.
@@ -16,3 +21,4 @@ Curso | Duração | Dedicação | Conteúdos
 [Curso de React](https://www.youtube.com/playlist?list=PLx4x_zx8csUh752BVDGZkxYpY9lS40fyC) | 4 Semanas | 4 horas/semana | Componentes; Estado; Hooks; API; Navegação.
 [Mini-curso de TypeScript](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_) | 2 Semanas | 2 horas/semana | Tipos; Compilador; Classes; Generics.
 [Node (Express) com TypeScript](https://www.youtube.com/playlist?list=PLn3kOoc0oI2cQDdUEQxj75sxgRH53DmSc) | 2 Semanas | 2 horas/semana | Rotas; JWT; Tipos; Optionals.
+[Curso de PHP Parte I](https://www.cursoemvideo.com/curso/curso-de-php-moderno-modulo-01/) | 2 Semanas | 3 horas/semana | PHP

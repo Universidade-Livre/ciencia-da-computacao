@@ -196,6 +196,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Leitura Recomen
 :-- | :--: | :--: | :--: | :--: | :--:
 [Programação Orientada a Objetos I](https://pt.coursera.org/learn/lab-poo-parte-1) | 6 Semanas | 4 horas/semana | OOP; Streams; MVC; Design Patterns. | Introdução à Ciência da Computação com Python II | Deitel, Paul e Deitel, Harvey. Java: como programar.
 [Bancos de Dados](https://cursos.univesp.br/courses/3129) | 4 Semanas | 3 horas/semana | MER; Projeto de Banco de Dados; Normalização; SQL. | - | -
+[Bancos de Dados MYSQL - Curso em Vídeo](https://www.cursoemvideo.com/curso/mysql/) | 4 Semanas | 3 horas/semana | MER; Projeto de Banco de Dados; Normalização; SQL. | - | -
 [Arquitetura de Computadores II](https://www.youtube.com/playlist?list=PLEUHFTHcrJmsqKX-GDD-hBvkF8h2_BfKJ) | 9 Semanas | 4 horas/semana | Cache; Paralelismo; ASM; RISC-V. | Arquitetura de Computadores I | Tanenbaum, Andrews S. Organização Estruturada de Computadores.
 [Algebra Linear I](https://www.youtube.com/playlist?list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI) | 4 Semanas | 3 horas/semana | Sistemas lineares; Vetores; Espaços Vetoriais. | Fundamentos Matemáticos para Computação | Strang, Gilbert. Álgebra linear e suas aplicações
 [Princípios de Desenvolvimento Ágil de Software](https://pt.coursera.org/learn/principios-de-desenvolvimento-agil-de-software) | 9 Semanas | 4 horas/semana | XP; User Stories; Tasks; Sprint; Diagramas. | - | -
@@ -238,7 +239,7 @@ Especialização     | Duração     | Dedicação                | Áreas de At
 [Embarcados](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/embedded_systems.md)         | 31 semanas  | Média de 4 h/semana | `internet das coisas`, `controles industriais`, `coisas inteligentes`, `wearables`, `cidades inteligentes`, `automobilismo`, `e mais`
 [Desenvolvimento Web](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/web_development.md) | 37 semanas | Média de  4 h/semana | `aplicações em servidor`, `layout de páginas web`, `sistemas on-line`, `APIs`, `computação em nuvem`, `streaming`, `e mais`
 [Ciência de Dados](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/data_science.md) | 25+ semanas | Média de  4 h/semana | `análise de dados`, `visualização de dados`, `machine learning`, `deep learning`, `sistemas especialistas`, `estatística`, `e mais`
-[CyberSecurity](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/cybersecurity.md) | 20+ semanas | Média de  4 h/semana | `segurança`, `pentest`, `criptografia`, `autenticação`, `análise`, `estatística`, `e mais`
+[CyberSecurity](https://github.com/CarlosEduardoLemos/ciencia-da-computacao/blob/main/specializations/cybersecurity.md) | 20+ semanas | Média de  4 h/semana | `segurança`, `pentest`, `criptografia`, `autenticação`, `análise`, `estatística`, `e mais`
 [DevOps](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/devops.md) | 30+ semanas | Média de  2 h/semana | `devops`, `infraestrutura`, `container`, `docker`, `kubernetes`, `CI/CD`, `e mais`
 
 ## Como demonstrar o meu progresso?

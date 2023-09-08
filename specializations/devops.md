@@ -11,9 +11,11 @@ Texto retirado do: https://www.redhat.com/pt-br/topics/devops
 Curso | Duração | Dedicação | Conteúdos
 :-- | :--: | :--: | :--:
 [Curso de Linux](https://www.youtube.com/playlist?list=PLucm8g_ezqNp92MmkF9p_cj4yhT-fCTl7) | 6 semanas | 2 horas/semana | Curso Completo para LPIC-1 Linux,  dando base para entendimento do sistema
+[Linux Fundamentos](https://eucapacito.com.br/curso-ec/linux-fundamentos) | 2 semanas | 3 horas/semana | Linux; Fundamentos
 [Linux Essentials](https://4linux.com.br/cursos/treinamento/linux-essentials/) | 12 semanas | 2 horas/semana | GNU/Linux; Conhecimentos para a Linux Essentials
 [Curso Básico de Bash](https://www.youtube.com/playlist?list=PLXoSGejyuQGpf4X-NdGjvSlEFZhn2f2H7) | 4 semanas | 2 horas/semana | Básico de Bash
 [Curso de Shell Scripting](https://www.youtube.com/playlist?list=PLucm8g_ezqNrYgjXC8_CgbvHbvI7dDfhs) | 2 semanas | 2 horas/semana | Shell Scripting
+[DevOps & Agile Culture](https://eucapacito.com.br/curso-ec/devops-agile-culture) | 2 semanas | 4.3 horas/semana | Devops
 [DevOps Essentials](https://4linux.com.br/cursos/treinamento/devops-essentials/) | 12 semanas | 2 horas/semana | Entender a cultura DevOps; Ferramentas; Pipeline
 [Cloud Essentials](https://4linux.com.br/cursos/treinamento/cloud-fundamentals/) | 12 semanas | 2 horas/semana | IaaS, PaaS e SaaS; GCP/AWS/Azure; SSH
 [Curso de Introdução ao Vagrant](https://www.youtube.com/playlist?list=PLmSWX0ePcw4j6xaMvvTuYI0BgKadati5L) | 1 semana | 2 horas/semana | Introdução ao Vagrant e seus conceitos
