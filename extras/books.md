@@ -1,7 +1,7 @@
 # Livros Sobre a Área de Computação:
 
-- Entendendo Algoritmos: Um Guia Ilustrado Para Programadores e Outros Curiosos. A venda na [Amazon](https://www.amazon.com.br/Algoritmos-Teoria-Pr%C3%A1tica-Thomas-Cormen/dp/8535236996/)
-- Algoritmos - Teoria e Prática. A venda na [Amazon](https://www.amazon.com.br/Utilizando-UML-Padr%C3%B5es-Introdu%C3%A7%C3%A3o-Desenvolvimento-ebook/dp/B016V9PZXA)
+- Entendendo Algoritmos: Um Guia Ilustrado Para Programadores e Outros Curiosos. A venda na [Amazon](https://www.amazon.com.br/Entendendo-Algoritmos-Ilustrado-Programadores-Curiosos/dp/8575225634)
+- Algoritmos - Teoria e Prática. A venda na [Amazon](https://www.amazon.com.br/Algoritmos-Teoria-Pr%C3%A1tica-Thomas-Cormen/dp/8535236996/)
 - Utilizando UML e Padrões: Uma Introdução à Análise e ao Projeto Orientados a Objetos e ao Desenvolvimento Iterativo. A venda na [Amazon](https://www.amazon.com.br/Utilizando-UML-Padr%C3%B5es-Introdu%C3%A7%C3%A3o-Desenvolvimento-ebook/dp/B016V9PZXA)
 - Código limpo: Habilidades práticas do Agile Software. A venda na [Amazon](https://www.amazon.com.br/C%C3%B3digo-limpo-Robert-C-Martin/dp/8576082675)
 - Engenharia de Software: Uma Abordagem Profissional. A venda na [Amazon](https://www.amazon.com.br/Engenharia-Software-Uma-Abordagem-Profissional/dp/8580555337)
@@ -12,6 +12,6 @@
 - Pense em Python: Pense Como um Cientista da Computação. A venda na [Amazon](https://www.amazon.com.br/Pense-Python-Como-Cientista-Computa%C3%A7%C3%A3o/dp/8575225081)
 - Artificial Intelligence: A Modern Approach. A venda na [Amazon](https://www.amazon.com.br/Artificial-Intelligence-Approach-Stuart-Russell/dp/0134610997)
 - Data science para negócios: O que você precisa saber sobre mineração de dados e pensamento analítico de dados. A venda na [Amazon](https://www.amazon.com.br/Data-Science-para-neg%C3%B3cios-Fawcett/dp/8576089726)
-- Grafos: Teoria, Modelos, Algoritmos. A venda na [Amazon](https://www.amazon.com.br/Data-Science-para-neg%C3%B3cios-Fawcett/dp/8576089726)
-- Problemas Clássicos de Ciência da Computação com Python. A venda na [Amazon](https://www.amazon.com.br/Data-Science-para-neg%C3%B3cios-Fawcett/dp/8576089726)
+- Grafos: Teoria, Modelos, Algoritmos. A venda na [Amazon](https://www.amazon.com.br/Grafos-Paulo-Oswaldo-Boaventura-Netto/dp/8521206801)
+- Problemas Clássicos de Ciência da Computação com Python. A venda na [Amazon](https://www.amazon.com.br/Problemas-Cl%C3%A1ssicos-Ci%C3%AAncia-Computa%C3%A7%C3%A3o-Python/dp/8575228056)
 - O codificador limpo: Um código de conduta para programadores profissionais. A venda na [Amazon](https://www.amazon.com.br/dp/8576086476)
