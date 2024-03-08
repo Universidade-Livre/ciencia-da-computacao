@@ -1,6 +1,6 @@
 # Livros: Linguagens de Programação
 
-> Infelizmente, nessa seção a bibliografia está em inglês. Caso conheça materiais de qualidade sobre o assunto em Português, abra um PR.
+> #### ⚠️ Infelizmente, nessa seção a bibliografia está em inglês. Caso conheça materiais de qualidade sobre o assunto em Português, abra um PR.
 
 <hr>
 
