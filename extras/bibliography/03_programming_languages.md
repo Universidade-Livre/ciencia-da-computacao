@@ -97,7 +97,7 @@
 <table align="center">
     <tr>
         <th>Título</th>
-        <td>Programming Language Pragmatics/td>
+        <td>Programming Language Pragmatics</td>
     </tr>
     <tr>
         <th>Autores</th>
