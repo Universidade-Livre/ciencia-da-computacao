@@ -193,7 +193,7 @@ A grade curricular abaixo está dividida em etapas para melhor visualização
 | 4 | [Métodos Numéricos I](https://www.youtube.com/watch?v=a6nNQ6qKgiY&list=PLI9WiBCz67cPTTRER4CrsN0wpRN-NmjGA) | [Introdução à Ciência da Computação com Python I](https://www.coursera.org/learn/ciencia-computacao-python-conceitos)<br><br>[Cálculo I](https://www.youtube.com/watch?v=WgHUHPlJETs&list=PLAudUnJeNg4tr-aiNyYCXE46L3qEZ2Nzx) | [Livros sobre Métodos Numéricos](extras/bibliography/17_numeric_methods.md) |
 | 4 | [Banco de Dados](https://www.youtube.com/watch?v=pmAxIs5U1KI&list=PLxI8Can9yAHeHQr2McJ01e-ANyh3K0Lfq) | \- | [Livros sobre Bancos de Dados](extras/bibliography/18_database.md) |
 | 4 | [Arquitetura de Computadores II](https://www.youtube.com/playlist?list=PLEUHFTHcrJmsqKX-GDD-hBvkF8h2_BfKJ) | [Introdução à Ciência da Computação com Python II](https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2)<br><br>[Arquitetura de Computadores I](https://www.youtube.com/playlist?list=PLEUHFTHcrJmswfeq7QEHskgkT6HER3gK6) | [Livros sobre Arquitetura de Computadores](extras/bibliography/19_computer_architecture_II.md) |
-| 4 | | | |
+| 4 | [Programação Lógica](https://youtube.com/playlist?list=PLZ-Bk6jzsb-OScKa7vhpcQXoU2uxYGaFx&si=Y52_w6CQPYEE2fLN) | \- | [Livros sobre Programação Lógica](extras/bibliography/20_logical_programming.md) |
 
 ---
 
