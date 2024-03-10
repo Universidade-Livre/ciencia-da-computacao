@@ -226,7 +226,7 @@ A grade curricular abaixo está dividida em etapas para melhor visualização
 | 7 | [Deep Learning](https://www.youtube.com/watch?v=0VD_2t6EdS4&list=PL9At2PVRU0ZqVArhU9QMyI3jSe113_m2-) | [Inteligência Artificial](https://www.youtube.com/watch?v=-T3zDFxngf4&list=PLeejGOroKw_txh7j7S3etF5eudI2WvMx0) | [Livros sobre Deep Learning](extras/bibliography/32_deep_learning.md) |
 | 7 | [Compiladores](https://youtube.com/playlist?list=PLX6Nyaq0ebfhI396WlWN6WlBm-tp7vDtV&si=LoaU9lzLMuSVikgi) | [Estruturas de Dados](https://www.youtube.com/watch?v=0hT3EKGhbpI&list=PLndfcZyvAqbofQl2kLLdeWWjCcPlOPnrW)<br><br>[Teoria dos Grafos](https://www.youtube.com/watch?v=kfHqZLYHfHU&list=PLndfcZyvAqbr2MLCOLEvBNX6FgD8UNWfX) | [Livros sobre Compiladores](extras/bibliography/33_compilers.md) |
 | 7 | [Computação Quantica](https://youtube.com/playlist?list=PLUFcRbu9t-v4peHdmDy4rtG3EnbZNS86R&si=hLYHhS2BTKRgNwMJ) | [Cálculo III](https://www.youtube.com/watch?v=8mBTfk7s63s&list=PLAudUnJeNg4ugGUJo52dtgFZ_tCm1Ds5W)<br><br>[Arquitetura de Computadores II](https://www.youtube.com/playlist?list=PLEUHFTHcrJmsqKX-GDD-hBvkF8h2_BfKJ) | [Livros sobre Computação Quântica](extras/bibliography/34_quantum_copmputing.md) |
-| 7 | [Metodologia da Pesquisa](https://youtube.com/playlist?list=PLclUQno6PMpQO0-XrDwWsPzRzEvjwp1__&si=0dXojlZV5EisMB6s)  | | [Livros sobre Metodologia de Pesquisa](extras/bibliography/35_methodology.md) |
+| 7 | [Metodologia da Pesquisa](https://youtube.com/playlist?list=PLclUQno6PMpQO0-XrDwWsPzRzEvjwp1__&si=0dXojlZV5EisMB6s)  | \- | [Livros sobre Metodologia de Pesquisa](extras/bibliography/35_methodology.md) |
 <!--
 ## Eletivas
 
