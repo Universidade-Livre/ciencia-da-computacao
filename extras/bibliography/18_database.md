@@ -77,8 +77,9 @@ Sistemas de banco de dados apresenta de forma profunda e atualizada os aspectos 
 
 ## Sistemas de Gerenciamento de Bancos de Dados
 
+
 <p align="center">
-  <img src="https://github.com/Universidade-Livre/ciencia-da-computacao/assets/30880723/3bc6d1e0-6ded-421c-847d-b85d82e10513" width="550px">
+  <img src="https://github.com/Universidade-Livre/ciencia-da-computacao/assets/30880723/0d950f37-ba06-4670-8678-060a6bea7fb6" width="550px">
 </p>
 
 
