@@ -143,6 +143,12 @@ Curso | Conteúdos
 
 Você pode fazer os cursos na ordem, onde, e como preferir. Este é o maior benefício da liberdade. Entretanto, por fins didáticos e de organização, recomendamos que tente respeitar os pré-requisitos. Você perceberá que não cumprir com estes poderá criar obstáculos em sua jornada.
 
+### Dependências entre assuntos
+
+<img src="https://raw.githubusercontent.com/Universidade-Livre/dependencias-aulas/main/grafo_dependencias.svg">
+
+(_Clique na imagem para ampliar._)
+
 ## Obrigatórias
 
 A grade curricular abaixo está dividida em etapas para melhor visualização
