@@ -54,7 +54,7 @@ SOFTWARE.
     <img alt="LinkedIn" width="25" src="https://github.com/Universidade-Livre/imagens/blob/main/png/twitch.png">
   </a>
 </p>
-https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/CODE_OF_CONDUCT.md
+
 # Conteúdos
 
 - [Sumário](#sum%C3%A1rio)
