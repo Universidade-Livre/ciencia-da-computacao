@@ -54,15 +54,15 @@ SOFTWARE.
     <img alt="LinkedIn" width="25" src="https://github.com/Universidade-Livre/imagens/blob/main/png/twitch.png">
   </a>
 </p>
-
+https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/CODE_OF_CONDUCT.md
 # Conteúdos
 
-- [Sumário](https://github.com/Universidade-Livre/ciencia-da-computacao#sum%C3%A1rio)
-- [Comunidade](https://github.com/Universidade-Livre/ciencia-da-computacao#comunidade)
+- [Sumário](#sum%C3%A1rio)
+- [Comunidade](#comunidade)
 - [Técnicas de estudo, organização e aprendizagem](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/README.md#t%C3%A9cnicas-de-estudo-organiza%C3%A7%C3%A3o-e-aprendizagem)
-- [Currículo](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/README.md#curr%C3%ADculo)
-- [Código de Conduta](#)
-- [Time](https://github.com/Universidade-Livre/ciencia-da-computacao#time)
+- [Currículo](#curr%C3%ADculo)
+- [Código de Conduta](CODE_OF_CONDUCT.md)
+- [Time](#time)
 
 # Sumário
 
