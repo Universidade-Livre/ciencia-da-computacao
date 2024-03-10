@@ -59,7 +59,7 @@ SOFTWARE.
 
 - [Sumário](#sum%C3%A1rio)
 - [Comunidade](#comunidade)
-- [Técnicas de estudo, organização e aprendizagem](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/README.md#t%C3%A9cnicas-de-estudo-organiza%C3%A7%C3%A3o-e-aprendizagem)
+- [Técnicas de estudo, organização e aprendizagem](#t%C3%A9cnicas-de-estudo-organiza%C3%A7%C3%A3o-e-aprendizagem)
 - [Currículo](#curr%C3%ADculo)
 - [Código de Conduta](CODE_OF_CONDUCT.md)
 - [Time](#time)
