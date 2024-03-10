@@ -1,5 +1,3 @@
-> #### ⚠️ O repositório está passando por algumas mudanças devido a migração do velho para o novo currículo com conteúdos mais recentes, deve normalizar em breve.
-
 <!--
 MIT License
 
