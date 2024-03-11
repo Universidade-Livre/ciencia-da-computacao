@@ -259,7 +259,7 @@ Especialização     | Áreas de Atuação
 [Ciência de Dados](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/data_science.md)        | `análise de dados`, `visualização de dados`, `machine learning`, `deep learning`, `sistemas especialistas`, `estatística`, `e mais`
 [CyberSecurity](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/cybersecurity.md)          | `segurança`, `pentest`, `criptografia`, `autenticação`, `análise`, `estatística`, `e mais`
 [DevOps](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/devops.md) |  `devops`, `infraestrutura`, `container`, `docker`, `kubernetes`, `CI/CD`, `e mais`
-[Otimização de Algoritmos](#) | `em breve`
+[Design de Algoritmos](#) | `em breve`
 
 ## Como demonstrar o meu progresso?
 
