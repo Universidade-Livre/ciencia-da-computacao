@@ -1,5 +1,7 @@
 # Livros: Teoria da Computação
 
+> #### ⚠️ Infelizmente, nessa seção a bibliografia está em inglês. Caso conheça materiais de qualidade sobre o assunto em Português, abra um PR.
+
 <hr>
 
 ## Computability, Complexity, and Languages: Fundamentals of Theoretical Computer Science (Computer Science and Scientific Computing)
