@@ -141,7 +141,7 @@ Você pode fazer os cursos na ordem, onde, e como preferir. Este é o maior bene
 
 ### Dependências entre assuntos
 
-<img src="https://raw.githubusercontent.com/Universidade-Livre/dependencias-aulas/main/grafo_dependencias.svg">
+![image](https://github.com/user-attachments/assets/5e7b7047-e165-49b0-9b1e-ac355d68bd99)
 
 (_Clique na imagem para ampliar._)
 
