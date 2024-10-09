@@ -18,4 +18,4 @@ Sim, a ideia é que existam mais cursos além de Ciência da Computação. Futur
 Não. UBL é um guia de recursos educacionais que tem como objetivo auxiliar para que você aprenda os assuntos que normalmente são estudados em um curso universitário. Algumas pessoas envolvidas com a UBL podem estar trabalhando em outras empresas que podem oferecer algum tipo de certificação, mas a Universidade Livre Brasileira não está envolvida com qualquer emissão de certificado ou certificação.
 
 ### O [Camilo](https://github.com/Camilotk) comanda a UBL?
-Não. A UBL tem 4 pessoas na Administração com igual poder de decisão; não é uma ditadura.
+Não. A UBL tem 5 pessoas na Administração com igual poder de decisão; não é uma ditadura.
