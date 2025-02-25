@@ -1,7 +1,5 @@
 # Livros: Teoria da Computação
 
-> #### ⚠️ Infelizmente, nessa seção a bibliografia está em inglês. Caso conheça materiais de qualidade sobre o assunto em Português, abra um PR.
-
 <hr>
 
 ## Computability, Complexity, and Languages: Fundamentals of Theoretical Computer Science (Computer Science and Scientific Computing)
@@ -34,6 +32,39 @@
 
 <p align="justify">
     Computability, Complexity, and Languages is an introductory text that covers the key areas of computer science, including recursive function theory, formal languages, and automata. It assumes a minimal background in formal mathematics. The book is divided into five parts: Computability, Grammars and Automata, Logic, Complexity, and Unsolvability. Computability theory is introduced in a manner that makes maximum use of previous programming experience, including a "universal" program that takes up less than a page. The number of exercises included has more than tripled. Automata theory, computational logic, and complexity theory are presented in a flexible manner, and can be covered in a variety of different arrangements.
+</p>
+
+<hr>
+
+## Introdução á Teoria da Computação
+
+<p align="center">
+    <img src="https://m.media-amazon.com/images/I/610Mr7w4MlL._SL1005_.jpg" width="550px">
+</p>
+
+<table align="center">
+    <tr>
+        <th>Titulo</th>
+        <td>Introdução á teoria da computação</td>
+    </tr>
+    <tr>
+        <th>Autor</th>
+        <td>Michael Sipser</td>
+    </tr>
+    <tr>
+        <th>Ano de Publicação</th>
+        <td>2005</td>
+    </tr>
+    <tr>
+        <th>Edição</th>
+        <td>2.a edição.</td>
+    </tr>
+</table>
+
+### Descrição
+
+<p align="justify">
+    Esta obra apresenta a teoria da computação por meio de teoremas e provas, sempre com a preocupação do autor em mostrar a intuição por trás de cada resultado e em amenizar a leitura destas últimas, apresentando, para cada teorema, uma ideia da prova. Com este livro, através da prática de resolução de problemas, os alunos, nos exercícios, revisarão definições e conceitos da área e, nos problemas, irão se deparar com atividades que exigem maior engenhosidade. Os três últimos capítulos são novos, e esta 2ª edição incorpora as sugestões de professores e alunos enviadas ao autor ao longo dos anos. Contém material para mais de um semestre de curso, propiciando flexibilidade para escolha de tópicos a serem mais ou menos explorados.
 </p>
 
 <hr>
