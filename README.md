@@ -247,7 +247,7 @@ As disciplinas abaixo não estão divididas por semestre, por serem pouco numero
 
 ## Especializações
 
-Após ter concluído a formação geral, você já deve ter uma ampla visão sobre Ciência da Computação, seus fundamentos e aplicações e estará mais que preparado para escolher uma área de especialidade dentro de suas aplicações para se tornar especialista. A partir daqui não vamos mais elencar pré-requisitos, pois entendemos que com a bagagem da formação geral o aluno já consegue ter pleno conhecimento sobre como estudar temas complexos e decidir como e quando fazer cada curso sem necessitar de recomendação.
+Após ter concluído a formação geral, você já deve ter uma ampla visão sobre Ciência da Computação, seus fundamentos, e suas aplicações. Além disso, você deve estar mais preparado para escolher uma área de especialidade. Abaixo disponibilizamos algumas "carreiras" que o estudante pode escolher para seguir com sua especialização em Ciência da Computação. Sua estrutura deverá ser similar ao disposto na grade principal da UBL. Note que o termo "especialização" não é empregado no mesmo sentido de *pós-graduação lato sensu*, e ao invés disso se refere a uma gama de conteúdos que, se empregados na grade principal, a tornariam menos geral no que diz respeito aos conteúdos base que espera-se de todo cientista da computação. 
 
 Especialização     | Áreas de Atuação
 :--                | :--     
