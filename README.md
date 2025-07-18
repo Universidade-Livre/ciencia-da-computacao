@@ -245,6 +245,19 @@ As disciplinas abaixo não estão divididas por semestre, por serem pouco numero
 | 5        | [Algoritmos Probabilísticos](https://www.youtube.com/watch?v=-8BsuBl4vOE&list=PL6mfjjCaO1WpMf4T3AUVzzqkRIhmEemTB)       | Notação básica, Exemplos básicos, Análise probabilística de algoritmos, Ferramentas de probabilidade, Desigualdades básicas, Desigualdades de grandes desvios, Martingais, Método probabilístico, Cadeias de Markov, Método de Monte-Carlo, Construção de algoritmos probabilísticos, Aplicações para problemas NP-Difíceis, Análise de estruturas de dados em processos aleatórios, Geradores pseudoaleatórios, Classificação de problemas. | [Análise de Algoritmos](https://www.youtube.com/watch?v=_HBTCUNPxOg&list=PLncEdvQ20-mgGanwuFczm-4IwIdIcIiha)             | Mitzenmacher, M.; Upfal, E. Probability and computing: randomized algorithms and probabilistic analysis. Cambridge: Cambridge University Press, 2005. 370p. ISBN-13: 978-0521835404.<br><br>Motwani, R.; Raghavan, P. Randomized Algorithms. Cambridge: Cambridge University Press, 1995. 492p. ISBN-13: 978-0521474658.<br><br>Ross, S. Probability models for computer science. London: Academic Press, 2002. 288p. ISBN-13: 978-0125980517.                                          |
 -->
 
+## Plataformas para Exercícios e Fixação
+
+Durante seus estudos, é importante praticar para fixar o que foi aprendido. Separamos para você, algumas plataformas gratuítas onde poderá reforçar seu aprendizado.
+
+Plataforma | Conteúdos
+:-- | --: 
+[Beecrowd](https://judge.beecrowd.com/pt) | 	Resolução de problemas de programação e SQL. Ideal para testar a lógica com desafios de diferentes níveis e em várias linguagens.
+[Kaggle](https://www.kaggle.com/learn) | Projetos práticos de Data Science e IA. Oferece cursos, competições e notebooks interativos com Python e SQL.
+[HackerRank](https://www.hackerrank.com/) |Preparação para entrevistas técnicas. Focado em desafios de algoritmos, estruturas de dados e diversas linguagens como Java e SQL.
+[LeetCode](https://leetcode.com/) | Treinamento intensivo para entrevistas de emprego em big techs. Oferece um vasto banco de problemas, planos de estudo e discussões em fóruns.
+[SadServers](https://sadservers.com/) | Solução de problemas em servidores Linux. Simula cenários reais de erros para praticar administração de sistemas, infraestrutura e análise de logs.
+
+
 ## Especializações
 
 Após ter concluído a formação geral, você já deve ter uma ampla visão sobre Ciência da Computação, seus fundamentos, e suas aplicações. Além disso, você deve estar mais preparado para escolher uma área de especialidade. Abaixo disponibilizamos algumas "carreiras" que o estudante pode escolher para seguir com sua especialização em Ciência da Computação. Sua estrutura deverá ser similar ao disposto na grade principal da UBL. Note que o termo "especialização" não é empregado no mesmo sentido de *pós-graduação lato sensu*, e ao invés disso se refere a uma gama de conteúdos que, se empregados na grade principal, a tornariam menos geral no que diz respeito aos conteúdos base que espera-se de todo cientista da computação. 
