@@ -1,6 +1,42 @@
 # Livros: Programação Funcional
 
-> #### ⚠️ Infelizmente, nessa seção a bibliografia está em inglês. Caso conheça materiais de qualidade sobre o assunto em Português, abra um PR.
+<hr>
+
+## Aprender Haskell será um Grande Bem para Você
+
+<p align="center">
+  <img src="https://www.learnyouahaskell.com/newsplash.png" width="550px">
+</p>
+
+<table align="center">
+    <tr>
+        <th>Título</th>
+        <td>Aprender Haskell será um Grande Bem para Você</td>
+    </tr>
+    <tr>
+        <th>Autores</th>
+        <td>Miran Lipovača</td>
+    </tr>
+    <tr>
+        <th>Ano de Publicação</th>
+        <td>2011</td>
+    </tr>
+    <tr>
+        <th>Edição</th>
+        <td>1.a edição.</td>
+    </tr>
+    <tr>
+        <th>ISBN</th>
+        <td>9781593272838</td>
+    </tr>
+</table>
+
+### Descrição
+
+<p align="justify">
+Bem-vindo ao Aprender Haskell será um grande bem para você! Se você já está lendo isto, existem boas chances de você querer aprender Haskell. Muito bem, você já esta no lugar certo, mas antes vamos conversar um pouco sobre este tutorial. Este tutorial é destinado a pessoas que tenham experiência em linguagens de programação imperativa (C, C++, Java, Python …) sem terem programado antes em uma linguagem funcional (Haskell, ML, OCaml …). Apesar de que eu aposto que se você não tiver uma larga experiência em programação, um rápido capítulo como o que você irá acompanhar vai habilitá-lo a aprender Haskell. 
+</p>
+
 
 <hr>
 
