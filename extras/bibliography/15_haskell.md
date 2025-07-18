@@ -29,6 +29,10 @@
         <th>ISBN</th>
         <td>9781593272838</td>
     </tr>
+    <tr>
+        <th>Versão online</th>
+        <td><a href="https://haskell.tailorfontela.com.br/">https://haskell.tailorfontela.com.br</a></td>
+    </tr>
 </table>
 
 ### Descrição
@@ -67,6 +71,10 @@ Bem-vindo ao Aprender Haskell será um grande bem para você! Se você já está
         <th>ISBN</th>
         <td>9780486478838</td>
     </tr>
+    <tr>
+        <th>Última versão de rascunho (late draft)</th>
+        <td><a href="https://www.macs.hw.ac.uk/~greg/books/gjm.lambook88.pdf">https://www.macs.hw.ac.uk/~greg/books/gjm.lambook88.pdf</a></td>
+    </tr>
 </table>
 
 ### Descrição
@@ -104,6 +112,10 @@ Functional programming is rooted in lambda calculus, which constitutes the world
     <tr>
         <th>ISBN</th>
         <td>9780262510875</td>
+    </tr>
+    <tr>
+        <th>Versão online</th>
+        <td><a href="https://web.mit.edu/6.001/6.037/sicp.pdf">https://web.mit.edu/6.001/6.037/sicp.pdf</a></td>
     </tr>
 </table>
 
