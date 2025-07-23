@@ -4,7 +4,7 @@ A área da segurança da informação vem crescendo cada vez mais com a ascenç�
 
 Curso | Duração | Dedicação | Conteúdos
 :-- | :--: | :--: | :--:
-[Introdução a CiberSegurança*](https://www.edx.org/course/introduction-to-cybersecurity) |  6 semanas | 3 horas/semana | Segurança; Introdução
+[Introdução a CiberSegurança*](https://www.edx.org/learn/cybersecurity/harvard-university-cs50-s-introduction-to-cybersecurity) |  6 semanas | 3 horas/semana | Segurança; Introdução
 [Fundamentos CiberSegurança*](https://www.udemy.com/course/certified-secure-netizen/) | 2 semanas | 2 horas/semana | Nomenclaturas; Encriptação; Fundamentos
 [Cybersecurity](https://www.eucapacito.com.br/curso-ec/cybersecurity) |  6 semanas | 3 horas/semana | Segurança; Introdução
 [OWASP do início*](https://www.udemy.com/course/owasp-zap-from-scratch/) | 2 semanas | 2 horas/semana | OWASP; Força bruta
