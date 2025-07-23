@@ -292,6 +292,7 @@ O que fazer após isso? Bem, na verdade as possibilidades são sem limites e int
   - [Jefferson Quesado](https://github.com/jeffque): Moderador da Comunidade
   - [Aldair Meneses](https://github.com/aldair-meneses): Moderador da Comunidade
   - [Gabriel Carvalho](https://github.com/GabrielCASilva): Moderador da Comunidade
+  - [Diego Lucas](https://github.com/DiegoBreeg): Moderador da Comunidade
  
 ## Contribuidores
 Nosso muito obrigado a todas essas pessoas!
