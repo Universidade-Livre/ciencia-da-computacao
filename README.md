@@ -24,7 +24,7 @@ SOFTWARE.
 -->
 
 <p align="center">
-<img src="https://uploaddeimagens.com.br/images/003/361/136/original/placeholder.jpg">
+<img src="https://raw.githubusercontent.com/Universidade-Livre/imagens/refs/heads/main/outras/placeholder.png">
 </p>
 <p align="center">
 <h3 align="center">Universidade Brasileira Livre</h3>
@@ -298,12 +298,14 @@ O que fazer após isso? Bem, na verdade as possibilidades são sem limites e int
  ## Time
   - [Camilo Cunha de Azevedo](https://github.com/Camilotk): Fundador da ULivre
   - [Mateus Roveda](https://github.com/mateusrovedaa): Líder de Comunidade
-  - [Leonardo Fiedler](https://github.com/leonardoFiedler): Moderador da Comunidade
-  - [Jefferson Quesado](https://github.com/jeffque): Moderador da Comunidade
   - [Rotfuchs von Vulpes](https://github.com/Rotfuchs-von-Vulpes): Admin da Comunidade
   - [Emanuel Castelo](https://github.com/elvcastelo): Admin da Comunidade 
-  - [Ana Hernandes](https://github.com/anachan01h): Admin da Comunidade
-  - [Christian](https://github.com/Every2): Admin da Comunidade
+  - [Igor Vinoski](https://github.com/igorvinoski): Admin da Comunidade 
+  - [Leonardo Fiedler](https://github.com/leonardoFiedler): Moderador da Comunidade
+  - [Jefferson Quesado](https://github.com/jeffque): Moderador da Comunidade
+  - [Aldair Meneses](https://github.com/aldair-meneses): Moderador da Comunidade
+  - [Gabriel Carvalho](https://github.com/GabrielCASilva): Moderador da Comunidade
+  - [Diego Lucas](https://github.com/DiegoBreeg): Moderador da Comunidade
  
 ## Contribuidores
 Nosso muito obrigado a todas essas pessoas!
