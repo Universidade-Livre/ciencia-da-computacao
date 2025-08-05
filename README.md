@@ -80,7 +80,7 @@ Levamos em consideração - apesar de não termos implementado completamente con
 em Ciência da Computação. Continuaremos constantemente trabalhando e aceitando sugestões de melhorias para cada vez mais oferecer uma experiência
 melhor para todos os estudantes que seguem nosso guia aberto de conteúdos. Além das referências abaixo, também utilizamos como referência as grades curriculares de outras instituições de ensino superior brasileiras.
 
-- [Referenciais de Formação para os Cursos de Graduação em Computação 2017 (SBC)](https://www.sbc.org.br/documentos-da-sbc/send/131-curriculos-de-referencia/1165-referenciais-de-formacao-para-cursos-de-graduacao-em-computacao-outubro-2017)
+- [Referenciais de Formação para os Cursos de Graduação em Computação 2017 (SBC)](https://books-sol.sbc.org.br/index.php/sbc/catalog/view/134/586/904)
 - [Diretrizes Curriculares de Cursos da Área de Computação e Informática (UFRGS)](https://www.inf.ufrgs.br/site/wp-content/uploads/2016/05/diretrizes_curriculares.pdf)
 
 **Os Cursos devem**:
