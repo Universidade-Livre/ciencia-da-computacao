@@ -10,7 +10,7 @@ Curso | Duração | Dedicação | Conteúdos
 [OWASP do início*](https://www.udemy.com/course/owasp-zap-from-scratch/) | 2 semanas | 2 horas/semana | OWASP; Força bruta
 [Introdução ao Hacking e Pentest](https://solyd.com.br/treinamentos/introducao-ao-hacking-e-pentest-2/) | 4 semanas | 2 horas/semana | Pentest; Vulnerabilidades
 [Forense Digital*](https://acaditi.com.br/essentials-series/#dfe) | 8 semanas | 5 horas/semana | Essencial de Forense Digital
-[Sistemas de SIEM (Definição)](https://www.ibm.com/think/topics/siem), [Exemplo de SIEM (Elastic)](https://www.elastic.co/training/elastic-security-fundamentals-siem) | 1 semana | 2 horas/semana | Introdução e Exemplo à SIEM
+[Sistemas de SIEM (Definição)*](https://www.ibm.com/think/topics/siem), [Exemplo de SIEM (Elastic)*](https://www.elastic.co/training/elastic-security-fundamentals-siem) | 1 semana | 2 horas/semana | Introdução e Exemplo à SIEM
 [O que é SAST?](https://www.microfocus.com/pt-br/what-is/sast) | 1 semana | 2 horas/semana | Estático; Análise
 [O que é DAST?](https://www.microfocus.com/pt-br/what-is/dast) | 1 semana | 2 horas/semana | Dinâmico; Análise
 [O que é IAST?](https://www.nova8.com.br/2020/01/17/o-que-e-iast/) | 1 semana | 2 horas/semana | SAST; DAST; IAST
