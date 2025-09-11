@@ -259,6 +259,18 @@ Especialização     | Áreas de Atuação
 [DevOps](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/devops.md) |  `devops`, `infraestrutura`, `container`, `docker`, `kubernetes`, `CI/CD`, `e mais`
 [Design de Algoritmos](#) | `em breve`
 
+## Ferramentas para Exercícios e Fixação
+
+Durante seus estudos, é importante praticar para fixar o que foi aprendido! Separamos para você, algumas plataformas gratuítas onde poderá reforçar seu aprendizado.
+
+Plataforma | Conteúdos
+:-- | --: 
+[Beecrowd](https://judge.beecrowd.com/pt) | 	Resolução de problemas de programação e SQL. Ideal para testar a lógica com desafios de diferentes níveis e em várias linguagens.
+[Kaggle](https://www.kaggle.com/learn) | Projetos práticos de Data Science e IA. Oferece cursos, competições e notebooks interativos com Python e SQL.
+[HackerRank](https://www.hackerrank.com/) |Preparação para entrevistas técnicas. Focado em desafios de algoritmos, estruturas de dados e diversas linguagens como Java e SQL.
+[LeetCode](https://leetcode.com/) | Treinamento intensivo para entrevistas de emprego em big techs. Oferece um vasto banco de problemas, planos de estudo e discussões em fóruns.
+[SadServers](https://sadservers.com/) | Solução de problemas em servidores Linux. Simula cenários reais de erros para praticar administração de sistemas, infraestrutura e análise de logs.
+
 ## Como demonstrar o meu progresso?
 
 A melhor forma de demonstrar sua evolução e maturidade ao longo do currículo é por meio de exercícios. Estes exercícios podem ser os encontrados nas leituras recomendadas ou, em caso de disciplinas mais aplicadas, projetos práticos. Compartilhar sobre os projetos que tem feito ao longo do Curso, seja por meio de redes sociais, blogues, tutoriais, streaming... vai demonstrar para as pessoas do meio técnico e de outros meios o quanto você aprendeu e evoluiu ao longo dessa jornada.
