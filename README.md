@@ -91,7 +91,7 @@ melhor para todos os estudantes que seguem nosso guia aberto de conteúdos. Alé
 
 Todas as disciplinas possuem uma lista de leituras recomendadas. É de sua responsabilidade escolher a metodologia mais adequada. Note que os livros, em sua maioria, não são gratuitos.
 
-Cursos de qualidade recomendados que não se encaixam na grade serão adicionados em [cursos extras](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/extras/courses.md). O mesmo ocorrerá quanto aos livros em [livros extras](#).
+Cursos de qualidade recomendados que não se encaixam na grade serão adicionados em [cursos extras](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/extras/courses.md). O mesmo ocorrerá quanto aos livros em [livros extras](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/extras/books.md).
 
 
 **Todos os cursos podem ser completados de forma gratuita.** Porém, alguns cursos têm diplomas, certificados, atividades, ou extras opcionais que são pagos. Observe que o [Coursera](https://learner.coursera.help/hc/en-us/articles/209819033-Apply-for-Financial-Aid) oferece ajuda financeira.
