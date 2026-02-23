@@ -106,7 +106,7 @@ Apenas publique em seu GitHub e espaços públicos os materiais que seu Curso pe
 
 # Comunidade
 
-- Temos um servidor no Telegram! [![Telegram](ttps://telegram-badge.vercel.app/api/telegram-badge?channelId=%40universidadebrasileiralivre&style=social&label=Telegram&color=2AABEE)](t.me/universidadebrasileiralivre) Nele, você poderá encontrar e interagir com outros estudantes. Por que não se apresenta lá agora mesmo? [Vem para o Telegram](t.me/universidadebrasileiralivre).
+- Temos um servidor no Telegram! [![Telegram](https://telegram-badge.vercel.app/api/telegram-badge?channelId=%40universidadebrasileiralivre&style=social&label=Telegram&color=2AABEE)](t.me/universidadebrasileiralivre) Nele, você poderá encontrar e interagir com outros estudantes. Por que não se apresenta lá agora mesmo? [Vem para o Telegram](t.me/universidadebrasileiralivre).
 - Você também pode interagir sobre questões a respeito dos problemas do Curso, propor mudanças de Currículo e outras coisas relacionadas por meio das nossas [issues](https://github.com/Universidade-Livre/ciencia-da-computacao/issues). Sinta-se à vontade para abrir discussões lá.
 - Adicione a Universidade Brasileira Livre no seu perfil do [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6889534067805605889)!
 
