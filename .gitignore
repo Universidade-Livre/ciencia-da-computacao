@@ -1,0 +1,8 @@
+# Ignora todos os arquivos .log
+*.log
+
+# Ignora a pasta build/
+build/
+
+# Para ignorar o próprio .gitignore (não usual, mas possível):
+# .gitignore
