@@ -4,7 +4,7 @@
 **Áreas de aplicação**:
 `administração de banco de dados`
 `organização de tabelas de dados`
-`otimização de querys`
+`otimização de queries`
 `segurança de dados`
 `criação de rotinas de bd`
 `big data`
