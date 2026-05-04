@@ -49,7 +49,7 @@ SOFTWARE.
   </a>
 	
   <a href="https://www.twitch.tv/universidade_livre">
-    <img alt="LinkedIn" width="25" src="https://github.com/Universidade-Livre/imagens/blob/main/png/twitch.png">
+    <img alt="Twitch" width="25" src="https://github.com/Universidade-Livre/imagens/blob/main/png/twitch.png">
   </a>
 </p>
 
@@ -216,7 +216,7 @@ A grade curricular abaixo está dividida em etapas para melhor visualização
 |-------|----------------|----------------|---------------------|
 | 6 | [Linguagens Formais e Autômatos](https://www.youtube.com/watch?v=4zMwOozUt9U&list=PLncEdvQ20-mhD_qMeLHtLnA3XDT1Fr_k4&pp=iAQB) | [Matemática Discreta](https://www.youtube.com/watch?v=KGoSTh1sgyM&list=PL6mfjjCaO1WrEJ0JKRyXO3QjaPkJaSvAS) | [Livros sobre Linguagens Formais e Autômatos](extras/bibliography/26_automata_theory.md) |
 | 6 | [Inteligência Artificial](https://www.youtube.com/watch?v=-T3zDFxngf4&list=PLeejGOroKw_txh7j7S3etF5eudI2WvMx0) | [Estruturas de Dados](https://www.youtube.com/watch?v=0hT3EKGhbpI&list=PLndfcZyvAqbofQl2kLLdeWWjCcPlOPnrW)<br><br>[Probabilidade e Estatística](https://www.youtube.com/watch?v=snXf8YT7L3U&list=PLrOyM49ctTx8HWnxWRBtKrfcuf7ew_3nm) | [Livros sobre Inteligência Artificial](extras/bibliography/27_artificial_intelligence.md) |
-| 6 | [Sistemas Distribuídos](https://www.youtube.com/watch?v=TEEy5f46h_Q&list=PLP0bYj2MTFcuXa4-EbBKhvehr-rkxpeR8&index=1) | [Redes de Computadores](https://www.youtube.com/playlist?list=PLvHXLbw-JSPfKp65psX5C9tyNLHHC4uoR) | [Livros sobre Sistemas Distríbuidos](extras/bibliography/28_distributed_computing.md) |
+| 6 | [Sistemas Distribuídos](https://www.youtube.com/watch?v=TEEy5f46h_Q&list=PLP0bYj2MTFcuXa4-EbBKhvehr-rkxpeR8&index=1) | [Redes de Computadores](https://www.youtube.com/playlist?list=PLvHXLbw-JSPfKp65psX5C9tyNLHHC4uoR) | [Livros sobre Sistemas Distribuídos](extras/bibliography/28_distributed_computing.md) |
 | 6 | [Teoria dos Grafos](https://www.youtube.com/watch?v=kfHqZLYHfHU&list=PLndfcZyvAqbr2MLCOLEvBNX6FgD8UNWfX) | [Matemática Discreta](https://www.youtube.com/watch?v=KGoSTh1sgyM&list=PL6mfjjCaO1WrEJ0JKRyXO3QjaPkJaSvAS) | [Livros sobre Teoria dos Grafos](extras/bibliography/29_graphs.md) |
 | 6 | [Cálculo III](https://www.youtube.com/watch?v=8mBTfk7s63s&list=PLAudUnJeNg4ugGUJo52dtgFZ_tCm1Ds5W) | [Cálculo II](https://www.youtube.com/watch?v=lQdzRBRL9Tw&list=PLAudUnJeNg4sd0TEJ9EG6hr-3d3jqrddN) | [Livros sobre Cálculo III](extras/bibliography/30_multivariable_calculus.md) |
 
@@ -229,7 +229,7 @@ A grade curricular abaixo está dividida em etapas para melhor visualização
 | 7 | [Teoria da Computação](https://www.youtube.com/watch?v=dWRxL30aoes&list=PLYLYA7XrlskNgCeSpJf9PQHHb8Z4WpRm4) | [Linguagens Formais e Autômatos](https://www.youtube.com/watch?v=4zMwOozUt9U&list=PLncEdvQ20-mhD_qMeLHtLnA3XDT1Fr_k4&pp=iAQB) | [Livros sobre Teoria da Computação](extras/bibliography/31_theory_of_computation.md) |
 | 7 | [Deep Learning](https://www.youtube.com/watch?v=0VD_2t6EdS4&list=PL9At2PVRU0ZqVArhU9QMyI3jSe113_m2-) | [Inteligência Artificial](https://www.youtube.com/watch?v=-T3zDFxngf4&list=PLeejGOroKw_txh7j7S3etF5eudI2WvMx0) | [Livros sobre Deep Learning](extras/bibliography/32_deep_learning.md) |
 | 7 | [Compiladores](https://youtube.com/playlist?list=PLX6Nyaq0ebfhI396WlWN6WlBm-tp7vDtV&si=LoaU9lzLMuSVikgi) | [Estruturas de Dados](https://www.youtube.com/watch?v=0hT3EKGhbpI&list=PLndfcZyvAqbofQl2kLLdeWWjCcPlOPnrW)<br><br>[Teoria dos Grafos](https://www.youtube.com/watch?v=kfHqZLYHfHU&list=PLndfcZyvAqbr2MLCOLEvBNX6FgD8UNWfX) | [Livros sobre Compiladores](extras/bibliography/33_compilers.md) |
-| 7 | [Computação Quantica](https://youtube.com/playlist?list=PLUFcRbu9t-v4peHdmDy4rtG3EnbZNS86R&si=hLYHhS2BTKRgNwMJ) | [Cálculo III](https://www.youtube.com/watch?v=8mBTfk7s63s&list=PLAudUnJeNg4ugGUJo52dtgFZ_tCm1Ds5W)<br><br>[Arquitetura de Computadores II](https://www.youtube.com/playlist?list=PLEUHFTHcrJmsqKX-GDD-hBvkF8h2_BfKJ) | [Livros sobre Computação Quântica](extras/bibliography/34_quantum_computing.md) |
+| 7 | [Computação Quântica](https://youtube.com/playlist?list=PLUFcRbu9t-v4peHdmDy4rtG3EnbZNS86R&si=hLYHhS2BTKRgNwMJ) | [Cálculo III](https://www.youtube.com/watch?v=8mBTfk7s63s&list=PLAudUnJeNg4ugGUJo52dtgFZ_tCm1Ds5W)<br><br>[Arquitetura de Computadores II](https://www.youtube.com/playlist?list=PLEUHFTHcrJmsqKX-GDD-hBvkF8h2_BfKJ) | [Livros sobre Computação Quântica](extras/bibliography/34_quantum_computing.md) |
 | 7 | [Metodologia da Pesquisa](https://youtube.com/playlist?list=PLclUQno6PMpQO0-XrDwWsPzRzEvjwp1__&si=0dXojlZV5EisMB6s)  | \- | [Livros sobre Metodologia de Pesquisa](extras/bibliography/35_methodology.md) |
 <!--
 ## Eletivas
