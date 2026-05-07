@@ -358,3 +358,4 @@ Nosso muito obrigado a todas essas pessoas!
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 *E a todos os outros educadores, produtores de conteúdo e pessoas que contribuíram com esse projeto, mas não possuem perfil ou ainda não os encontramos!*
+Olá, mundo Git!
