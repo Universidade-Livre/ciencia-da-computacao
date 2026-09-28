@@ -126,6 +126,14 @@ Curso | Conteúdos
 
 ¹ Disponível com legendas em Português.
 
+# Matemática Básica
+
+A matemática está em muito mais lugares do que a gente imagina: no troco da padaria, na hora de dividir a conta com os amigos, no cálculo do tempo de uma viagem, no desconto que a loja promete. Quando você domina o básico, tudo isso fica mais fácil, e o resto do curso também. Na Ciência da Computação, esses conceitos aparecem o tempo todo, da lógica de programação até os algoritmos. Por isso vale a pena revisar essa base com calma.
+
+Curso | Conteúdos
+:-- | --: 
+[Matemática Básica](https://www.youtube.com/playlist?list=PLTPg64KdGgYhYpS5nXdFgdqEZDOS5lARB) | Operações básicas, porcentagem e proporção, Expressões numéricas, outros conteúdos
+
 ## Git e GitHub
 
 Conhecer ferramentas como o Git o ajudará a organizar seus projetos de estudo. O GitHub - ou outras plataformas como BitBucket ou GitLab - pode ser muito útil para trabalhar remotamente e compartilhar os seus projetos com colegas, além de poder usá-lo como portfólio em futuras oportunidades de trabalho.  
